@@ -13,8 +13,12 @@ sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
 # Import models
 import core.llms.phi3_mini_128_8b_instruct as phi3
-import core.llms.llama31_8b_instruct as llama31
-import core.llms.llama32_3b_instruct as llama32
+import core.llms.llama31_8b_instruct as llama31_8b
+import core.llms.llama32_3b_instruct as llama32_3b
+import core.llms.llama32_1b_instruct as llama32_1b
+import core.llms.gemma_3_1b_it as gemma1b
+import core.llms.gemma_3_4b_it as gemma4b
+import core.llms.gemma_3_27b_it as gemma27b
 
 # Import prompts
 from core.prompts import SYSTEM_PROMPT, SYSTEM_PROMPT_FEW_SHOT, USER_PROMPT_TEMPLATE
@@ -39,14 +43,22 @@ def seed_everything(seed: int):
 
 models = {
     "Phi-3": phi3.pipeline,
-    "Llama-3.1-8B": llama31.pipeline,
-    "Llama-3.2-3B": llama32.pipeline,
+    "Llama-3.1-8B": llama31_8b.pipeline,
+    "Llama-3.2-1B": llama32_1b.pipeline,
+    "Llama-3.2-3B": llama32_3b.pipeline,
+    "Gemma-3-1B": gemma1b.pipeline,
+    "Gemma-3-4B": gemma4b.pipeline,
+    "Gemma-3-27B": gemma27b.pipeline,
 }
 
 model_formatters = {
     "Phi-3": phi3.format_prompt,
-    "Llama-3.1-8B": llama31.format_prompt,
-    "Llama-3.2-3B": llama32.format_prompt,
+    "Llama-3.1-8B": llama31_8b.format_prompt,
+    "Llama-3.2-1B": llama32_1b.format_prompt,
+    "Llama-3.2-3B": llama32_3b.format_prompt,
+    "Gemma-3-1B": gemma1b.format_prompt,
+    "Gemma-3-4B": gemma4b.format_prompt,
+    "Gemma-3-27B": gemma27b.format_prompt,
 }
 
 datasets = {
@@ -156,7 +168,7 @@ def evaluate_model(model_name, dataset_name, df, system_prompt, user_prompt, arg
     os.makedirs(logs_dir, exist_ok=True)
 
     # Sanitize names for filename
-    model_safe = re.sub(r"[^\\w]", "_", model_name).lower()
+    model_safe = re.sub(r"[^\w]", "_", model_name).lower()
     dataset_safe = dataset_name.lower()
     prompt_type_safe = args.prompt_type.lower()
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -176,7 +188,9 @@ def evaluate_model(model_name, dataset_name, df, system_prompt, user_prompt, arg
         )
 
     # Save predictions to TSV
-    pred_filename = f"{model_safe}_{dataset_safe}_{prompt_type_safe}_{timestamp}_predictions.tsv"
+    pred_filename = (
+        f"{model_safe}_{dataset_safe}_{prompt_type_safe}_{timestamp}_predictions.tsv"
+    )
     df["predicted_label"] = predictions
     df.to_csv(os.path.join(logs_dir, pred_filename), sep="\t", index=False)
 
