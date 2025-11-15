@@ -216,3 +216,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 logs/
+
+# NFS lock files (temporary files created by Network File System)
+.nfs*
