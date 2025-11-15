@@ -48,7 +48,7 @@ Unambiguous examples:
 
 
 USER_PROMPT_TEMPLATE = (
-    "Does the following user query seem ambiguous or does it need clarification?\n\n"
+    "Is the following user query ambiguous?\n\n"
     "Query: {query}\n\n"
     "Answer with ONLY 'yes' or 'no':"
 )
