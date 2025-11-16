@@ -2,3 +2,4 @@ transformers
 pandas
 scikit-learn
 torch
+tqdm

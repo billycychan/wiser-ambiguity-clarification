@@ -1,0 +1,1936 @@
+Activism	How do I find local activism groups to join in my area?	1	Need local activism group information
+Activism	What are some ways to get involved in activism?	1	Need general activism information
+Activism	How can I create a social media campaign for activism?	1	Seeking activism social media guidance
+Activism	How do I effectively organize an activism event?	1	Need activism event planning
+Activism	What are the benefits of participating in activism?	1	Seeking activism benefits information
+Activism	How can I start a local petition for social change?	1	Need local petition information
+Activism	What are some common types of activism?	0	May learn various types of activism
+Activism	How to start an activism group in my neighborhood?	1	Seeking neighborhood activism start-up information
+Activism	How can I balance activism with my daily life?	1	Need activism and life balance guidance
+Activism	What are some famous activists and their contributions?	0	May learn about famous activists
+Activism	How do I network with other activists in my area?	1	Need activism networking information
+Activism	What are some activism strategies for influencing policymakers?	1	Seeking activism policy influence information
+Activism	How can I measure the impact of my activism efforts?	1	Need activism impact analysis
+Activism	How do I stay motivated and engaged in activism?	1	Need activism motivation information
+Activism	What are some common challenges faced by activists?	0	May learn about activism challenges
+Activism	How can I use social media analytics for activism?	1	Need activism social media analytics
+Aging	What is the biological process of aging?	1 aging_process
+Aging	What happens to the body when you get older?	0 aging_process
+Aging	How to slow down aging?	1 anti_aging_techniques
+Aging	Why do people age?	0 causes_of_aging
+Aging	What are the effects of aging on the brain?	1 cognitive_decline
+Aging	How does aging affect memory?	0 aging_symptoms
+Aging	What are the signs of aging?	1 physical_changes
+Aging	What causes wrinkles and gray hair?	0 aging_appearance
+Aging	How to maintain physical health in old age?	1 healthy_aging
+Aging	What is the impact of aging on mental health?	0 mental_health_effects
+Aging	What are the consequences of premature aging?	1 health_risks
+Aging	How to stay young and healthy?	0 aging_myths
+Allergies	What are the symptoms of a severe food allergy?	1	allergies symptoms
+Allergies	What do I feel when I'm allergic?	0	allergies symptoms
+Allergies	What are common food allergies?	1	allergies types
+Allergies	What do people usually suffer from?	0	allergies types
+Allergies	How to treat an allergic reaction?	1	allergies treatment
+Allergies	What's the most common reaction to do?	0	allergies treatment
+Allergies	What are the common causes of allergic rhinitis?	1	allergies causes
+Allergies	What can make people allergic?	0	allergies causes
+Allergies	What's the best way to manage allergies?	1	allergies management
+Allergies	How can I avoid allergies?	0	allergies management
+Allergies	What are the different types of allergies?	1	allergies classification
+Allergies	What are there?	0	allergies classification
+Appointments	Find my upcoming dentist appointment on Monday.	1	Booking information
+Appointments	When do I have dentist appointments scheduled	0	General overview
+Appointments	What are the office hours of the orthodontist near me	1	Contact information
+Appointments	What time is the first meeting on my schedule	0	Specific timing
+Appointments	Book a spa appointment online	1	Scheduling
+Appointments	I need to find the best dermatologist in my area	1	Recommendations
+Appointments	Do I have an appointment with a dentist this week	0	Scheduling
+Appointments	How to cancel a hotel reservation for a cancelled appointment	1	Procedure
+Appointments	I want to know the appointment policy for your hospital	1	Policies
+Appointments	What are the different types of doctor appointments available	0	Categories
+Appointments	Book a hair stylist for this weekend	1	Scheduling
+Appointments	I am looking for an appointment to fix my broken leg	1	Specialized services
+Appointments	What is the average cost for an eye doctor's appointment	0	Price range
+Appointments	Schedule a massage appointment for my wife	1	Scheduling
+Appointments	I need to know the address of my hair salon	1	Location
+Appointments	What types of medical appointments require a doctor's referral	0	Necessity
+Appointments	Can I book an appointment online or only over the phone	1	Accessibility
+Appointments	Do you have any appointments available for a wedding photographer	0	Scheduling
+Appointments	What time is the last appointment of the day at the dentist	1	Specific timing
+Appointments	I want to schedule an appointment for a home cleaning	1	Scheduling
+Appointments	How many doctor appointments can I have at the same time	0	Limitation
+Appointments	Book a last-minute appointment with a cardiologist	1	Scheduling
+Appointments	I need to find the best orthodontist for my kids	1	Recommendations
+Appointments	I have an appointment scheduled, but I forgot what time it is	0	Scheduling
+Art	What is the definition of art?	1	Definition
+Art	What is art and stuff?	0	Definition
+Art	How to create a painting?	1	Procedure
+Art	How do artists make money?	0	Information
+Art	What are the different art movements?	1	List
+Art	What kind of art is out there?	0	List
+Art	How to start a collection?	1	Procedure
+Art	What makes a piece of art valuable?	0	Information
+Art	What are the tools of the trade?	1	List
+Art	What is the purpose of art?	0	Concept
+Art	How to critique art?	1	Guidance
+Art	What is good art?	0	Evaluation
+Art	What is the role of the artist?	1	Description
+Art	What is an art critic?	0	Description
+Art	How to create a sculpture?	1	Procedure
+Art	What is an art gallery?	0	Description
+Art	What are the art schools of thought?	1	List
+Art	What is an art piece?	0	Description
+Art	How to draw a realistic portrait?	1	Procedure
+Art	What is the art of the past?	0	History
+Art	What is a style of art?	1	Definition
+Art	What is a famous art piece?	0	Information
+Bank	How can I open a checking account online with Bank of America?	1	Finding information to open a new bank account
+Bank	What is a bank account exactly?	0	Finding basic understanding
+Bank	I need a savings account for my child's education fund, what options do you have?	1	Investigating options for a savings account
+Bank	What is the future of banking in the world?	0	Gathering general knowledge
+Bank	I'd like to apply for a home loan with a low-interest rate, what are the requirements?	1	Obtaining loan application requirements
+Bank	What are the benefits of having a credit card?	0	Gathering general information
+Bank	I need to close my checking account due to identity theft, can you help?	1	Getting help with account closure
+Bank	What does the word "banking" mean?	0	Finding a basic definition
+Bank	I want to automate my bill payments through online banking, how do I do it?	1	Setting up automated payments
+Bank	What are the different types of banking services?	0	Gathering general knowledge
+Bank	I need to find a bank near my current location, can you give me directions?	1	Finding nearby banking locations
+Bank	What are the features of a standard checking account?	0	Gathering general information
+Bank	I'd like to switch banks due to poor customer service, what are my options?	1	Exploring alternative banking options
+Budgeting	How can I create a budget for my first apartment?	1	User intends to understand the process of creating a budget for their first apartment.
+Budgeting	How much money do I need to live?	0	User intends to know the general cost of living.
+Budgeting	What are some budgeting apps I can use for tracking expenses?	1	User intends to find budgeting apps for expense tracking.
+Budgeting	I'm trying to save money	0	User intends to explore ways to save money.
+Budgeting	How can I cut expenses on food?	1	User intends to reduce food expenses.
+Budgeting	How do I set financial goals?	1	User intends to understand the process of setting financial goals.
+Budgeting	I'm broke	0	User intends to seek financial advice or assistance.
+Budgeting	What is the 50/30/20 rule for budgeting?	1	User intends to learn about the 50/30/20 budgeting rule.
+Budgeting	How to manage debt?	1	User intends to understand debt management strategies.
+Budgeting	How much should I spend on housing?	1	User intends to determine a housing budget.
+Budgeting	What are the best budgeting methods?	0	User intends to explore different budgeting methods.
+Budgeting	How to prioritize expenses?	1	User intends to understand how to prioritize expenses.
+Bureaucracy	What is the role of the head of a bureaucracy in implementing organizational change?	1	Information_need: Understanding the role of the head of a bureaucracy in implementing change.
+
+Bureaucracy	What is bureaucracy like?	0	Information_need: General understanding of the concept of bureaucracy.
+
+Bureaucracy	What are the key factors that contribute to bureaucratic red tape?	1	Factor_analysis: Understanding the root causes of bureaucratic red tape.
+
+Bureaucracy	Is bureaucracy necessary for large organizations?	0	Opinion: General discussion about the necessity of bureaucracy.
+
+Bureaucracy	How does bureaucracy impact employee morale and productivity?	1	Empirical_evidence: Understanding the relationship between bureaucracy and employee outcomes.
+
+Bureaucracy	What is the typical structure of a bureaucracy?	0	General_description: Basic overview of the organization of a bureaucracy.
+
+Bureaucracy	What are some strategies for streamlining bureaucratic processes?	1	Improvement_methods: Identifying ways to improve bureaucratic efficiency.
+
+Bureaucracy	What are some common criticisms of bureaucracy?	0	General_review: Understanding general perspectives on bureaucracy.
+
+Bureaucracy	How do I navigate a complex bureaucratic system?	1	Practical_guidance: Learning to navigate bureaucratic systems.
+
+Bureaucracy	What is the relationship between bureaucracy and democracy?	0	Theoretical_analysis: Exploring the link between bureaucracy and democracy.
+
+Bureaucracy	What are the key benefits of bureaucratic decision-making?	1	Pros_and_cons: Understanding the advantages of bureaucratic decision-making.
+
+Bureaucracy	What does the term "bureaucratic culture" mean?	0	Definition: Defining the concept of bureaucratic culture.
+
+Bureaucracy	How can I measure the effectiveness of a bureaucracy?	1	Evaluation_criteria: Developing criteria to assess bureaucratic effectiveness.
+
+Bureaucracy	What is the impact of technology on bureaucratic processes?	0	Trend_analysis: Exploring the role of technology in bureaucracy.
+
+Bureaucracy	What are the differences between a bureaucracy and a meritocracy?	1	Comparison: Understanding the distinctions between two systems.
+
+Bureaucracy	What are some common challenges faced by bureaucrats?	0	General_description: Describing general challenges faced by bureaucrats.
+Celebrations	What are traditional African celebrations associated with weddings?[	1]	Traditional wedding celebrations
+Celebrations	What's a good theme for a birthday party?[	1]	Birthday party planning
+Celebrations	How do people celebrate New Year's Eve around the world?[	1]	Cultural new year celebrations
+Celebrations	What is the history of Christmas traditions?[	1]	Christmas history
+Celebrations	How can I plan a surprise party for a friend?[	1]	Surprise party planning
+Celebrations	What are the dates for major festivals in India?[	1]	Festival dates
+Celebrations	What is the typical food served at a wedding in Japan?[	1]	Wedding cuisine
+Celebrations	How do people celebrate their anniversaries?[	1]	Anniversary traditions
+Celebrations	What is the significance of celebrating Diwali?[	1]	Diwali meaning
+Celebrations	What are the main events of the Chinese New Year?[	1]	Chinese new year events
+Celebrations	How do I throw a successful children's party?[	1]	Party planning tips
+Celebrations	What is a typical Australian Christmas celebration like?[	1]	Australian christmas traditions
+Celebrations	What are some fun things to do on New Year's Eve?[	0]	Fun activities
+Celebrations	What are traditional African celebrations associated with weddings?[	0]	General cultural info
+Celebrations	How to plan a good birthday party?[	0]	Vague party planning
+Celebrations	What are some New Year's Eve celebrations around the world?[	0]	General new year info
+Celebrations	What is Christmas all about?[	0]	Christmas basics
+Celebrations	How can I surprise my friend?[	0]	Surprise ideas
+Celebrations	What are some major festivals in India?[	0]	Festival list
+Celebrations	What is typical Japanese wedding food?[	0]	Food ideas
+Celebrations	How do people celebrate anniversaries differently?[	0]	Anniversary styles
+Celebrations	What is the meaning behind Diwali?[	0]	Diwali explanation
+Celebrations	What are the events during Chinese New Year?[	0]	General chinese new year
+Celebrations	How to throw a successful party for kids?[	0]	Vague party tips
+Celebrations	What is an Australian Christmas like?[	0]	Australian christmas
+Celebrations	What to do on New Year's Eve?[	0]	General activities
+Civics	What are the fundamental rights and responsibilities of U.S. citizens?	1	Citizenship rights
+Civics	What do people in civics have?	0	Citizenship rights
+Civics	How does the U.S. government ensure checks and balances on power?	1	System of government
+Civics	How do people have power?	0	System of government
+Civics	What are the roles of the three branches of the U.S. government?	1	U.S. government branches
+Civics	What are the three branches of?	0	U.S. government branches
+Civics	How does the electoral college work in presidential elections?	1	Electoral college process
+Civics	What about the voting process?	0	Electoral college process
+Civics	What is the purpose of the Bill of Rights?	1	Bill of Rights
+Civics	What is a Bill of?	0	Bill of Rights
+Civics	What are the main responsibilities of local governments?	1	Local government roles
+Civics	What do local governments do?	0	Local government roles
+Civics	How do I register to vote in the U.S.?	1	Voter registration process
+Civics	How to register?	0	Voter registration process
+Civics	What is the process for impeaching a U.S. president?	1	Impeachment process
+Civics	What can happen to a president?	0	Impeachment process
+Civics	What is the role of the U.S. Supreme Court in interpreting laws?	1	U.S. Supreme Court
+Civics	What about the court?	0	U.S. Supreme Court
+Civics	How do federal and state laws interact in the U.S.?	1	Law interactions
+Civics	How do laws interact?	0	Law interactions
+Civics	What is the difference between a Democrat and a Republican in the U.S. government?	1	Party affiliations
+Civics	What are the two parties?	0	Party affiliations
+Civics	How do citizens participate in the democratic process?	1	Civic engagement
+Civics	What can citizens do?	0	Civic engagement
+Civics	What is the process for amending the U.S. Constitution?	1	Amendment process
+Civics	How can the Constitution be changed?	0	Amendment process
+Cleaning	How to properly clean a hardwood floor?	1	How to clean
+Cleaning	What cleaning products are safe to use on my hardwood floor?	1	Safe products
+Cleaning	What is the best way to remove stubborn stains from a carpet?	1	Stain removal
+Cleaning	What are some effective natural cleaners for kitchen counters?	1	Natural cleaners
+Cleaning	How often should I clean my refrigerator coils?	1	Maintenance frequency
+Cleaning	What are some DIY tips for decluttering my living room?	1	Decluttering
+Cleaning	How do I get rid of mold in my bathroom?	1	Mold removal
+Cleaning	What are the best methods for cleaning glass surfaces?	1	Cleaning techniques
+Cleaning	How do I properly disinfect my cutting board?	1	Disinfecting
+Cleaning	What are some effective cleaning products for pet owners?	1	Pet-friendly products
+Cleaning	How often should I vacuum my cat's favorite napping spot?	0	Frequency
+Cleaning	What kind of cleaning products make my house smell bad?	0	Smell
+Cleaning	How do I deep clean my home quickly?	0	Deep cleaning
+Cleaning	What are some eco-friendly cleaning methods for all rooms?	0	Eco-friendly
+Cleaning	How do I get my floors to shine like new?	0	Flooring
+Cleaning	What is the most effective way to clean a dusty ceiling fan?	0	Dust removal
+Cleaning	What kind of cleaning products are available for black mold?	0	Mold
+Cleaning	How do I get rid of stubborn odors in my fridge?	0	Food odor
+Cleaning	What are some household items I can use as cleaning products?	0	Repurposed items
+Cleaning	How do I properly clean my range hood?	0	Cooking appliance
+Cleaning	What are some daily cleaning tasks for a busy person?	0	Scheduling
+Cleaning	What are some budget-friendly cleaning products?	0	Cost
+Cleaning	How do I clean my dirty oven quickly and safely?	0	Oven cleaning
+Cleaning	What are some steps to prevent dust buildup in my home?	0	Dust prevention
+Cleaning	How do I clean a clogged shower drain?	0	Drain cleaning
+Clinic	Find nearest urgent care clinic in my area that accepts my insurance	1	Information
+Clinic	What is the average wait time at most clinics	0	
+Clinic	Schedule an appointment at the nearest dermatologist	1	Booking
+Clinic	I'm looking for a clinic that offers free health screenings	0	
+Clinic	What are the prices for physical therapy sessions at this clinic	1	Fees
+Clinic	Is there a clinic near me that offers COVID-19 testing	1	Information
+Clinic	Clinics in my city	0	
+Clinic	I need a doctor's note for work; can I get one at the clinic	1	Documentation
+Clinic	List of clinics in the area that offer vaccinations for kids	0	
+Clinic	How long does a typical physical exam at this clinic take	1	Information
+Clinic	What services do most clinics provide	0	
+Clinic	Can I get a lab test done at this specific clinic	1	Facilities
+Clinic	I'm looking for a sports medicine clinic in my area	1	Information
+Clinic	How much does a clinic visit usually cost without insurance	0	
+Clinic	Find a clinic that accepts my insurance and has weekend hours	1	Booking
+Clinic	What types of insurance are accepted at the clinic	0	
+Clinic	How long is the wait time at this clinic for a routine check-up	1	Information
+Clinic	List of clinics in my area that offer pediatric care	0	
+Clinic	What are the working hours of my local clinic	1	Schedule
+Clinic	I want to get a same-day appointment at a nearby clinic	1	Booking
+Clinic	Can I schedule an appointment online at this clinic	0	
+Clinic	What types of medical procedures are performed at this clinic	0	
+Clinic	How do I contact the clinic for an emergency	1	Contact
+Clothing	What is the best fabric for making a summer dress?[	1	Style and material suggestions
+Clothing	What are some good clothes to wear in the desert?[	0	Suggestions and ideas
+Clothing	How do I wash and dry a wool sweater?[	1	Care and maintenance instructions
+Clothing	What kind of pants are in fashion this season?[	0	Trend and style information
+Clothing	How do I make a dress shirt look more formal?[	1	Sartorial advice and styling tips
+Clothing	What is the difference between a scarf and a shawl?[	0	Factual information and comparison
+Clothing	How do I repair a torn seam on my jacket?[	1	Repair and alteration guidance
+Clothing	What is the best way to store winter coats?[	0	Organization and storage ideas
+Clothing	How do I choose the right shoes for a formal event?[	1	Advice on selecting the right footwear
+Clothing	What is the meaning of a specific type of clothing (e.g. kimono)?[	0	Definitions and explanations
+Clothing	How do I hem a pair of pants?[	1	Sewing and alteration instructions
+Clothing	What is the average price range for a designer dress?[	0	Price range and market information
+Clothing	How do I properly fold a t-shirt?[	1	Folding and storage guidance
+Clothing	What are some eco-friendly clothing options?[	0	Sustainable fashion suggestions
+Communication	How to improve my public speaking skills effectively?	1	Speaking
+Communication	How to improve my public speaking?	0	Speaking
+Communication	What are the most effective ways to communicate with a team leader?	1	Leadership
+Communication	How to communicate better with my team?	0	Teamwork
+Communication	How to resolve conflicts in communication with colleagues?	1	Conflict Resolution
+Communication	How to resolve conflicts?	0	Conflict
+Communication	What are the best strategies for effective communication in a workplace?	1	Workplace
+Communication	How to communicate more effectively?	0	Communication
+Communication	How to improve my listening skills in communication?	1	Listening
+Communication	How to listen better?	0	Listening
+Communication	What are the key elements of effective communication in a relationship?	1	Relationship
+Communication	How to communicate in a relationship?	0	Relationship
+Communication	How to handle communication during a crisis situation?	1	Crisis
+Communication	How to handle a crisis?	0	Crisis
+Commuting	How long does a 30-minute commute to work affect my productivity?	1	Optimization
+Commuting	What's a good way to make the most of my daily commute?	1	Optimization
+Commuting	How much does commuting affect my carbon footprint?	1	Environment
+Commuting	What modes of transportation can I use for a long-distance commute?	1	Planning
+Commuting	How do I save money on my daily commute?	1	Finance
+Commuting	What are the best ways to reduce stress during my commute?	1	Mental Health
+Commuting	How do I plan my daily commute route?	1	Planning
+Commuting	Is there a public transportation option near my neighborhood?	1	Planning
+Commuting	What's the average cost of owning a car for daily commuting?	1	Finance
+Commuting	How do I make friends on my daily commute?	1	Social
+Commuting	How does commuting affect my social life?	1	Social
+Commuting	What's a good way to stay productive during a long commute?	1	Optimization
+Commuting	What's the most affordable transportation option for a daily commute?	1	Finance
+Commuting	How do I deal with road rage during my commute?	1	Mental Health
+Commuting	What are the benefits of walking or biking to work?	1	Health
+Commuting	How do I optimize my morning routine for a smooth commute?	1	Optimization
+Commuting	What's the impact of commuting on my physical health?	1	Health
+Commuting	How can I avoid traffic during rush hour?	1	Planning
+Commuting	Is it better to walk or drive to work?	0	Planning
+Commuting	What are some ways to spend my commute time?	0	Lifestyle
+Commuting	How do I make the most of my daily commute?	0	Planning
+Commuting	What is commuting like?	0	General
+Commuting	What is a good way to commute?	0	General
+Commuting	How can I make my commute more enjoyable?	0	Lifestyle
+Commuting	What's the best way to commute?	0	General
+Commuting	How does commuting affect people?	0	General
+Commuting	What's the point of commuting?	0	General
+Commuting	What is commuting like in different countries?	0	Culture
+Commuting	How does technology affect commuting?	0	Technology
+Commuting	What are the most common commuting problems?	0	General
+Commuting	How does commuting relate to productivity?	0	General
+Composting	Take me through a step-by-step guide on how to set up a backyard composting bin	1	Knowledge
+Composting	I want to know about composting	0	Knowledge
+Composting	How do I speed up the composting process?	1	Advice
+Composting	What is composting good for	0	Generic inquiry
+Composting	How do I compost animal waste safely	1	Safety
+Composting	Composting methods	0	Generic inquiry
+Composting	What can I compost with my food scraps	1	Information
+Composting	Types of composting	0	Generic inquiry
+Composting	How do I maintain a balanced compost pile	1	Advice
+Composting	Composting vs recycling	0	Generic inquiry
+Composting	How do I get rid of weeds in my compost pile	1	Solutions
+Composting	Composting 101	0	Generic inquiry
+Composting	How to make compost tea	1	Recipes
+Composting	What are the benefits of composting	0	Generic inquiry
+Composting	How do I troubleshoot a smelly compost pile	1	Advice
+Composting	Composting in small spaces	0	Generic inquiry
+Composting	What can I add to my compost pile to speed it up	1	Solutions
+Composting	I'm new to composting	0	Self-identification
+Composting	How do I handle pests in my compost	1	Solutions
+Composting	What does composting involve	0	Generic inquiry
+Composting	How do I store my compost pile over winter	1	Practical
+Composting	What is the purpose of composting	0	Generic inquiry
+Composting	How do I manage my compost pile temperature	1	Practical
+Conservation	What is the most effective method for reducing plastic waste in our oceans?	1	reduce_plastic_waste
+Conservation	what does conservation do	0	
+Conservation	How can I recycle old electronics in a way that conserves natural resources?	1	reduce_e_waste
+Conservation	how to be a good citizen	0	
+Conservation	What are some of the most threatened species due to deforestation?	1	threatened_species
+Conservation	what is the point of conservation	0	
+Conservation	How can we effectively implement sustainable agriculture practices in our community?	1	sustainable_agriculture
+Conservation	how to protect the planet	0	
+Conservation	What are some of the primary causes of climate change?	1	climate_change_causes
+Conservation	what is conservation for	0	
+Conservation	How can we reduce carbon emissions from transportation in our city?	1	reduce_carbon_emissions
+Conservation	ways to help the planet	0	
+Conservation	What are some effective strategies for preserving endangered ecosystems?	1	ecosystem_preservation
+Conservation	what is happening to the planet	0	
+Conservation	How can individuals contribute to conservation efforts in their daily lives?	1	contribute_to_conservation
+Conservation	how to live sustainably	0	
+Conservation	What are some of the benefits of protecting coral reefs?	1	coral_reef_benefits
+Conservation	why conserve	0	
+Conservation	How can we create more effective conservation policies in our government?	1	effectiveness_of_policies
+Conservation	what is the role of conservation	0	
+Conservation	What are some of the key indicators of ecosystem health?	1	ecosystem_health_indicators
+Conservation	what does the future hold	0	
+Conservation	How can we promote conservation education in schools?	1	conservation_education
+Conservation	ways to save the planet	0	
+Conservation	What are some of the most pressing conservation issues in Africa?	1	africa_conservation_issues
+Conservation	what needs to be done	0	
+Conservation	How can we use technology to support conservation efforts?	1	tech_for_conservation
+Conservation	how to live green	0	
+Conservation	What are some effective methods for reducing water waste?	1	water_waste_reduction
+Cooking	What is the exact measurement of 1 cup of all-purpose flour in grams?	1	information
+Cooking	Flour conversion	0	information
+Cooking	How do I convert Fahrenheit to Celsius for the perfect oven temperature?	1	information
+Cooking	High temperature oven conversion	0	information
+Cooking	What are the health benefits of including quinoa in my diet?	1	information
+Cooking	Quinoa benefits	0	information
+Cooking	What is the recommended water temperature for boiling eggs?	1	information
+Cooking	Egg boiling water temperature	0	information
+Cooking	How do I accurately measure the cooking time for a 5-pound turkey?	1	information
+Cooking	Turkey cooking time	0	information
+Cooking	What is the difference between Italian seasoning and oregano?	1	information
+Cooking	Oregano vs Italian seasoning	0	information
+Cooking	How do I make a perfect homemade tomato sauce?	1	information
+Cooking	Tomato sauce recipe	0	information
+Cooking	What are the safety precautions when handling raw meat?	1	information
+Cooking	Safety with raw meat	0	information
+Cooking	How can I store vegetables to maintain their freshness?	1	information
+Cooking	Vegetable storage	0	information
+Cooking	What are the steps to roast a whole chicken?	1	information
+Cooking	Roasting a whole chicken	0	information
+Cooking	How do I make homemade yogurt from scratch?	1	information
+Cooking	Homemade yogurt	0	information
+Cooking	What are the benefits of marinating meat before cooking?	1	information
+Cooking	Meat marinating benefits	0	information
+Cooking	How do I make the perfect soufflé?	1	information
+Cooking	Soufflé recipe	0	information
+Cooking	What is the proper way to cook rice in a rice cooker?	1	information
+Cooking	Cooking rice in a rice cooker	0	information
+Cooking	How do I store and reheat cooked leftovers safely?	1	information
+Cooking	Leftover food safety	0	information
+Creativity	What are the top 5 techniques for generating creative ideas?	1	Detailed techniques
+Creativity	How to be creative?	0	Vague
+Creativity	What are some best practices for fostering a creative work environment?	1	Business practices
+Creativity	Can creativity be taught?	0	Vague
+Creativity	What is the role of constraints in the creative process?	1	General knowledge
+Creativity	How to boost creativity?	0	Vague
+Creativity	What are some effective ways to overcome creative blocks?	1	Solving problems
+Creativity	What is the relationship between creativity and intelligence?	0	Vague
+Creativity	What are some tips for staying creative as an artist?	1	Personal development
+Creativity	How to measure creativity?	0	General knowledge
+Creativity	What are the benefits of a creative thinking approach to problem-solving?	1	General knowledge
+Creativity	How to develop creative writing skills?	1	Skilling up
+Creativity	What is the relationship between creativity and mental health?	0	Vague
+Creativity	What are some strategies for encouraging creative thinking in children?	1	Educational resources
+Creativity	Can technology enhance or hinder creativity?	0	Vague
+Creativity	What are some popular creative hobbies for adults?	1	Entertainment
+Creativity	How to use brainstorming to improve creativity?	1	Solving problems
+Creativity	What is the difference between creative and critical thinking?	0	Vague
+Creativity	What are some creative ways to express oneself through art?	1	Art inspiration
+Creativity	How to balance creativity and productivity?	0	Vague
+Creativity	What are some common barriers to creativity?	1	Solving problems
+Creativity	What is the role of failure in the creative process?	1	Learning experiences
+Creativity	How to stay motivated and inspired to be creative?	0	Vague
+Creativity	What are some techniques for creative problem-solving?	1	Solving problems
+Creativity	What is the relationship between creativity and innovation?	0	Vague
+Credit	What is a credit score and how is it calculated?	1	Calculate credit score
+Credit	What's a good credit score	0
+Credit	How to improve my credit score	1	Improve credit score
+Credit	What can I do to ruin my credit	0
+Credit	What is a credit card's interest rate?	1	Find credit card rates
+Credit	Do I get interest free credit cards	0
+Credit	How to apply for a credit card	1	Apply credit card
+Credit	How can I get a credit card with bad credit	0
+Credit	What is the minimum payment for a credit card	1	Minimum credit card payment
+Credit	How often should I pay credit card	0
+Credit	What is a credit limit increase	1	Increase credit limit
+Credit	How to request a credit limit increase	0
+Credit	What is the credit utilization ratio?	1	Calculate credit utilization
+Credit	How to improve my credit utilization	0
+Credit	What happens if I max out my credit	0
+Credit	How to manage multiple credit cards	1	Manage multiple credit cards
+Credit	How many credit cards should I have	0
+Culture	What are the historical origins of traditional Chinese festivals?	1	Factual information
+Culture	Difference between Western and Eastern cultures	0	Comparative knowledge
+Culture	What is the role of social media in shaping modern cultural trends?	1	Analytical information
+Culture	Cultural differences between urban and rural communities	0	Comparative knowledge
+Culture	How do different cultural backgrounds influence language learning?	1	Analytical information
+Culture	Culture's impact on business communication	0	Conceptual understanding
+Culture	What are some cultural traditions associated with Japanese tea ceremonies?	1	Factual information
+Culture	Typical characteristics of Western vs. Asian culture	0	Comparative knowledge
+Culture	What is the cultural significance of the Kumbh Mela festival?	1	Factual information
+Culture	How do cultural norms affect workplace behavior?	0	Conceptual understanding
+Culture	Difference between traditional and modern forms of indigenous Australian culture	1	Factual information
+Cycling	What is the safest bike route to ride in New York City for a beginner cyclist?	1	Traffic Information
+Cycling	What's the safest bike route to ride?	0	Traffic Information
+Cycling	How do I maintain my mountain bike for optimal performance?	1	Maintenance Information
+Cycling	How do I keep my bike?	0	Maintenance Information
+Cycling	What are the best hybrid bikes for a casual rider?	1	Product Information
+Cycling	What's a good bike for me?	0	Product Information
+Cycling	How do I properly wear a helmet while cycling?	1	Safety Information
+Cycling	Do I have to wear a helmet?	0	Safety Information
+Cycling	What is the best way to store a bike indoors?	1	Maintenance Information
+Cycling	Where should I put my bike?	0	Maintenance Information
+Cycling	What are the health benefits of regular cycling?	1	Fitness Information
+Cycling	How often should I bike?	0	Fitness Information
+Cycling	How do I choose the right bike size?	1	Sizing Information
+Cycling	What size bike do I need?	0	Sizing Information
+Cycling	What are the rules of cycling on the road?	1	Legal Information
+Cycling	What are the rules for cycling?	0	Legal Information
+Cycling	How do I troubleshoot a bike mechanical issue?	1	Troubleshooting Information
+Cycling	What's wrong with my bike?	0	Troubleshooting Information
+Cycling	What is the best cycling gear for long-distance riding?	1	Equipment Information
+Cycling	What do I need for a long bike ride?	0	Equipment Information
+Cycling	How do I train for a triathlon as a cyclist?	1	Training Information
+Cycling	How do I get better at cycling?	0	Training Information
+Cycling	What is the most fuel-efficient bike for daily commuting?	1	Energy Information
+Cycling	What bike is best for my daily commute?	0	Energy Information
+DIY	How to make a simple wooden birdhouse?	1	Instructions for building a birdhouse
+DIY	What is DIY?	0	
+DIY	How to install a rain showerhead?	1	Tips and tricks for installing a rain showerhead
+DIY	Where can I find DIY ideas?	0	
+DIY	How to make a homemade compost bin?	1	Tutorials for building a compost bin
+DIY	What is the best material for DIY projects?	0	
+DIY	How to fix a leaky faucet?	1	Fixing leaky faucets at home
+DIY	Where can I buy DIY materials?	0	
+DIY	How to make a wooden picture frame?	1	Tutorials for woodworking projects
+DIY	What are the safety precautions for DIY projects?	0	
+DIY	How to build a treehouse?	1	Designs and plans for treehouses
+DIY	What are some DIY home decor ideas?	0	
+DIY	How to make a concrete planter?	1	Tips for working with concrete
+DIY	Where can I find DIY tutorials online?	0	
+DIY	How to make a simple planter box?	1	Gardening projects for beginners
+DIY	What are the benefits of DIY projects?	0	
+DIY	How to make a rustic candle holder?	1	Candle making tutorials
+DIY	What are the common mistakes in DIY projects?	0	
+DIY	How to build a bookshelf?	1	Furniture making projects
+DIY	Where can I buy DIY tools?	0	
+DIY	How to make a paper mache vase?	1	Crafting projects with paper mache
+Decluttering	What is the most effective decluttering method for a cluttered living room?	1	Decluttering method
+Decluttering	How can I get started with decluttering?	1	Decluttering advice
+Decluttering	What are the benefits of decluttering?	1	Benefits of decluttering
+Decluttering	What should I get rid of in my closet?	1	Closet decluttering
+Decluttering	How do I organize my digital files?	1	Digital decluttering
+Decluttering	What is the 1 touch rule for decluttering?	1	Decluttering technique
+Decluttering	How can I declutter my garage?	1	Garage decluttering
+Decluttering	How long does it take to declutter a house?	1	Decluttering timeline
+Decluttering	What are some decluttering tools I can use?	1	Decluttering tools
+Decluttering	How can I declutter my paper clutter?	1	Paper decluttering
+Decluttering	What is the 5S method of decluttering?	1	Decluttering method
+Decluttering	What can I do with stuff I no longer need?	0	Donation options
+Decluttering	How do I declutter my whole life?	0	Life transformation
+Decluttering	What is the best way to get rid of old electronics?	0	Electronic disposal
+Decluttering	How do I declutter my room without feeling overwhelmed?	0	Motivation techniques
+Decluttering	What is the average cost of hiring a professional organizer?	0	Fees for services
+Decluttering	What are some decluttering apps I can use?	0	Product reviews
+Decluttering	How can I declutter my time?	0	Time management
+Decluttering	What is the role of decluttering in stress reduction?	0	Mental health benefits
+Decluttering	How can I declutter my office without losing productivity?	0	Productivity tips
+Decluttering	What are some decluttering challenges I can participate in?	0	Community involvement
+Decluttering	How can I create a decluttering schedule?	0	Scheduling
+Decluttering	What is the most important thing to declutter first?	0	Priority setting
+Devices	Tell me the best smartphone for casual gaming	1	Device Recommendation
+Devices	Tell me about smartphones	0	Device Information
+Devices	Compare the latest Samsung and Apple smartwatches	1	Device Comparison
+Devices	What is a smartwatch	0	Device Information
+Devices	Recommend a portable charger for my iPhone	1	Device Recommendation
+Devices	Tell me about portable chargers	0	Device Information
+Devices	Which devices support wireless charging	1	Device Feature
+Devices	What is wireless charging	0	Device Feature
+Devices	Compare the specifications of different laptops	1	Device Comparison
+Devices	What is a laptop	0	Device Information
+Devices	Recommend a pair of headphones for music listening	1	Device Recommendation
+Devices	Tell me about headphones	0	Device Information
+Devices	Which devices have a long battery life	1	Device Feature
+Devices	What does battery life mean in devices	0	Device Feature
+Devices	Compare the features of smartphones with different operating systems	1	Device Comparison
+Devices	Tell me about operating systems	0	Device Information
+Devices	Which devices support a stylus	1	Device Feature
+Devices	What is a stylus	0	Device Feature
+Devices	Recommend a device for video editing	1	Device Recommendation
+Devices	Tell me about video editing devices	0	Device Information
+Devices	Which devices have high-resolution displays	1	Device Feature
+Devices	What is a display resolution	0	Device Feature
+Diet	What are the key components of a balanced diet?	1	goal
+Diet	How does a diet really work?	1	goal
+Diet	What are some healthy meal ideas for a diet?	1	goal
+Diet	How do I plan a successful weight loss diet?	1	goal
+Diet	What is the best way to eat for optimal health?	1	goal
+Diet	What are some tips for sticking to a diet?	1	goal
+Diet	What are the health benefits of a plant-based diet?	1	goal
+Diet	How does a diet impact gut health?	1	goal
+Diet	What are some common diet mistakes to avoid?	1	goal
+Diet	How can I optimize my diet for better energy levels?	1	goal
+
+Diet	What's a good diet to follow?	0	goal
+Diet	How can I diet like a celebrity?	0	goal
+Diet	What's a quick fix for a diet?	0	goal
+Diet	How can I get started with a diet?	0	goal
+Diet	What are some cool diets?	0	goal
+Diet	How do diets work for everyone?	0	goal
+Diet	What are some simple diets?	0	goal
+Diet	What is the best weight loss diet?	0	goal
+Diet	How can I follow any diet?	0	goal
+Diet	What's a popular diet?	0	goal
+Diet	How does dieting work?	0	goal
+Documentation	Where can I find documentation for using the new software?	1	I_need_installation_instructions
+Documentation	Where is documentation?	0	I_need_directions
+Documentation	What type of documentation is best for a technical audience?	1	I_need_documentation_tips
+Documentation	What kind of documents do you have?	0	I_need_documentation_sources
+Documentation	How do I write a documentation plan for a project?	1	I_need_documentation_guidelines
+Documentation	What documentation do you have available?	0	I_need_documentation_samples
+Documentation	How do I create documentation for a product?	1	I_need_documentation_advice
+Documentation	What documentation should I use for a marketing report?	0	I_need_documentation_ideas
+Documentation	What are the best practices for writing technical documentation?	1	I_need_documentation_best_practices
+Documentation	Where can I find examples of documentation?	0	I_need_documentation_examples
+Documentation	How do I write clear documentation for a complex process?	1	I_need_documentation_tips
+Documentation	What kind of documentation is required for regulatory compliance?	0	I_need_documentation_requirements
+Emergency	What is the protocol for handling a medical emergency?	1	procedures
+Emergency	What happens when there's an emergency?	0	description
+Emergency	How do I contact emergency services during a crisis?	1	contact information
+Emergency	What does it mean to be in a state of emergency?	0	definition
+Emergency	What are the steps to take in case of a fire emergency?	1	safety instructions
+Emergency	What's the feeling like when you're in an emergency?	0	emotional experience
+Emergency	How do I prepare for a natural disaster emergency?	1	prevention tips
+Emergency	What are the reasons for declaring a state of emergency?	0	policy explanation
+Emergency	What should I do if I'm caught in a natural disaster emergency?	1emergency procedures
+Emergency	What's the role of emergency services in a crisis?	0	overview
+Emergency	How can I stay safe during a pandemic emergency?	1	safety precautions
+Emergency	What does it mean to be in a state of panic during an emergency?	0	emotional description
+Environment	What is the average global temperature of the Earth's surface?	1	Climate information
+Environment	Can you give me some tips on reducing my carbon footprint?	1	Advice
+Environment	How do humans contribute to greenhouse gas emissions?	1	Environmental knowledge
+Environment	What are the effects of deforestation on biodiversity?	1	Scientific data
+Environment	List the top 5 eco-friendly cities in the world.	1	Comparison
+Environment	What is the difference between sustainable and renewable energy?	1_Definitions
+Environment	Why are fossil fuels a non-renewable resource?	1	Facts
+Environment	Which country has the highest percentage of renewable energy usage?	1	Statistics
+Environment	List some ways to reduce plastic waste in the ocean.	1	Alternatives
+Environment	How does climate change affect polar bear habitats?	1	Effects
+Environment	What are the benefits of recycling electronic devices?	1	Sustainability
+Environment	What are some ways to reduce energy consumption at home?	1	Suggestions
+Environment	What is the impact of pollution on human health?	1	Human health
+Environment	List the main causes of air pollution in urban areas.	1	Factors
+Environment	What are some ways to improve air quality in schools?	1	Solutions
+Environment	What is the relationship between urbanization and climate change?	1	Analysis
+Environment	List some environmental benefits of organic farming.	1	Facts
+Environment	What are the environmental effects of overpopulation?	1	Impact
+Environment	How does climate change affect agriculture?	1	Agricultural impact
+Environment	List the types of endangered species in the Amazon rainforest.	0	Information
+Environment	I want to help the environment, what can I do?	0	Options
+Environment	What does the term 'eco-friendly' mean?	0	Definition
+Environment	What's the impact of littering on the environment?	0	Effects
+Environment	How can we stop climate change completely?	0	Plan
+Environment	List some ways to reduce waste in the office.	0	Tips
+Environment	What are some environmental benefits of vegetarianism?	0	Impact
+Ergonomics	What are the fundamental principles of ergonomics?	1	Define
+Ergonomics	What is good about ergonomics	0	
+Ergonomics	How can I apply ergonomic principles to my workspace?	1	Configurate
+Ergonomics	Is ergonomic design really necessary for workplace safety	0	
+Ergonomics	What are the common types of ergonomic injury?	1	Illustrate
+Ergonomics	What is the best thing about ergonomic design	0	
+Ergonomics	How to prevent musculoskeletal disorders in the workplace	1	Prevent
+Ergonomics	What does ergonomics do in work environment	0	
+Ergonomics	What are the key components of an ergonomic chair?	1	Specify
+Ergonomics	Is there more to ergonomics than just chairs	0	
+Ergonomics	How do I conduct an ergonomic risk assessment?	1	Predict
+Ergonomics	What makes a workplace more ergonomic	0	
+Ergonomics	What are the benefits of using ergonomic tools?	1	Value
+Ergonomics	How can I improve workplace ergonomics	0	
+Ergonomics	What are the main goals of ergonomics	1	Describe
+Ergonomics	What is ergonomics all about really	0	
+Ergonomics	How to create an ergonomic workspace for employees	1	Optimize
+Ergonomics	Are there other ways to make ergonomics better	0	
+Ergonomics	What are the key factors that contribute to ergonomic comfort?	1	Identify
+Ergonomics	What does ergonomic mean to you	0	
+Ergonomics	How to design an ergonomic workspace for people with disabilities	1	Avoid
+Ergonomics	Is ergonomic design important for all workplaces	0	
+Ergonomics	What are the common applications of ergonomics in design?	1	Illustrate
+Ergonomics	What is good about good ergonomic design	0	
+Ergonomics	How to use ergonomic principles to prevent repetitive strain injury	1	Prevent
+Ergonomics	What is the relationship between ergonomics and productivity	0	
+Ergonomics	What are the benefits of ergonomics in the workplace?	1	Value
+Events	What are the top 5 upcoming concerts in New York this summer?	1	planning
+Events	What are some cool events happening in the city this month?	0	unknown
+Events	How do I plan a surprise birthday party for a friend?	1	planning
+Events	What's happening in the city this weekend?	0	unknown
+Events	How do I find events in my local area?	1	information
+Events	What are some fun events for kids to attend?	0	unknown
+Events	How do I book a ticket for a sold-out event?	1	accommodation
+Events	What's the best way to organize a corporate event?	0	unknown
+Events	How do I create a schedule for a multi-day conference?	1	planning
+Events	What are some popular events in London?	0	unknown
+Events	How do I RSVP to an event invitation?	1	accommodation
+Events	What's the most popular type of event in the US?	0	unknown
+Events	How do I plan a successful networking event?	1	planning
+Events	What events are happening in my neighborhood this weekend?	0	unknown
+Events	How do I find event venues near me?	1	information
+Events	What's the best way to promote an event on social media?	0	unknown
+Events	How do I create a budget for an event?	1	planning
+Events	What are some fun outdoor events for summer?	0	unknown
+Events	How do I prepare for a large event as a volunteer?	1	accommodation
+Events	What events are happening in Paris this year?	0	unknown
+Events	How do I track event attendance and engagement?	1	planning
+Events	What are some unique event themes for a wedding?	0	unknown
+Events	How do I find event spaces for rent?	1	information
+Exercise	What is the best exercise for weight loss?	1	Best exercises for weight loss
+Exercise	What is the best exercise to get rid of love handles	0	Best exercise for love handles
+Exercise	How can I create an effective workout routine?	1	Effective workout routine
+Exercise	What is the easiest exercise to do at home?	0	Easy exercise at home
+Exercise	What are the health benefits of yoga?	1	Health benefits of yoga
+Exercise	How can I improve my physical strength?	1	Physical strength improvement
+Exercise	What are the best exercises for runners?	1	Best exercises for runners
+Exercise	What is the difference between Pilates and yoga?	0	Difference between Pilates and yoga
+Exercise	How can I increase my vertical jump?	1	Vertical jump increase
+Exercise	What are some good exercises for seniors?	1	Good exercises for seniors
+Exercise	What is the most effective way to burn belly fat?	0	Most effective way to burn belly fat
+Exercise	How can I get a six-pack?	1	Six-pack abs
+Exercise	What are the benefits of high-intensity interval training (HIIT)?	1	High-intensity interval training benefits
+Family	What are the steps to plan a family vacation?	1	Family planning
+Family	Where do families typically go on vacation?	0	Family planning
+Family	What are some fun activities for a family game night?	1	Family activities
+Family	What are some activities that families do?	0	Family activities
+Family	How to choose the right size for a family tree?	1	Family tree
+Family	What is a family tree?	0	Family tree
+Family	What is the average family size in the United States?	1	Family statistics
+Family	What is the definition of a family?	0	Family statistics
+Family	How to handle a family conflict?	1	Family conflict resolution
+Family	How do people handle conflicts in their family?	0	Family conflict resolution
+Family	What are the benefits of a family business?	1	Family business
+Family	What is a family business?	0	Family business
+Family	How to maintain family relationships with distant relatives?	1	Family relationships
+Family	How to deal with a difficult family member?	0	Family relationships
+Family	How to build a strong family bond?	1	Family bonding
+Family	What are some ways to improve family communication?	0	Family bonding
+Family	What is the history of the word 'family'?	1	Family etymology
+Family	What does the word 'family' mean?	0	Family etymology
+Family	How to create a family budget?	1	Family finance
+Family	What are some financial tips for families?	0	Family finance
+Feedback	How can I provide constructive feedback to my boss without hurting their feelings?	1	Guidance
+Feedback	How do you provide feedback?	0	Knowledge
+Feedback	What are the benefits of giving regular feedback to employees?	1	Educational
+Feedback	How can I give feedback that is both negative and positive?	0	Guidance
+Feedback	What is the best way to give feedback on a poor project?	1	Guidance
+Feedback	What is the purpose of giving feedback?	0	Knowledge
+Feedback	How can I give feedback that is specific, timely, and actionable?	1	Guidance
+Feedback	Why do people often resist receiving feedback?	0	Curiosity
+Feedback	How can I give feedback to a friend without hurting their feelings?	1	Guidance
+Feedback	What are the common mistakes people make when giving feedback?	0	Educational
+Feedback	How can I implement a regular feedback system in my team?	1	Implementation
+First-aid	What are the basic first-aid techniques for CPR?	1	Specific
+First-aid	How to do CPR	0	Ambiguous
+First-aid	What is the correct procedure for treating a severe burn?	1	Specific
+First-aid	Burn treatment	0	Ambiguous
+First-aid	How to treat a snake bite?	1	Specific
+First-aid	Snake bites	0	Ambiguous
+First-aid	What is the first-aid for a broken bone?	1	Specific
+First-aid	Treating broken bones	0	Ambiguous
+First-aid	How to administer first-aid for a heart attack?	1	Specific
+First-aid	Heart attack first aid	0	Ambiguous
+First-aid	What are the first-aid steps for a head injury?	1	Specific
+First-aid	Head injuries	0	Ambiguous
+First-aid	What is the first-aid procedure for a cardiac arrest?	1	Specific
+First-aid	CPR and first aid	0	Ambiguous
+First-aid	How to treat a wound that won't stop bleeding?	1	Specific
+First-aid	Bleeding wounds	0	Ambiguous
+First-aid	What are the general guidelines for first-aid in a pandemic?	1	Specific
+First-aid	Pandemic first aid	0	Ambiguous
+First-aid	How to administer first-aid for a spinal injury?	1	Specific
+First-aid	Spinal cord injuries	0	Ambiguous
+First-aid	What are the first-aid steps for an allergic reaction?	1	Specific
+First-aid	Allergies	0	Ambiguous
+First-aid	What is the first-aid for a concussion?	1	Specific
+First-aid	Sports injuries	0	Ambiguous
+Food	What is the nutritional content of a typical fast food burger?	1nutrition facts
+Food	How much sodium is in a burger?	1nutrition facts
+Food	What is a typical burger composition?	1nutrition facts
+Food	What are the ingredients of a burger?	1nutrition facts
+Food	How many calories are in a cheeseburger?	1nutrition facts
+Food	List some common burger ingredients.	0ingredients
+Food	Tell me about burgers.	0ingredients
+Food	What's a burger made of?	0ingredients
+Food	What is a burger?	0description
+Food	Show me some burger pictures.	0images
+Food	I want to see images of burgers.	0images
+Food	List some popular burger recipes.	0recipes
+Food	How do you make burgers?	0instructions
+Food	What are the steps to make a burger?	0instructions
+Food	I want to make burgers.	0instructions
+Food	What is the ideal burger temperature?	1safety
+Food	At what temperature should I cook a burger?	1safety
+Food	How do I cook a burger safely?	1safety
+Food	What is the proper burger cooking method?	1safety
+Food	List safety guidelines for cooking burgers.	0safety
+Food	How do I know when a burger is cooked?	0safety
+Friendship	How do I strengthen my relationships with close friends?	1	Strengthening
+Friendship	Are friendships good for your mental health?	0	
+Friendship	How do I find new friends in college?	1	Networking
+Friendship	Is friendship a necessary part of life?	0	
+Friendship	How do I balance friendship and romantic relationships?	1	Conflict
+Friendship	What makes a good friend?	0	
+Friendship	How do I set boundaries with friends?	1	Establishing
+Friendship	Are friendships more important than family?	0	
+Friendship	How do I deal with a toxic friend?	1	Support
+Friendship	What is the definition of friendship?	0	
+Friendship	How do I prioritize friendships in my life?	1	Time
+Friendship	Are long-distance friendships possible?	0	
+Friendship	How do I make friends as an adult?	1	Acquiring
+Friendship	What are the benefits of having friends?	0	
+Friendship	How do I maintain a healthy friendship?	1	Maintaining
+Gardening	What are the best soil pH levels for tomatoes?	1	goal
+Gardening	How much sunlight do plants need	0	goal
+Gardening	What are the best fertilizers for roses?	1	goal
+Gardening	How to make my garden look beautiful	0	goal
+Gardening	How to get rid of weeds in my garden	1	goal
+Gardening	How to improve air quality with plants	0	goal
+Gardening	What are the best types of compost for vegetables?	1	goal
+Gardening	How to attract birds to my garden	0	goal
+Gardening	What are the benefits of gardening for mental health?	1	goal
+Gardening	How to choose the right gardening tools	0	goal
+Health	What are the symptoms of diabetes?	1	Diagnosis
+Health	How diabetes feels like	0	Symptoms
+Health	What foods to eat with diabetes	1	Nutrition
+Health	What kinds of food are bad for you if you have diabetes	0	Nutrition
+Health	How to manage blood sugar levels with exercise	1	Treatment
+Health	Do workouts really help control sugar levels	0	Workout
+Health	How to choose a doctor for chronic illness	1	Consultation
+Health	Who is the best doctor for you to visit	0	Consultation
+Health	What are the causes of depression in adults	1	Causes
+Health	What causes mental health issues	0	Causes
+Health	What are the benefits of meditation for mental health	1	Treatment
+Health	How can you improve your mental well-being	0	Treatment
+Health	What are the effects of a healthy diet on mental health	1	Nutrition
+Health	What kinds of food make you feel better	0	Nutrition
+Health	How to quit smoking in 30 days	1	Treatment
+Health	How do people stop smoking	0	Treatment
+Health	What are the long-term effects of smoking	1	Risks
+Health	Is smoking bad for you	0	Risks
+Health	What are the symptoms of a vitamin deficiency	1	Diagnosis
+Health	Do I have a vitamin deficiency	0	Diagnosis
+Hobbies	What are the health benefits of playing the guitar?	1	Beneficial activities
+Hobbies	What is the best way to learn music	0	Knowledge seeking
+Hobbies	Which outdoor activities can improve mental health?	1	Health benefits
+Hobbies	What are some fun hobbies for retired people	0	Fun activities
+Hobbies	How to choose a suitable guitar size for a child	1	Practical advice
+Hobbies	What do you think about art as a hobby	0	Opinion-based
+Hobbies	Which martial arts improve hand-eye coordination	1	Skill improvement
+Hobbies	What's the best hobby for someone who wants to be a leader	0	Personality traits
+Hobbies	How to start a garden for beginners	1	Practical advice
+Hobbies	What are some fun things to do in a small town	0	Leisure activities
+Hobbies	Which fitness activities are best for people with back pain	1	Specific requirements
+Hobbies	What are the benefits of painting as a hobby	0	Emotional benefits
+Hobbies	How to join a recreational sports team	1	Practical advice
+Hobbies	What do people typically enjoy about traveling	0	Mood and feelings
+Hobbies	Which board games are best for kids	1	Recommendations
+Hobbies	What are some popular hobbies for teenagers	0	Culture and trends
+Hobbies	How to improve public speaking skills	1	Skill improvement
+Hobbies	What's a fun hobby for people who love reading	0	Interests and tastes
+Housing	How much does it cost to rent a one-bedroom apartment in downtown Los Angeles?	1	information	on_cost
+Housing	I'm looking for a place to live	0	information	on_topic
+Housing	What is the average home price in California?	1	information	on_cost
+Housing	Why do people choose to live in apartments?	0	information	on_motivation
+Housing	I need to find a house with a backyard for my family	1	negotiation	on_features
+Housing	What are the best neighborhoods to live in?	0	information	on_location
+Housing	How do I qualify for a mortgage?	1	procedure	on_process
+Housing	What are the benefits of living in a green building?	0	information	on_features
+Housing	How can I find a roommate to split rent?	1	negotiation	on_arrangements
+Housing	I'm looking for a place to live near the beach	0	information	on_location
+Housing	What are the typical closing costs for a home purchase?	1	information	on_cost
+Housing	What kind of home is best for a small family?	0	information	on_features
+Housing	How do I calculate my housing budget?	1	procedure	on_planning
+Housing	I want to live in a community with a pool and a gym	0	information	on_features
+Housing	What is the difference between a townhouse and a condominium?	1	information	on_knowledge
+Housing	I'm looking for a house with a big garden	0	information	on_features
+Housing	How long does it take to close a mortgage?	1	procedure	on_process
+Housing	I want to invest in real estate, what should I do?	0	information	on_advice
+Housing	What are the different types of mortgages available?	1	information	on_knowledge
+Housing	How do I apply for a rental property?	1	negotiation	on_process
+Housing	I'm looking for a place to live with a good school district	0	information	on_location
+Hydration	How much water should I drink each day to stay properly hydrated?	1	Water intake
+Hydration	What's the best way to stay hydrated while hiking?	1	Hydration methods
+Hydration	What is dehydration and how to prevent it?	1	Dehydration prevention
+Hydration	What are the signs of dehydration in adults?	1	Dehydration symptoms
+Hydration	What is the difference between dehydration and heat stroke?	1	Disease comparison
+Hydration	How to rehydrate after intense exercise?	1	Rehydration
+Hydration	What is the best hydration app for tracking water intake?	1	Product recommendation
+Hydration	How can I make water more flavorful without adding sugar?	1	Food and drink modification
+Hydration	What are the risks of not drinking enough water?	1	Health risks
+Hydration	How often should I drink water throughout the day?	1	Hydration schedule
+Hydration	What is the effect of caffeine on hydration levels?	1	Nutrient interaction
+Hydration	How to increase water intake for someone who doesn't like the taste?	1	Behavior modification
+Hydration	What is the ideal temperature for drinking water?	0	Temperature preference
+Hydration	How to drink water for better skin health?	0	Skin care benefits
+Hydration	Is there a correlation between hydration and weight loss?	0	Weight loss connection
+Hydration	What are some natural sources of hydration besides water?	0	Natural sources
+Hydration	Is it necessary to drink water before bed?	0	Sleep habits
+Hydration	What is the link between hydration and digestion?	0	Digestive health
+Hydration	How to improve hydration for athletes?	0	Sports performance
+Hydration	What are some foods that help with hydration?	0	Nutrition facts
+Hydration	Is there a best time to drink water for energy?	0	Energy boost
+Hygiene	What are the recommended handwashing techniques for preventing the spread of COVID-19?	1	Prevention
+Hygiene	How to wash hands properly	0
+Hygiene	What are the most effective disinfectants for household surfaces?	1	Removal
+Hygiene	How to get rid of germs at home	0
+Hygiene	What is the importance of showering regularly for personal hygiene?	1	Hygiene Practices
+Hygiene	How often to shower in summer	0
+Hygiene	How do I maintain oral hygiene for optimal health?	1	Oral Health
+Hygiene	How to get rid of bad breath	0
+Hygiene	What are the best ways to manage body odor?	1	Personal Hygiene
+Hygiene	How to eliminate body odor permanently	0
+Hygiene	What is the proper way to use a toothbrush?	1	Dental Hygiene
+Hygiene	How often to change toothbrush	0
+Hygiene	What is the role of soap in personal hygiene?	1	Cleaning
+Hygiene	What is the best type of soap for sensitive skin	0
+Hygiene	How to prevent lice and other scalp infections?	1	Skin Care
+Hygiene	How to get rid of lice at home	0
+Hygiene	What are the benefits of flossing daily?	1	Dental Hygiene
+Hygiene	Why do I need to floss my teeth	0
+Hygiene	What are some effective natural remedies for acne?	1	Skin Care
+Hygiene	Home remedies for acne	0
+Hygiene	How to prevent diaper rash in babies?	1	Personal Hygiene
+Hygiene	How to treat diaper rash	0
+Hygiene	What is the importance of wearing clean clothes?	1	Hygiene Practices
+Hygiene	Why do I have to wear clean clothes	0
+Insurance	What are the benefits of having health insurance?	1	Purchasing a plan that covers unexpected medical expenses
+Insurance	What health insurance covers all	0	Costs and coverage for a specific type of care
+Insurance	How to choose the best life insurance policy	1	Selecting a policy with sufficient coverage and premiums
+Insurance	Do life insurance policies cover terminal illnesses	0	Policy specifics and coverage for a rare condition
+Insurance	What are the requirements for getting car insurance	1	Satisfying minimum requirements for state regulations
+Insurance	How to find cheap car insurance	0	Policy comparisons and costs
+Insurance	What types of homeowners insurance are available	1	Distinguishing between various coverage options
+Insurance	What are the causes of high insurance premiums	0	Potential factors contributing to increased costs
+Insurance	How to file an insurance claim for a car accident	1	Steps for reporting and processing a claim
+Insurance	What insurance covers identity theft	0	Protection options for personal information
+Insurance	What are the benefits of buying insurance for a small business	1	Reducing financial risks for company operations
+Insurance	What insurance covers cyber attacks for businesses	0	Protecting against data breaches and malware
+Investments	What are the best investment options for a long-term retirement plan?	1	Investment options
+Investments	Where should I invest my money	0	Investment options
+Investments	How do I calculate the returns on my investment portfolio?	1	Investment performance
+Investments	What is a good investment for someone with high risk tolerance	0	Investment options
+Investments	What are the tax implications of selling a stock investment?	1	Tax implications
+Investments	How do I choose the right investment strategy for my age group	0	Investment strategy
+Investments	What are the best investment apps for beginners	1	Investment tools
+Investments	What does a high-risk investment mean for my portfolio	0	Risk assessment
+Investments	How do I diversify my investment portfolio to minimize risk	1	Investment strategy
+Investments	What is a typical return on investment in real estate	0	Funding sources
+Investments	How do I set up an investment plan for a child's college fund	1	Savings plan
+Investments	What is a good investment for someone with a short-term financial goal	0	Funding sources
+Investments	What are the fees associated with a managed investment fund	1	Fee structure
+Investments	How do I know if a mutual fund is a good investment choice	0	Fund analysis
+Investments	What are the investment options for a small business owner	1	Corporate finance
+Investments	What is the difference between a savings account and an investment account	0	Fund type
+Investments	How do I roll over an IRA to a Roth IRA	1	Fund management
+Investments	What is the best investment for a first-time investor	0	Investment education
+Investments	What are the tax benefits of a 401(k) retirement plan	1	Tax benefits
+isolation	What are the psychological effects of social isolation on mental health?[TAB]1[TAB]understanding its impact
+isolation	How can I reduce feelings of loneliness in isolation?[TAB]1[TAB]practical solutions
+isolation	What are the benefits of spending time in isolation for introverts?[TAB]1[TAB]understanding their needs
+isolation	Is loneliness a symptom of isolation or its cause?[TAB]0[TAB]exploring definitions
+isolation	How do I cope with the physical and emotional consequences of isolation?[TAB]1[TAB]self-care strategies
+isolation	What are the long-term effects of prolonged isolation on physical health?[TAB]1[TAB]medical implications
+isolation	Can social isolation increase the risk of depression?[TAB]1[TAB]mental health risks
+isolation	How can I maintain a sense of community while living in isolation?[TAB]1[TAB]social connections
+isolation	What are the effects of isolation on children's emotional development?[TAB]1[TAB]impact on youth
+isolation	Is isolation a necessary part of the creative process for artists?[TAB]0[TAB]artistic inspiration
+isolation	How can I protect myself from the negative effects of isolation during the pandemic?[TAB]1[TAB]precautions and safety
+isolation	What are the benefits of isolation for individuals with anxiety?[TAB]1[TAB]stress relief strategies
+isolation	How does isolation affect the immune system?[TAB]1[TAB]health consequences
+Kindness	What are the most effective ways to show kindness to a friend who is feeling sad?[	1	Emotional Support
+Kindness	What can you tell me about being kind?[	0	Information
+Kindness	How to be kind to someone who has lost a loved one?[	1	Empathy
+Kindness	What does kindness mean?[	0	Generic Information
+Kindness	How can I practice random acts of kindness in my daily life?[	1	Actionable Advice
+Kindness	What does kindness feel like?[	0	Fantasy or Description
+Kindness	How to handle a conflict with kindness?[	1	Conflict Resolution
+Kindness	What are some examples of acts of kindness?[	0	Illustrative Examples
+Kindness	How can kindness affect mental health?[	1	Mental Health Impact
+Kindness	What are the benefits of kindness?[	0	Overviews or Benefits
+Kindness	How to be kind to someone with a different culture?[	1	Cultural Awareness
+Kindness	What does kindness look like?[	0	Visual Description
+Kindness	How can kindness improve relationships?[	1	Relationship Improvement
+Kindness	What does kindness feel like in the heart?[	0	Fantasy or Description
+Kindness	How to teach kindness to children?[	1	Educational Information
+Kindness	What is kindness in a relationship?[	0	Relationship Dynamics
+Laundry	What is the optimal washing machine temperature for delicate items?	1	binary_label = 1 - user wants to know the temperature for delicate items
+Laundry	How does one do laundry?	0	binary_label = 0 - user wants a general overview
+Laundry	What is the best way to remove red wine stains from clothes?	1	binary_label = 1 - user wants to remove red wine stain
+Laundry	I need to do laundry	0	binary_label = 0 - user asks a general question
+Laundry	How often should I wash my towels?	1	binary_label = 1 - user wants to know the frequency of washing towels
+Laundry	Do I do laundry now?	0	binary_label = 0 - user asks a vague question
+Laundry	What is the process of stain removal for cotton fabrics?	1	binary_label = 1 - user wants stain removal process for cotton
+Laundry	How do I clean a wool sweater?	1	binary_label = 1 - user wants to clean a wool sweater
+Laundry	Laundry tips	0	binary_label = 0 - user asks for general tips
+Laundry	How long does it take to wash and dry a full load of laundry?	1	binary_label = 1 - user wants to know the time for full load
+Laundry	How do I sort laundry?	1	binary_label = 1 - user wants to know how to sort laundry
+Laundry	I need to know about laundry detergent	0	binary_label = 0 - user wants general information
+Laundry	What is the best laundry detergent for sensitive skin?	1	binary_label = 1 - user wants best detergent for sensitive skin
+Laundry	Laundry room organization	0	binary_label = 0 - user asks about room organization
+Laundry	How do I get blood out of clothes?	1	binary_label = 1 - user wants to remove blood stain
+Laundry	Do laundry and ironing are the same?	0	binary_label = 0 - user asks about the difference between tasks
+Laws	What are the basic rights and freedoms guaranteed by the US Constitution?	1	Legal Information
+Laws	What are laws?	0	Generic Inquiry
+Laws	How do I find information on laws related to my small business in California?	1	Business Operations
+Laws	What are the laws about laws?	0	Philosophical Question
+Laws	What is the process for drafting a new law in the United States?	1	Legal Procedure
+Laws	Are there any laws that prohibit the existence of laws?	0	Conceptual Question
+Laws	How do I obtain a copy of the laws related to landlord-tenant disputes in New York?	1	Regulatory Compliance
+Laws	What do laws cover?	0	Overly Broad
+Laws	How do I file a complaint against a company for violating laws?	1	Complaint Filing
+Laws	What are laws about?	0	Vague Query
+Laws	What is the current status of a specific law related to environmental protection?	1	Legal Update
+Laws	Are laws created by gods or humans?	0	Fictional Concept
+Laws	How do I locate a specific law related to employment discrimination in the EU?	1	Legal Research
+Laws	What are laws for?	0	Overly Broad
+Laws	What is the average time it takes for a law to go into effect after passing?	1	Factoid
+Laws	Can laws be broken by robots or artificial intelligence?	0	Speculative Scenario
+Laws	How do I find out about laws affecting my rights as a parent in a divorce?	1	Regulatory Information
+Laws	Do laws apply to space?	0	Theoretical Question
+Learning	What is the most effective learning strategy for memorizing vocabulary?	1	Learning
+Learning	How to learn	0	Learning
+Learning	What are the benefits of spaced repetition for learning?	1	Learning
+Learning	Is it better to learn English or Spanish?	0	Learning
+Learning	How can I improve my focus while studying?	1	Learning
+Learning	Why is it difficult to learn new things?	0	Learning
+Learning	What are the best resources for online learning?	1	Learning
+Learning	How can I get motivated to learn something new?	0	Learning
+Learning	What is the best way to learn a new language quickly?	1	Learning
+Learning	Is there a cure for learning difficulties?	0	Learning
+Learning	What are the steps to develop a learning plan?	1	Learning
+Learning	How can I overcome my fear of learning something new?	0	Learning
+Learning	What is the most effective method for learning mathematics?	1	Learning
+Learning	Is it true that everyone learns differently?	0	Learning
+Learning	How can I improve my reading comprehension?	1	Learning
+Learning	What are some good ways to learn from failures?	0	Learning
+Learning	What is the best tool for creating flashcards?	1	Learning
+Learning	Is it better to learn from books or online courses?	0	Learning
+Learning	How can I optimize my study routine?	1	Learning
+Learning	What are the benefits of learning a new skill?	0	Learning
+Learning	What is the best way to learn from experts?	1	Learning
+Lighting	How to properly install LED strip lighting in a living room?	1	Installation information
+Lighting	LED strip lighting installation tutorials	0	Installation information
+Lighting	What are the benefits of using smart lighting systems?	1	Benefits and advantages
+Lighting	Smart lighting benefits and drawbacks	0	Benefits and advantages
+Lighting	What is the best type of lighting for a home office?	1	Product or service recommendation
+Lighting	Lighting options for home offices	0	Product or service recommendation
+Lighting	How to choose the right color temperature for living room lighting?	1	Tips and guidelines
+Lighting	Lighting color temperature and ambiance	0	Tips and guidelines
+Lighting	What are the energy-efficient lighting options available?	1	Energy efficiency and conservation
+Lighting	Energy-efficient lighting solutions	0	Energy efficiency and conservation
+Lighting	How to dim LED light bulbs safely?	1	Safety and maintenance
+Lighting	Dimming LED lights	0	Safety and maintenance
+Lighting	What is the average cost of installing outdoor lighting?	1	Financial information
+Lighting	Cost of outdoor lighting	0	Financial information
+Lighting	What is the best way to hang string lights on a patio?	1	Hardware or equipment usage
+Lighting	Outdoor lighting installation tips	0	Hardware or equipment usage
+Lighting	How to troubleshoot issues with under-cabinet lighting?	1	Troubleshooting and repair
+Lighting	Under-cabinet lighting issues	0	Troubleshooting and repair
+Lighting	What is the best type of lighting for a nursery?	1	Product or service recommendation
+Lighting	Nursery lighting options	0	Product or service recommendation
+Lighting	How to measure and calculate the wattage for a lighting circuit?	1	Technical information
+Lighting	Lighting circuit calculations	0	Technical information
+Lighting	What are the different types of lighting fixtures available?	1	Product or service overview
+Lighting	Lighting fixture options	0	Product or service overview
+Lighting	How to replace a ceiling light fixture safely?	1	Safety and maintenance
+Lighting	Replacing ceiling light fixtures	0	Safety and maintenance
+Lighting	What is the average lifespan of LED light bulbs?	1	Fact or statistic
+Lighting	LED light bulb lifespan	0	Fact or statistic
+Lighting	How to synchronize lights with a smart home system?	1	System integration
+Lighting	Smart home lighting integration	0	System integration
+Loneliness	How do I overcome feelings of loneliness and isolation?	1	Goal: Overcoming loneliness
+Loneliness	Is loneliness a normal part of life?	0	Information
+Loneliness	What are some effective strategies for managing loneliness?	1	Goal: Managing loneliness
+Loneliness	Why do people feel lonely even when they're surrounded by others?	0	Information
+Loneliness	What are some signs and symptoms of loneliness in adults?	1	Goal: Identifying loneliness
+Loneliness	What is the relationship between loneliness and mental health?	0	Information
+Loneliness	How can I connect with others to alleviate loneliness?	1	Goal: Connecting with others
+Loneliness	Is loneliness a sign of weakness?	0	Information
+Loneliness	What are some ways to build a social support network?	1	Goal: Building social support
+Loneliness	What are the long-term effects of chronic loneliness?	0	Information
+Loneliness	How can I find meaning and purpose to combat loneliness?	1	Goal: Finding meaning
+Loneliness	Is loneliness a natural part of aging?	0	Information
+Loneliness	What are some healthy ways to cope with loneliness during the holidays?	1	Goal: Coping with loneliness
+Loneliness	How does technology impact feelings of loneliness?	0	Information
+Loneliness	What are some strategies for managing loneliness in a remote work environment?	1	Goal: Managing loneliness
+Loneliness	Is loneliness a sign of depression?	0	Information
+Loneliness	What are some ways to practice self-compassion when feeling lonely?	1	Goal: Practicing self-compassion
+Loneliness	What are the cultural factors that contribute to loneliness?	0	Information
+Loneliness	How can I find resources and support to help with loneliness?	1	Goal: Finding resources
+Loneliness	Is loneliness a global issue?	0	Information
+Loneliness	What are some ways to prioritize self-care when experiencing loneliness?	1	Goal: Prioritizing self-care
+Maintenance	What are the scheduled maintenance tasks for my HVAC system?	1	problem_solving
+Maintenance	How does one do a general maintenance check on their home?	0	fact_learning
+Maintenance	I am searching for tips on HVAC system maintenance.	1	information_acquisition
+Maintenance	What can cause my car's engine to stall?	0	research
+Maintenance	I am looking for ways to improve my car's fuel efficiency.	1	information_acquisition
+Maintenance	What maintenance activities should I perform on my lawn mower regularly?	1	procedure_finding
+Maintenance	I am looking for general maintenance advice for a pool.	0	fact_learning
+Maintenance	What are the correct steps to follow for basic car maintenance?	1	instruction_finding
+Maintenance	I am unsure what tools I need to do maintenance on my bike.	0	procedural_finding
+Maintenance	I am searching for best practices for data center maintenance.	1	information_acquisition
+Maintenance	I need help finding a good lubricant for my motorcycle.	0	recommendation
+Maintenance	I am trying to determine the best maintenance schedule for my refrigerator.	1	problem_solving
+Maintenance	I am looking for tips on how to increase the lifespan of my air conditioner.	0	fact_learning
+Maintenance	What are the procedures for inspecting my home's electrical system?	1	procedure_finding
+Maintenance	I am seeking information on how to care for a new mattress.	0	product_information
+Maintenance	I am trying to determine the most common causes of leaky faucets.	1	research
+Maintenance	I need guidance on creating a car maintenance log.	0	procedure_finding
+Maintenance	What are the safety precautions when working with power tools during maintenance?	1	safety_guidance
+Maintenance	I am looking for a comparison of different types of pool filters.	0	information_acquisition
+Maintenance	How can I identify the source of a water leak in my home?	1	diagnostic_finding
+Maintenance	I need help finding the best type of grease for my car's engine.	0	product_information
+Maintenance	I am looking for a comprehensive guide to home maintenance tasks.	1	instruction_finding
+Maintenance	I am trying to determine the best way to inspect my car's brake pads.	1	procedure_finding
+Markets	What is the definition of a stock market?	1	Definition
+Markets	How to trade in the stock market effectively	1	Information
+Markets	What are the major stock exchanges in the US?	1	Information
+Markets	List the top 10 performing stocks last quarter	1	Information
+Markets	Why do stock prices fluctuate so much?	1	Information
+Markets	What are the best investment options for a beginner?	1	Information
+Markets	What is the current market trend for cryptocurrencies?	1	Information
+Markets	How do I calculate the ROI of a stock investment?	1	Information
+Markets	What is the difference between a bull and bear market?	1	Information
+Markets	How do I get started with forex trading?	1	Information
+Markets	What are the risks associated with trading in commodities?	1	Information
+Markets	What is a bear market	0	Uncertainty
+Markets	Market analysis and prediction methods	0	Opinion
+Markets	How do I make a profit in the market	0	Opinion
+Markets	Is the market going to crash soon	0	Worry
+Markets	How do I time the market perfectly	0	Uncertainty
+Markets	What is the definition of a market crash	0	Definition
+Markets	What are the best trading strategies	0	Opinion
+Markets	How do I avoid market volatility	0	Solution
+Markets	What is a market bubble	0	Definition
+Markets	How do I get into the market without money	0	Barrier
+Markets	What are the benefits of investing in the market	0	Information
+Markets	How do I keep track of market trends	0	Solution
+Markets	What is the impact of global events on the market	0	Influence
+Medication	What are the side effects of amoxicillin for a 5-year-old child?	1	Treatment efficacy
+Medication	What does amoxicillin do	0	Treatment efficacy
+Medication	How to take azithromycin for a throat infection	1	Side effects
+Medication	Will I feel better after taking azithromycin	0	Side effects
+Medication	What are the different types of antibiotics available for strep throat	1	Symptoms
+Medication	What antibiotics work for strep throat	0	Symptoms
+Medication	How long does it take for amoxicillin to work on an ear infection	1	Side effects
+Medication	How long will I feel sick before amoxicillin works	0	Side effects
+Medication	How much does a prescription of antibiotics cost at CVS	1	Pricing
+Medication	How expensive is a doctor visit for a prescription	0	Pricing
+Medication	What are the benefits of taking a low-dose aspirin	1	Side effects
+Medication	What happens if I take too much aspirin	0	Side effects
+Medication	How do I store my prescription medication at home	1	Prescription guidelines
+Medication	What is the best way to store medication at home	0	Prescription guidelines
+Medication	How do I dispose of expired medication safely	1	Prescription guidelines
+Medication	How do I get rid of old medication	0	Prescription guidelines
+Medication	What are the recommended dosages of metformin for diabetes	1	Side effects
+Medication	What medications help with diabetes	0	Symptoms
+Meditation	How can I establish a consistent daily meditation practice?	1	establish
+Meditation	What does meditation feel like	0	
+Meditation	What are the physical health benefits of regular meditation?	1	physical_health
+Meditation	Is meditation a form of escapism	0	
+Meditation	How can I improve my focus during meditation?	1	focus
+Meditation	Is meditation a form of mind control	0	
+Meditation	What are the mental health benefits of meditation for anxiety	1	anxiety
+Meditation	What is the purpose of meditation in Buddhism	0	
+Meditation	How can I reduce stress through meditation?	1	stress
+Meditation	What is meditation like for a beginner	0	
+Meditation	What are the cognitive benefits of long-term meditation practice?	1	cognitive_benefits
+Meditation	How does meditation affect relationships	0	
+Meditation	What are the spiritual benefits of meditation for Christians	1	spiritual_benefits
+Meditation	What happens when you meditate for 10 minutes	0	
+Meditation	How can I overcome distractions during meditation?	1	distractions
+Meditation	What does it mean to be mindful	0	
+Meditation	What are the benefits of morning meditation?	1	morning_meditation
+Meditation	Is meditation a waste of time	0	
+Meditation	How to practice loving-kindness meditation	1	loving_kindness
+Meditation	What is the best meditation technique for sleep	0	
+Meditation	How does meditation improve emotional regulation?	1	emotional_regulation
+Meditation	Is meditation a way to relax	0	
+Meditation	What are the benefits of group meditation?	1	group_meditation
+Meditation	What happens if you meditate too much	0	
+Meditation	How can I track my meditation progress	1	progress
+Meditation	What is meditation in relation to yoga	0	
+Meditation	What are the benefits of transcendental meditation?	1	transcendental_meditation
+Meditation	How to meditate with a busy schedule	0	
+Meditation	What are the benefits of guided meditation for beginners	1	guided_meditation
+Memories	What are the most significant events from my childhood?	1	Curiosity
+Memories	what happened when i was little	0	Curiosity
+Memories	How do I improve my memory for exams?	1	Education
+Memories	how to remember things better	0	Education
+Memories	What are the benefits of nostalgia?	1	Psychology
+Memories	what makes me happy as a child	0	Psychology
+Memories	How to retrieve lost memories?	1	Medical
+Memories	I forgot something I knew what can i do	0	Medical
+Memories	What is the science behind nostalgia?	1	Knowledge
+Memories	nostalgia means	0	Knowledge
+Memories	How to preserve family memories?	1	Relationships
+Memories	what are memories about family	0	Relationships
+Milestones	What are the key milestones in project management?	1	Binary_label=1	User_information_need=project_management
+
+Milestones	What are some big milestones?	0	Binary_label=0	User_information_need=milestones
+
+Milestones	How to track and manage project milestones?	1	Binary_label=1	User_information_need=project_management
+
+Milestones	What do you mean by milestones?	0	Binary_label=0	User_information_need=milestones
+
+Milestones	How to set effective project milestones?	1	Binary_label=1	User_information_need=project_management
+
+Milestones	Are milestones important in a project?	0	Binary_label=0	User_information_need=importance
+
+Milestones	What are the types of project milestones?	1	Binary_label=1	User_information_need=project_management
+
+Milestones	What are some examples of milestones in life?	0	Binary_label=0	User_information_need=personal_development
+
+Milestones	How to measure the success of project milestones?	1	Binary_label=1	User_information_need=project_evaluation
+
+Milestones	What are milestones in a relationship?	0	Binary_label=0	User_information_need=relationship_management
+
+Milestones	How to achieve business milestones quickly?	1	Binary_label=1	User_information_need=business_growth
+
+Milestones	What are some common milestones in a career?	0	Binary_label=0	User_information_need=career_advancement
+Mindfulness	How to practice mindfulness meditation for beginners?	1	Defining Mindfulness Goals
+Mindfulness	What mindfulness means in everyday life	0	Exploring Mindfulness Concepts
+Mindfulness	What are the benefits of mindfulness for stress management?	1	Discovering Mindfulness Benefits
+Mindfulness	How do I practice mindfulness in my daily routine?	0	Developing Mindfulness Habits
+Mindfulness	What is the relationship between mindfulness and mental health?	1	Mindfulness and Mental Health
+Mindfulness	What are some mindfulness techniques for anxiety?	0	Managing Mindfulness Strategies
+Mindfulness	How to use mindfulness for improving emotional regulation?	1	Empowering Mindfulness Skills
+Mindfulness	What is the role of mindfulness in enhancing creativity?	0	Unlocking Mindfulness Potential
+Mindfulness	How to practice mindfulness in the workplace?	1	Practicing Mindfulness at Work
+Mindfulness	What are the key principles of mindfulness?	0	Understanding Mindfulness Fundamentals
+Mindfulness	How does mindfulness affect physical health?	1	Mindfulness and Physical Health
+Motivation	What are the most effective strategies to boost employee motivation in a call center?[TAB]1[TAB]Improving employee motivation in a call center setting
+Motivation	How to get motivated when everything seems hopeless?[TAB]0[TAB]Finding ways to cope with feeling unmotivated
+Motivation	What are the key performance indicators for measuring employee motivation?[TAB]1[TAB]Identifying and tracking KPIs for employee motivation
+Motivation	What is the best way to keep myself motivated during a long-term project?[TAB]1[TAB]Staying motivated during long-term projects
+Motivation	What are some common motivational theories and models?[TAB]1[TAB]Exploring motivational theories and models
+Motivation	How can I motivate my team members to perform better in their tasks?[TAB]1[TAB]Strategies for team motivation
+Motivation	What is the relationship between motivation and productivity?[TAB]1[TAB]Understanding the connection between motivation and productivity
+Motivation	What are some simple yet effective ways to boost employee morale?[TAB]1[TAB]Improving employee morale
+Motivation	What are the main obstacles that hinder employee motivation?[TAB]1[TAB]Common barriers to employee motivation
+Motivation	What are some motivational quotes and sayings that can inspire me?[TAB]1[TAB]Motivational quotes and sayings
+Motivation	How can I create a motivational plan for myself to achieve my goals?[TAB]1[TAB]Creating a personal motivation plan
+Motivation	What is the difference between intrinsic and extrinsic motivation?[TAB]1[TAB]Intrinsic vs extrinsic motivation
+Motivation	What are some signs that indicate someone is demotivated?[TAB]1[TAB]Recognizing signs of demotivation
+Motivation	How can I use music to boost my motivation?[TAB]1[TAB]The motivational power of music
+Motivation	What are some effective ways to overcome procrastination and stay motivated?[TAB]1[TAB]Overcoming procrastination and staying motivated
+Motivation	What are the benefits of setting achievable goals for motivation?[TAB]1[TAB]The benefits of setting achievable goals
+Movies	What are the top-grossing films of 2022?	1	Information
+Movies	What are some good movies?	0
+Movies	Which movie won the most Oscars?	1	Information
+Movies	What are movies?	0
+Movies	What is the best movie to watch during a road trip?	1	Recommendation
+Movies	What movies are coming out this year?	0
+Movies	What is the runtime of Inception?	1	Information
+Movies	What movie is set in space?	0
+Movies	Who are the main cast members of The Shawshank Redemption?	1	Information
+Movies	What kind of movies do you like?	0
+Movies	What are the different types of horror movies?	1	Information
+Movies	Do you like horror movies?	0
+Music	What are the top 10 most popular songs in 2023?	1	Genre Information
+Music	What is music?	0	Genre Information
+Music	What is the average tempo of a jazz song?	1	Music Characteristics
+Music	What is the history of jazz music	0	Music Information
+Music	How to write a pop song	1	Creative Guidance
+Music	What is music to someone	0	Philosophical Meaning
+Music	What is the definition of a musical instrument	1	Music Definitions
+Music	What music is	0	General Knowledge
+Music	How to read sheet music	1	Skill Development
+Music	What is the role of music in society	0	Social Impact
+Music	How to record a song with good audio quality	1	Tutorial Instructions
+Music	What does music mean	0	Philosophical Meaning
+Music	How to create a music playlist	1	Skill Development
+Music	What is music therapy	0	Benefits Information
+Music	How to compose a classical music piece	1	Creative Guidance
+Music	What music do people like	0	General Interest
+Music	How to create a music video	1	Tutorial Instructions
+Music	What is the future of music	0	Future Prediction
+Music	How to write a musical for stage	1	Creative Guidance
+Music	What is the impact of music on mental health	0	Benefits Information
+Music	How to produce electronic dance music	1	Tutorial Instructions
+Music	What music is the best	0	Subjective Opinion
+Music	How to learn music theory	1	Skill Development
+Music	What is the history of rock music	0	Music Information
+Nature	What are the primary causes of deforestation?	1	Impact_analysis
+Nature	Why is nature important for human survival	0	Impact_analysis
+Nature	What are some strategies for sustainable eco-tourism in the Amazon rainforest?	1	Solution
+Nature	What is the meaning of nature	0	Impact_analysis
+Nature	How does climate change affect global ecosystems?	1	Impact_analysis
+Nature	What is the nature of the relationship between humans and animals	0	Impact_analysis
+Nature	What are the benefits of urban forestry?	1	Solution
+Nature	What is the nature of nature	0	Impact_analysis
+Nature	How can we reduce plastic pollution in our oceans?	1	Solution
+Nature	What does nature mean to me	0	Impact_analysis
+Nature	How does reforestation help combat climate change?	1	Solution
+Nature	What is the concept of nature	0	Impact_analysis
+Nature	What are the effects of pollution on the environment?	1	Impact_analysis
+Nature	What is the nature of humanity's relationship with nature	0	Impact_analysis
+Nature	What are some ways to conserve water in dry regions?	1	Solution
+Nature	What is the essence of nature	0	Impact_analysis
+Nature	How does conservation efforts protect endangered species?	1	Solution
+Nature	What is the nature of the earth	0	Impact_analysis
+Nature	What are some strategies for mitigating the effects of natural disasters?	1	Solution
+Nature	What is the role of nature in our daily lives	0	Impact_analysis
+Nature	How does climate change affect marine life?	1	Impact_analysis
+Nature	What is the nature of the human experience	0	Impact_analysis
+Nature	What are the benefits of conserving biodiversity?	1	Solution
+Nature	What is the definition of nature	0	Impact_analysis
+Networking	How to set up a home network with Wi-Fi and Ethernet connections?	1	Learn
+Networking	What's the best way to set up a home network with Wi-Fi and Ethernet connections?	0	Learn
+Networking	What are the common networking protocols used in IT?	1	Learn
+Networking	What's the difference between a router and a switch?	0	Learn
+Networking	How to secure my network from hacking attempts and malware?	1	Learn
+Networking	How do I troubleshoot a slow network?	0	Learn
+Networking	What are the key components of a network architecture?	1	Learn
+Networking	How can I optimize my network for online gaming?	0	Learn
+Networking	What are the common networking mistakes to avoid?	1	Learn
+Networking	How to design a network for multiple devices?	0	Learn
+Networking	What is the best way to implement Quality of Service (QoS) in a network?	1	Learn
+Networking	How to set up a virtual private network (VPN)?	0	Learn
+Networking	What are the advantages of cloud networking?	1	Learn
+Networking	How can I secure my network from Wi-Fi hacking?	0	Learn
+Networking	What is the difference between a wired and wireless network?	1	Learn
+Networking	How do I troubleshoot a network connectivity issue?	0	Learn
+Networking	What are the best network management tools?	1	Learn
+Networking	How to configure a network for IoT devices?	0	Learn
+Networking	What are the common network security threats?	1	Learn
+Networking	How can I improve network bandwidth?	0	Learn
+Networking	What is the purpose of a network operating system?	1	Learn
+Networking	How to optimize network performance?	0	Learn
+Nutrition	What are the recommended daily intake of calories for a 35-year-old woman?	1	Information_on_health_guidelines
+Nutrition	What do you think is a good diet?	0	Opinion_on_nutrition
+Nutrition	What are the essential nutrients required for a balanced diet?	1	Facts_on_nutrition
+Nutrition	Can I eat too much protein?	0	Concern_about_specific_macronutrient
+Nutrition	What are the health benefits of a high-fiber diet?	1	Facts_on_nutrition
+Nutrition	What are the top 5 healthiest foods?	0	Subjective_list
+Nutrition	How does a low-carb diet affect blood sugar levels?	1	Information_on_specific_diet
+Nutrition	What foods are good for my digestive system?	0	Vague_request
+Nutrition	What is the recommended daily intake of iron for a male adult?	1	Facts_on_nutrition
+Nutrition	Why do I feel tired all the time?	0	Symptom_description
+Nutrition	What are the benefits of eating foods rich in omega-3 fatty acids?	1	Facts_on_nutrition
+Nutrition	How do I start a diet for weight loss?	0	Vague_request
+Office	What is the average cost of renting an office in New York City?[	1	Office rental costs
+Office	What does an office look like?[	0	Office description
+Office	How do I plan a meeting in Microsoft Office?[	1	Office software tutorials
+Office	What is a typical office layout?[	0	Office design inspiration
+Office	What is the best office chair for back pain?[	1	Product recommendations
+Office	What is an office party like?[	0	Office social events
+Office	How do I set up an office network?[	1	IT tutorials
+Office	What does an office building look like?[	0	Architecture styles
+Office	How do I manage office finances?[	1	Financial planning
+Office	What are office supplies used for?[	0	Office supplies list
+Office	How do I optimize office space?[	1	Productivity tips
+Office	What is the average office temperature?[	0	Environmental comfort
+Office	How do I use office software?[	1	Software tutorials
+Office	What is a typical office schedule?[	0	Scheduling examples
+Office	How do I decorate an office?[	1	Interior design
+Office	What are office policies about?[	0	Company policies
+Office	How do I maintain office equipment?[	1	Equipment maintenance
+Office	What is an office tour like?[	0	Office tours
+Office	How do I handle office conflicts?[	1	Conflict resolution
+Office	What are office hours?[	0	Work schedule
+Organization	How to create a business organizational chart	1	Plan an organizational structure
+Organization	What is the ideal organizational structure for a small business	0	Tell me about organizational charts
+Organization	How to create an organizational chart in PowerPoint	1	Use a software for organizational chart creation
+Organization	What is organizational development in business	0	Tell me about organizational structure types
+Organization	How to set up a home office organizational system	1	Create a home office layout
+Organization	What is the purpose of organizational change management	0	Discuss organizational change process
+Organization	How to implement organizational learning and development	1	Train employees in new skills
+Organization	What are the key characteristics of a well-organized workspace	0	Tell me about workspace design
+Organization	How to develop an organizational culture	1	Promote company values
+Organization	What is the role of organizational design in business	0	Explain organizational behavior
+Organization	How to use organizational metrics to measure performance	1	Track key performance indicators
+Organization	What is the relationship between organizational leadership and productivity	0	Discuss leadership styles
+Parenting	What are the recommended daily routines for a 2-year-old child?	1	Care
+Parenting	Parenting tips for toddlers	0	Care
+Parenting	How do I establish a consistent sleep schedule for my newborn?	1	Baby
+Parenting	Parenting advice from a child development specialist	0	Baby
+Parenting	What is the best way to discipline a 5-year-old child who throws tantrums?	1	Discipline
+Parenting	Discipline techniques for parents	0	Discipline
+Parenting	How do I create a safe play environment for my child at home?	1	Safety
+Parenting	Safe parenting products for children	0	Safety
+Parenting	What are some fun educational activities for preschoolers?	1	Edutainment
+Parenting	Fun activities for kids	0	Edutainment
+Parenting	How do I support my child's emotional development during puberty?	1	Teen
+Parenting	Teenage parenting issues	0	Teen
+Parenting	What are the benefits of reading to my child?	1	Literacy
+Parenting	Parenting and reading	0	Literacy
+Parenting	How can I manage my child's screen time effectively?	1	Discipline
+Parenting	Excessive screen time and parenting	0	Discipline
+Parenting	What are some effective ways to communicate with my teenager?	1	Teen
+Parenting	Parent teenager communication	0	Teen
+Parenting	How do I handle a picky eater child?	1	Health
+Parenting	Eating disorders in children	0	Health
+Parenting	What are some healthy snack options for a 3-year-old child?	1	Health
+Parenting	Healthy eating habits for kids	0	Health
+Parenting	What are the signs of bullying in children?	1	Safety
+Parenting	Bullying in schools	0	Safety
+Parenting	How do I support my child's social skills development?	1	Social
+Parenting	Social skills for children	0	Social
+Parenting	What are some ways to reduce conflict between siblings?	1	Family
+Parenting	Sibling rivalry	0	Family
+Pets	What are the average monthly costs for owning a dog?	1	Money
+Pets	What pets are good for apartment living?	1	Money
+Pets	How to care for a dog's coat?	1	Money
+Pets	What kind of food do cats like?	1	Nutrition
+Pets	How to make my cat purr?	1	Behavior
+Pets	What are the benefits of having a cat?	1	Health
+Pets	What are the top dog breeds?	1	Fun
+Pets	How often should I take my dog to the vet?	1	Health
+Pets	Do cats and dogs get along?	1	Behavior
+Pets	What is the average lifespan of a cat?	1	Health
+Pets	What type of pet is best for kids?	1	Fun
+Pets	Pets are amazing, I love them	0	N/A
+Pets	I have pets at home	0	N/A
+Pets	I want to learn more about pets	0	N/A
+Pets	How long do pets live?	0	N/A
+Pets	What is the best pet?	0	N/A
+Pets	I'm thinking of getting a pet	0	N/A
+Pets	Pet food is expensive	0	N/A
+Pets	I want to know about dog care	0	N/A
+Pets	What kind of animals are pets?	0	N/A
+Pets	I have a pet that is sick	0	N/A
+Photography	How do I set up a tripod for a DSLR camera?	1	Buying equipment
+Photography	What is the best camera lens for beginners?	0	
+Photography	How do I edit a photo in Lightroom?	1	Software skills
+Photography	What is photography all about?	0	
+Photography	How do I take a good sunset photo?	1	Camera techniques
+Photography	What is the meaning of photography?	0	
+Photography	How do I print high-quality photos at home?	1	Printing techniques
+Photography	How do I make a photo look better?	0	
+Photography	What are the best photography apps for Android?	1	Software tools
+Photography	What does photography mean in a different language?	0	
+Photography	How do I shoot a wedding with a single lens?	1	Camera techniques
+Photography	How to make photography more enjoyable	0	
+Photography	What is the best camera brand for wildlife photography?	1	Product recommendations
+Photography	What are some general photography tips	0	
+Photography	How do I create a photography portfolio online?	1	Career development
+Photography	How can I get inspired by photography	0	
+Photography	What is the best camera for video production?	1	Product recommendations
+Photography	What does photography do for me	0	
+Photography	How do I set up a home studio for photography?	1	Studio setup
+Photography	How can I start a photography business?	0	
+Photography	What is the importance of lighting in photography?	1	Camera techniques
+Photography	What are some famous photographers	0	
+Photography	How do I improve my photography skills quickly?	1	Self-improvement
+Photography	What are some photography styles	0	
+Photography	How do I choose the right camera settings for a portrait?	1	Camera techniques
+Photography	What are the photography competitions	0	
+Photography	What is photography education like?	1	Education and training
+Podcasts	What is the most popular podcast in 2023?	1	Information
+Podcasts	How do podcasts work	0
+Podcasts	What are the best true crime podcasts?	1	Recommendation
+Podcasts	Find a podcast about conspiracy theories	0
+Podcasts	How do I subscribe to a podcast on Apple Podcasts?	1	Instructions
+Podcasts	What's the best way to record a podcast	0
+Podcasts	Which podcasts are available on Spotify?	1	Fact
+Podcasts	I want to listen to podcasts about history	0
+Podcasts	What is the history of podcasting?	1	Information
+Podcasts	Find podcasts similar to The Joe Rogan Experience	0
+Podcasts	How do I create a podcast for beginners?	1	Instructions
+Podcasts	What is a podcast platform	0
+Podcasts	Which podcasts are popular among young adults?	1	Fact
+Podcasts	I'm looking for a podcast about technology news	0
+Politics	What are the current global policies regarding climate change?	1	Tutorial
+Politics	What is the politics behind climate change?	0	Knowledge
+Politics	What is the most influential political ideology in the United States?	1	Fact
+Politics	What is the impact of politics on the environment?	0	Understanding
+Politics	What are the key figures in modern-day politics?	1	Information
+Politics	What is the meaning of politics?	0	Discussion
+Politics	Who are the main candidates for the next presidential election?	1	Election
+Politics	How does politics affect society?	0	Insight
+Politics	What are the major political parties in the UK?	1	Information
+Politics	What is the relationship between politics and economics?	0	Analysis
+Politics	What is the role of the head of state in the government?	1	Fact
+Politics	How do politics shape our daily lives?	0	Insight
+Protection	How do I protect my online accounts from hacking?	1	Personal data protection
+Protection	Protect my identity	0	Identity security
+Protection	What are the best practices for protecting against cyber threats?	1	Threat prevention
+Protection	Protect myself from cyber attacks	0	Safety measures
+Protection	How do I password-protect my computer?	1	Access control
+Protection	Keep me safe online	0	General security
+Protection	What are the most common ways to protect my home from intruders?	1	Household security
+Protection	Protect my home	0	Dwelling safety
+Protection	How do I secure my financial information?	1	Financial security
+Protection	Protect my money	0	Assets safety
+Protection	What are the best methods for protecting my personal data?	1	Data protection
+Protection	Protect my data	0	Personal information safety
+Reading	What is the definition of reading?	1	Terms and definitions
+Reading	What does reading mean	0
+Reading	How to improve reading comprehension in children	1	Instruction or guidance
+Reading	How can I improve reading skills	0
+Reading	What are the benefits of reading for adults	1	Benefits or advantages
+Reading	What are the benefits of reading	0
+Reading	How to speed read efficiently	1	Skills or techniques
+Reading	How can I read faster	0
+Reading	What is the best reading strategy for improving vocabulary	1	Strategies or methods
+Reading	What are some good ways to improve reading skills	0
+Reading	How to teach reading to a non-reader	1	Instruction or guidance
+Reading	How to teach reading	0
+Reading	What are the types of reading comprehension strategies	1	Knowledge or classification
+Reading	What is reading comprehension	0
+Reading	How to analyze a reading material	1	Analysis or evaluation
+Reading	What does analysis mean in reading	0
+Reading	What are the different types of reading materials	1	Categorization
+Reading	What types of reading materials exist	0
+Reading	How to evaluate a reading source	1	Evaluation or judgment
+Reading	Is this a good reading source	0
+Recycling	What are the steps to recycle paper?	1	Intent_to_learn
+Recycling	How can I recycle?	0	Intent_to_learn
+Recycling	What are the benefits of recycling?	1	Intent_to_learn
+Recycling	Is recycling good for the environment?	0	Intent_to_learn
+Recycling	How does recycling help reduce waste?	1	Intent_to_learn
+Recycling	What happens to recycled materials?	0	Intent_to_learn
+Recycling	What are the different types of recyclable materials?	1	Intent_to_learn
+Recycling	What materials can I recycle?	0	Intent_to_learn
+Recycling	How do I start a recycling program at work?	1	Intent_to_learn
+Recycling	How can I recycle electronics?	0	Intent_to_learn
+Recycling	What are the common recycling mistakes to avoid?	1	Intent_to_learn
+Recycling	How can I reduce, reuse, recycle?	0	Intent_to_learn
+Recycling	What is the recycling process?	1	Intent_to_learn
+Recycling	How do I prepare my recyclables for collection?	0	Intent_to_learn
+Recycling	What are the environmental benefits of recycling?	1	Intent_to_learn
+Recycling	What is the impact of recycling on climate change?	0	Intent_to_learn
+Recycling	How can I recycle plastics?	1	Intent_to_learn
+Recycling	What is the difference between recyclable and non-recyclable materials?	0	Intent_to_learn
+Recycling	How do I report non-recyclable materials?	1	Intent_to_learn
+Recycling	What are the recycling regulations in my area?	0	Intent_to_learn
+Recycling	How can I get involved in local recycling initiatives?	1	Intent_to_learn
+Relationships	What are the essential traits of a healthy relationship?	1	Goal: Determine what makes a relationship successful
+Relationships	What do people think is important in a relationship?	0	User curiosity
+Relationships	How can I improve communication with my partner?	1	Goal: Develop effective communication skills
+Relationships	What are some good conversation starters for couples?	0	Seeking ideas for interactions
+Relationships	What are the signs of a toxic relationship?	1	Goal: Identify unhealthy patterns
+Relationships	Why do people stay in toxic relationships?	0	Analyzing motivations
+Relationships	What are some tips for building trust in a relationship?	1	Goal: Establish trust
+Relationships	How can I trust my partner if I have trust issues?	0	User seeking advice
+Relationships	What are the different types of relationships (romantic, friendships, etc.)?	1	Goal: Understand relationship types
+Relationships	What makes a relationship meaningful?	0	User pondering life
+Relationships	How can I maintain intimacy in a long-distance relationship?	1	Goal: Sustain emotional connection
+Relationships	What are some common challenges faced by couples in long-distance relationships?	0	User seeking insight
+Relationships	What is the importance of commitment in a relationship?	1	Goal: Understand the value of commitment
+Relationships	Why do people struggle with commitment in relationships?	0	User seeking explanations
+Remote	How do I set up a universal remote for my TV?[	1	Setup remote control
+Remote	What is the meaning of remote?[	0	User information
+Remote	How to program a remote control?[	1	Programming remote
+Remote	What's the difference between remote work and freelancing?[	0	Work comparison
+Remote	How to get a remote job?[	1	Job search
+Remote	What does remote-controlled car mean?[	0	Vehicle control
+Remote	How to troubleshoot a remote mouse?[	1	Troubleshooting hardware
+Remote	What does remote sensing mean in science?[	0	Scientific term
+Remote	How to connect a remote to a projector?[	1	Setup technology
+Remote	What's the difference between remote and local access?[	0	Computer access
+Remote	How to pair a remote with a device?[	1	Device connection
+Remote	What does remote health monitoring entail?[	0	Medical care
+Remote	How to customize a remote control?[	1	Remotes customization
+Repairs	How do I fix a leaky faucet?	1	Cost estimation
+Repairs		what kind of tools do I need for a repair	0
+Repairs	What are the steps to replace a car battery?	1	Part identification
+Repairs		how to repair a car at home	0
+Repairs	What is the procedure for repairing a damaged roof?	1	Safety precautions
+Repairs		what do i need to repair a roof leak	0
+Repairs	How do I fix a broken smartphone screen?	1	Part replacement cost
+Repairs		how to fix a phone at home	0
+Repairs	What are the common causes of appliance malfunction?	1	Failure prevention
+Repairs		what causes a washing machine to stop working	0
+Repairs	How do I troubleshoot a faulty electrical circuit?	1	Wiring diagram
+Repairs		how to fix a electrical issue	0
+Repairs	What is the process for fixing a clogged drain?	1	Plumbing tools
+Repairs		how do you fix a slow drain	0
+Repairs	How do I repair a cracked concrete floor?	1	Materials needed
+Repairs		how to fix a concrete slab	0
+Repairs	What are the steps to replace a faulty HVAC filter?	1	Filter types
+Repairs		how to maintain a heating and cooling system	0
+Repairs	How do I fix a broken door hinge?	1	Tightening procedure
+Repairs		how to repair a door	0
+Repairs	What is the procedure for repairing a damaged engine?	1	Engine specifications
+Repairs		how to repair a car engine	0
+Repairs	How do I fix a leaky pipe under the sink?	1	Pipe replacement cost
+Repairs		how do i fix a pipe leak	0
+Safety	How do I secure my home from potential burglars?	1	Protection
+Safety	Who can I report if I see suspicious activity in my neighborhood?	1	Information
+Safety	What are the common causes of workplace accidents?	1	Facts
+Safety	How do I perform a fire safety inspection in my office?	1	Instructions
+Safety	What are the most effective ways to prevent slipping and falling in the workplace?	1	Facts
+Safety	What safety measures can I take to protect my children from online predators?	1	Security
+Safety	How do I choose a safe neighborhood to live in?	1	Guidance
+Safety	What are the legal requirements for workplace safety in my state?	1	Laws
+Safety	How do I create a family emergency plan in case of a natural disaster?	1	Instructions
+Safety	What are the most common types of natural disasters that occur in my area?	1	Facts
+Safety	How can I ensure the safety of my pets during a power outage?	1	Care
+Safety	What safety equipment is required for a home gym?	1	Equipment
+Safety	How do I stay safe while hiking in remote areas?	1	Safety
+Safety	What are the warning signs of a potential gas leak?	1	Facts
+Safety	How do I perform a home safety audit to identify potential hazards?	1	Instructions
+Safety	What are the legal consequences of violating workplace safety regulations?	1	Laws
+Safety	How can I protect my home from a flood?	1	Solutions
+Safety	What are the common symptoms of a fire in my home?	1	Facts
+Safety	How do I ensure the safety of my children during a school bus ride?	1	Safety
+Safety	What are the safety procedures for traveling during severe weather?	1	Instructions
+Safety	What are the health risks associated with workplace chemicals?	1	Facts
+Seasons	What are the typical weather conditions during spring in the northern hemisphere?	1	Weather information
+Seasons	When is spring	0	General knowledge
+Seasons	What are the three main seasons in the Northern Hemisphere?	1	Description of seasons
+Seasons	What is the meaning of winter	0	Definition
+Seasons	What is the average temperature in the summer in New York City?	1	Climatic information
+Seasons	What is the season with the longest days	0	Comparison
+Seasons	What are the effects of global warming on seasonal changes?	1	Environmental impact
+Seasons	What is the season that comes before summer	0	Timing
+Seasons	How many months are in a typical winter?	1	Calendar information
+Seasons	What is the best season for traveling	0	Opinion-based
+Seasons	What is the seasonal pattern in the Southern Hemisphere?	1	Geographical information
+Seasons	What does the word "season" mean in general	0	Linguistic context
+Sharing	How do I share files with friends online?	1	intent_id: 1, user_type: general_user
+Sharing	Share my files online with friends	0	intent_id: 1, user_type: general_user
+Sharing	What is the best way to share my Google Drive with colleagues?	1	intent_id: 2, user_type: professional
+Sharing	How do I share files on Google Drive?	0	intent_id: 2, user_type: professional
+Sharing	How can I share my photos with family on social media?	1	intent_id: 3, user_type: family_user
+Sharing	Share my pictures on Facebook	0	intent_id: 3, user_type: family_user
+Sharing	How do I share my computer screen during online meetings?	1	intent_id: 4, user_type: remote_worker
+Sharing	Share my desktop on Zoom	0	intent_id: 4, user_type: remote_worker
+Sharing	How can I share a presentation with my team in real-time?	1	intent_id: 5, user_type: team_leader
+Sharing	Share presentation now	0	intent_id: 5, user_type: team_leader
+Sharing	What are some ways to share knowledge with others?	1	intent_id: 6, user_type: educator
+Sharing	Share my expertise	0	intent_id: 6, user_type: educator
+Sharing	How do I share my mobile data plan with family members?	1	intent_id: 7, user_type: family_user
+Sharing	Share my data plan with family	0	intent_id: 7, user_type: family_user
+Sharing	How can I share a document with specific people on a social network?	1	intent_id: 8, user_type: social_media_user
+Sharing	Share document on social media	0	intent_id: 8, user_type: social_media_user
+Sharing	What is the difference between sharing and collaborating on a project?	1	intent_id: 9, user_type: project_manager
+Sharing	Share project work	0	intent_id: 9, user_type: project_manager
+Sharing	How do I share my online calendar with others?	1	intent_id: 10, user_type: scheduling_user
+Sharing	Share my calendar with others	0	intent_id: 10, user_type: scheduling_user
+Shopping	What is the price of a new iPhone?	1	Information
+Shopping	Find a good phone	0	Information
+Shopping	Where can I buy the latest iPhone?	1	Address
+Shopping	I'm looking for a new smartphone	0	Information
+Shopping	Compare prices of laptops	1	Comparison
+Shopping	Laptop prices	0	Information
+Shopping	What time do shops open on Sundays?	1	Hours
+Shopping	I need to go shopping	0	Ambiguity
+Shopping	How to save money while shopping	1	Advice
+Shopping	Save money	0	Ambiguity
+Shopping	Where can I find deals on electronics?	1	Address
+Shopping	Electronic deals	0	Information
+Shopping	How to shop online safely	1	Advice
+Shopping	I want to shop	0	Ambiguity
+Shopping	Which stores offer free shipping?	1	Address
+Shopping	Free shipping stores	0	Information
+Shopping	What is the return policy of Amazon?	1	Policy
+Shopping	Return policy Amazon	0	Ambiguity
+Shopping	How to check order status	1	Status
+Shopping	I ordered something online	0	Ambiguity
+Shopping	What are the benefits of shopping online?	1	Information
+Shopping	I like shopping	0	Ambiguity
+Shopping	How to compare prices of products	1	Comparison
+Shopping	Compare products	0	Ambiguity
+Skills	What are the essential soft skills for a successful career in software development?	1	Career Development
+Skills	What skills do you need to become a skilled programmer?	1	Career Development
+Skills	What are the benefits of learning a new skill in a specific industry?	1	Educational Resources
+Skills	Which skills are most in-demand for a data analyst position?	1	Career Opportunities
+Skills	How can I improve my language skills for better job prospects?	1	Career Development
+Skills	What is the importance of soft skills in a professional setting?	1	Professional Etiquette
+Skills	What are the key skills required for a leadership position in a company?	1	Career Advancement
+Skills	What is the process of acquiring a new skill or learning a new trade?	0	Learning Process
+Skills	How do skills relate to professional growth and development?	0	Professional Growth
+Skills	What skills are needed to become a proficient public speaker?	1	Career Development
+Skills	What skills are required to succeed in a team-based work environment?	1	Teamwork and Communication
+Skills	What is the most efficient way to learn new skills online?	0	Educational Resources
+Skills	How do I prioritize my skills for a new job role?	0	Career Development
+Skills	Which skills are transferable from one industry to another?	1	Career Opportunities
+Skills	What are the essential technical skills for a data scientist position?	1	Educational Resources
+Skills	What is the difference between hard and soft skills in the workplace?	1	Professional Etiquette
+Skills	What skills do I need to become a successful project manager?	1	Career Advancement
+Skills	What is the most important skill for a sales professional?	0	Sales Techniques
+Skills	What is the impact of skills on job satisfaction?	0	Career Development
+Skills	How do I identify my strengths and weaknesses in terms of skills?	0	Self-Improvement
+Sleep	What is the ideal sleep duration for an adult?[TAB]1[TAB]Duration of sleep needed
+Sleep	How long do I need to sleep to feel rested?[TAB]0[TAB]Duration of sleep needed
+Sleep	What causes insomnia?[TAB]1[TAB]Causes of sleep disorder
+Sleep	How do I stop snoring?[TAB]1[TAB]Snoring remedies
+Sleep	What are the consequences of sleep deprivation?[TAB]1[TAB]Effects of sleep deprivation
+Sleep	How can I improve my sleep quality?[TAB]1[TAB]Sleep improvement methods
+Sleep	What time should I go to bed to wake up at 6 am?[TAB]1[TAB]Sleep schedule planning
+Sleep	Why am I feeling tired all the time?[TAB]0[TAB]Health concerns
+Sleep	What are some sleep disorders?[TAB]1[TAB]Sleep disorders list
+Sleep	How can I create a sleep-conducive environment?[TAB]1[TAB]Sleep environment setup
+Sleep	What are the symptoms of sleep apnea?[TAB]1[TAB]Sleep apnea signs
+Sleep	What is the best mattress for back pain?[TAB]0[TAB]Product recommendations
+Social	How do I connect with friends on social media?[TAB]1[TAB]Friendship management
+Social	Which social media platform is best for my business?[TAB]0[TAB]Business recommendation
+Social	How to create a social media content calendar?[TAB]1[TAB]Content creation
+Social	What are the latest social media trends?[TAB]0[TAB]Information gathering
+Social	How do I manage my social media presence as a celebrity?[TAB]1[TAB]Career development
+Social	What are some social media marketing tips for e-commerce?[TAB]0[TAB]Information gathering
+Social	How to handle online social awkwardness and etiquette?[TAB]1[TAB]Social skills improvement
+Social	Which social media influencers promote sustainable living?[TAB]0[TAB]Information gathering
+Social	What are the effects of social media on mental health?[TAB]1[TAB]Health awareness
+Social	How to use social media for event promotion?[TAB]1[TAB]Marketing strategy
+Social	What are the top social media apps for gaming communities?[TAB]0[TAB]Information gathering
+Social	How to build a social media brand identity?[TAB]1[TAB]Personal branding
+Sports	What is the current ranking of the top 5 football teams in the Premier League?	1	Nomination
+Sports	How are sports involved in the lives of children?	1	Examination
+Sports	Which football players have won the most World Cup titles?	1	Nomination
+Sports	What is the best way to get involved in sports for beginners?	0	Information
+Sports	Who is the current president of FIFA?	1	Nomination
+Sports	How do sports affect a person's physical health?	1	Examination
+Sports	What are the most popular sports in the United States?	1	Nomination
+Sports	What is the impact of technology on sports?	0	Information
+Sports	Who is the highest-paid athlete in the world?	1	Nomination
+Sports	How do teams select their players?	1	Information
+Sports	What is the history of the Olympics?	1	Nomination
+Sports	Why do people get injured in sports?	1	Examination
+Sports	How can I start a sports business?	0	Information
+Sports	What is the current highest attendance at a sports stadium?	1	Nomination
+Sports	How do sports affect mental health?	1	Examination
+Sports	Who has the most Olympic medals?	1	Nomination
+Sports	How do sports teams deal with conflicts?	0	Information
+Sports	What is the most popular sports streaming service?	1	Nomination
+Sports	How do athletes recover from injuries?	1	Examination
+Sports	What is the most successful sports franchise?	1	Nomination
+Sports	How do sports affect education?	1	Examination
+Stress	What are the most common causes of stress in the workplace?	1	Causes_of_stress_at_work
+Stress	What are the most common causes of stress in the workplace?	0	possible_stressors_at_work
+Stress	How to manage stress using mindfulness techniques?	1	stress_management_tips
+Stress	How to manage stress using mindfulness techniques?	0	ways_to_reduce_stress
+Stress	What is the impact of stress on mental health?	1	stress_and_mental_health
+Stress	What is the impact of stress on mental health?	0	impact_of_stress_on_body
+Stress	How to recognize signs of stress in others?	1	stress_recognition_in_others
+Stress	How to recognize signs of stress in others?	0	stress_symptoms_in_people
+Stress	What are effective stress-reducing activities?	1	stress_reducing_exercises
+Stress	What are effective stress-reducing activities?	0	things_to_do_to_relax
+Stress	How to develop a stress management plan?	1	stress_management_plans
+Stress	How to develop a stress management plan?	0	planning_to_reduce_stress
+Stress	What is the role of exercise in stress reduction?	1	stress_reduction_exercise
+Stress	What is the role of exercise in stress reduction?	0	fitness_for_reducing_stress
+Stress	How to maintain a work-life balance to reduce stress?	1	work_life_balance_tips
+Stress	How to maintain a work-life balance to reduce stress?	0	balancing_work_and_life
+Sustainability	What are the environmental benefits of using public transportation?[	1	user_information_need=sustainability_benefits
+Sustainability	Is there a bus route near me?[	0	user_information_need=location_assistance
+Sustainability	What percentage of global emissions come from industrial agriculture?[	1	user_information_need=sustainability_statistics
+Sustainability	How can I reduce my carbon footprint in my daily life?[	1	user_information_need=sustainability_advice
+Sustainability	What is the impact of single-use plastics on the environment?[	1	user_information_need=sustainability_effects
+Sustainability	How can I find eco-friendly products online?[	1	user_information_need=sustainability_recommendations
+Sustainability	What are some sustainable living tips for a small apartment?[	1	user_information_need=sustainability_advice
+Sustainability	How can I contribute to climate change mitigation?[	1	user_information_need=sustainability_action
+Sustainability	What is the best way to recycle plastic at home?[	1	user_information_need=sustainability_procedures
+Sustainability	How does deforestation affect global biodiversity?[	1	user_information_need=sustainability_effects
+Sustainability	Is buying locally sourced food sustainable?[	1	user_information_need=sustainability_economics
+Sustainability	What are some sustainable ways to travel long distances?[	1	user_information_need=sustainability_travel
+Sustainability	How can I make my office workspace more eco-friendly?[	1	user_information_need=sustainability_improvement
+Sustainability	Is organic food worth the cost?[	0	user_information_need=sustainability_economics
+Sustainability	What does sustainable fashion mean?[	0	user_information_need=sustainability_definition
+Sustainability	How can I reduce waste at home?[	0	user_information_need=sustainability_advice
+Sustainability	Are electric cars more expensive than gas-powered cars?[	0	user_information_need=sustainability_economics
+Sustainability	What is the environmental impact of meat consumption?[	0	user_information_need=sustainability_effects
+Sustainability	How can I use solar power at home?[	0	user_information_need=sustainability_technology
+Sustainability	Is buying second-hand clothing sustainable?[	0	user_information_need=sustainability_economics
+Sustainability	What is sustainable agriculture?[	0	user_information_need=sustainability_definition
+Sustainability	How can I reduce paper usage in my daily life?[	0	user_information_need=sustainability_advice
+Sustainability	What are some sustainable building materials?[	0	user_information_need=sustainability_building
+Sustainability	How does climate change affect sea levels?[	0	user_information_need=sustainability_effects
+Sustainability	What are the benefits of reducing energy consumption?[	0	user_information_need=sustainability_benefits
+Sustainability	How can I make my community more sustainable?[	0	user_information_need=sustainability_improvement
+Sustainability	Is a vegan diet more environmentally friendly?[	0	user_information_need=sustainability_health
+Technology	What is the latest AI-powered smartphone processor technology available in the market?	1	Compare phone processors
+Technology	What's the best technology for the future?	0	General knowledge
+Technology	How can I upgrade my computer's RAM and storage for better performance?	1	Improve PC performance
+Technology	What is technology?	0	Definition
+Technology	How to install a new software on my laptop?	1	Software installation
+Technology	What is the best operating system for gaming?	0	Personal preference
+Technology	How to create a secure password for online accounts?	1	Security best practices
+Technology	What does the future of technology hold?	0	Visionary ideas
+Technology	How to troubleshoot common Wi-Fi connectivity issues?	1	Solve internet problems
+Technology	What is the definition of technology?	0	Definition
+Technology	How to configure a new router for optimal performance?	1	Network setup
+Technology	What are the latest developments in robotics technology?	0	Tech trends
+Technology	How to recover deleted files from my computer?	1	Data recovery
+Technology	What are some examples of emerging technologies?	0	Information on new tech
+Technology	How to update my smart home devices for the latest security features?	1	Smart home security
+Technology	What is the purpose of artificial intelligence in healthcare?	0	Industry analysis
+Technology	How to protect my computer from malware and viruses?	1	Security protection
+Technology	What does the term 'tech-savvy' mean?	0	Definition
+Technology	How to optimize my phone's battery life?	1	Battery saving tips
+Theater	What are the major types of theatrical masks in the Western theater tradition?	1	Identifying theatrical masks
+Theater	Which types of theatrical masks do I find in an Italian commedia dell'arte performance?	0	Identifying theatrical masks
+Theater	What is the primary difference between a proscenium and a thrust theater?	1	Understanding theater architecture
+Theater	What is the main type of play where characters often break the fourth wall?	0	Understanding play types
+Theater	What are the benefits of using a proscenium arch in a theater design?	1	Improving theater performance
+Theater	What does the term "deus ex machina" mean in theater?	0	Understanding theatrical terms
+Theater	How do I write a script for a play with a complex plot twist?	1	Creating a script
+Theater	What are some common themes in classical Greek theater?	0	Identifying theatrical themes
+Theater	What are the key elements of a successful theatrical performance?	1	Evaluating performance quality
+Theater	What is the difference between a dramatic and a comedic monologue?	0	Analyzing theatrical speeches
+Theater	How do I choose a character for a theatrical performance?	1	Developing a character
+Theater	What are some famous theater venues in the world?	0	Discovering theater locations
+Time	What is the current time in New York City?	1	Tell me the exact time now
+Time	What's the time	0	Tell me the time
+Time	How long is a day on Earth?	1	Explain the length of a day
+Time	How long is a day	0	I want to know about the passage of time
+Time	What is a clock used for?	1	Explain the purpose of a clock
+Time	What are clocks	0	Talk to me about time
+Time	What is the meaning of time?	1	Explain the concept of time
+Time	What is time	0	I'm curious about the nature of time
+Time	How do I set an alarm on my phone?	1	Provide instructions on setting an alarm
+Time	How to set an alarm	0	Show me some alarm options
+Time	What is the difference between AM and PM?	1	Explain the AM and PM system
+Time	What's the difference between am pm	0	I want to know about time periods
+Time	How do I convert 3:00 PM to military time?	1	Convert a time to military time
+Time	How to convert military time	0	Show me some time conversion examples
+Time	What is the concept of daylight saving time?	1	Explain daylight saving time
+Time	What's daylight saving time	0	I want to know about time changes
+Traditions	What are the traditional foods served during the Japanese New Year?[	1]	cultural_practices
+Traditions	How is the tradition of exchanging gifts during Christmas observed?[	1]	social_norms
+Traditions	What are some cultural practices related to the Day of the Dead?[	1]	cultural_traditions
+Traditions	What do people typically do during the Chinese New Year?[	1]	festival_activities
+Traditions	How do families usually celebrate Easter in the United States?[	1]	seasonal_customs
+Traditions	What are some wedding customs from around the world?[	1]	cultural_variations
+Traditions	How do people observe Ramadan in different countries?[	1]	religious_routines
+Traditions	What are traditional Thanksgiving foods served in the United States?[	1]	holiday_meals
+Traditions	What do people usually do on the first day of spring in different cultures?[	1]	festival_traditions
+Traditions	What are traditional Hanukkah foods and their significance?[	1]	religious_holidays
+Traditions	What are some customs related to the full moon?[	0]	moon_phases
+Traditions	How do people in general celebrate the start of summer?[	0]	seasonal_observations
+Traditions	What are some cultural practices during the harvest season?[	0]	agricultural_cycles
+Traditions	How do people usually spend their winter holidays?[	0]	winter_activities
+Traditions	What are some family traditions during the holiday season?[	0]	family_routines
+Traditions	How do people observe the autumnal equinox in different cultures?[	0]	equinox_celebrations
+Traditions	What are some traditional games played during festivals?[	0]	festival_games
+Traditions	What are cultural practices related to aging and elderly care?[	0]	senior_care
+Traditions	How do people in different cultures celebrate the summer solstice?[	0]	solstice_festivals
+Traditions	What are traditional New Year's Eve activities in various countries?[	0]	celebration_routines
+Traditions	What are some cultural customs surrounding the full moon?[	0]	moon_cultures
+Traditions	How do people generally observe the vernal equinox?[	0]	equinox_routines
+Traveling	What is the cheapest way to book a flight to Paris?	1	Booking information
+Traveling	How do I get to Paris?	0	General information
+Traveling	What are the best places to visit in Europe?	1	Cultural experiences
+Traveling	Where are the most popular destinations in Europe?	0	General information
+Traveling	What are the visa requirements for a US citizen traveling to Japan?	1	Visa information
+Traveling	How do I get a visa?	0	General information
+Traveling	What are the top 5 tourist attractions in New York City?	1	Recommendations
+Traveling	What are the top things to do in the world?	0	General information
+Traveling	What is the best way to book a hotel in Tokyo?	1	Booking information
+Traveling	How do I get to a hotel?	0	General information
+Traveling	What are the top 10 beaches in Hawaii?	1	Recommendations
+Traveling	What are the best places to go?	0	General information
+Traveling	What are the safety precautions when traveling to India?	1	Safety information
+Traveling	How do I stay safe?	0	General information
+Traveling	What is the most budget-friendly airline to fly with?	1	Booking information
+Traveling	Which airline is good?	0	General information
+Traveling	What are the best times to visit the Grand Canyon?	1	Weather information
+Traveling	When should I travel?	0	General information
+Traveling	What is the best way to get to the airport?	1	Travel arrangements
+Traveling	How do I get to the airport?	0	General information
+Traveling	What are the top 5 restaurants in Italy?	1	Recommendations
+Traveling	What are good restaurants?	0	General information
+Traveling	What are the best ways to avoid jet lag?	1	Safety information
+Traveling	How do I avoid jet lag?	0	General information
+Transport	How to plan a road trip from New York to Los Angeles	1	Planning
+Transport	Planning a road trip from New York to Los Angeles	0
+Transport	What are the cheapest transportation options to Paris	1	Comparison
+Transport	Getting to Paris is expensive	0
+Transport	How do I check the status of my flight to London	1	Information
+Transport	What is the weather in London like in June	0
+Transport	What are the best ways to travel from NYC to Las Vegas	1	Recommendation
+Transport	Traveling from NYC to Las Vegas is too expensive	0
+Transport	What are the requirements for renting a car in Europe	1	Information
+Transport	Can I rent a car in Europe	0
+Transport	How do I get a visa for traveling to Australia	1	Procedure
+Transport	I need to get to Australia for work	0
+Transport	What are the rules for driving in Japan	1	Rules
+Transport	Driving in Japan is scary	0
+Transport	How do I book a train ticket from Tokyo to Kyoto	1	Booking
+Transport	Booking a train ticket is too hard	0
+Transport	What are the requirements for a motorcycle license in California	1	Regulation
+Transport	Can I ride a motorcycle in California	0
+Transport	What are the best bike-sharing services in New York City	1	Recommendation
+Transport	Bike-sharing in NYC is the best	0
+Transport	How do I calculate the cost of shipping a car overseas	1	Cost
+Transport	Shipping a car overseas is too expensive	0
+Transport	What are the safety precautions for flying with a pet	1	Safety
+Transport	I want to bring my pet on a plane	0
+Volunteering	How can I contribute to my community as a volunteer?	1	User_info: Contribute
+Volunteering	What's the best volunteer work in the world?	0	User_info: Best
+Volunteering	How do I find volunteer opportunities in my area?	1	User_info: Opportunities
+Volunteering	What does volunteering do to the brain?	0	User_info: Effects
+Volunteering	What are the benefits of volunteering for college applications?	1	User_info: Benefits
+Volunteering	Is volunteering just a feel-good thing?	0	User_info: Meaning
+Volunteering	How do I organize a volunteer event for my school?	1	User_info: Event
+Volunteering	How can I volunteer while I'm traveling abroad?	1	User_info: Travel
+Volunteering	What are some easy volunteer work for beginners?	1	User_info: Beginners
+Volunteering	What's the most rewarding volunteer experience ever?	0	User_info: Story
+Volunteering	How do I record my volunteer hours for scholarship?	1	User_info: Hours
+Volunteering	Why do most people volunteer for charity?	0	User_info: Reasons
+Volunteering	How do I make my volunteer experience count on LinkedIn?	1	User_info: LinkedIn
+Volunteering	What's the history of volunteer work?	0	User_info: History
+Walking	What is the average calories burned while walking at a pace of 3 miles per hour for a 150-pound person?	1	Health
+Walking	How does walking affect my body	0	Health
+Walking	How many steps should I take daily to lose weight	1	Diet and Exercise
+Walking	Does walking help with stress relief	0	Wellness
+Walking	What is the best walking route for a 5K in the city	1	Navigating
+Walking	How can I improve my posture while walking	0	Tips
+Walking	How many calories does walking burn per hour for a 180-pound person	1	Health
+Walking	What are the benefits of walking outdoors	0	Wellness
+Walking	How can I track my daily walking progress with a smartphone app	1	Fitness Tracking
+Walking	Is walking good for improving mental health	0	Mental Health
+Walking	What is the proper walking technique for reducing back pain	1	Fitness
+Walking	How does walking impact heart health	0	Health
+Walking	How can I create a walking schedule for weight loss	1	Diet and Exercise
+Walking	What is the difference between walking and running	0	Sports
+Walking	How many miles should I walk to burn off a cheeseburger	1	Food and Nutrition
+Walking	Does walking improve cognitive function in older adults	0	Aging and Health
+Walking	What is the best walking shoe for flat feet	1	Fashion and Gear
+Walking	How can I incorporate strength training into my walking routine	0	Fitness
+Walking	How many steps should a 7-year-old child take daily	1	Health and Fitness
+Walking	What are the effects of walking on bone density	0	Bone Health
+Walking	How can I make walking more enjoyable during the winter months	1	Outdoor Activities
+Walking	Does walking have any impact on blood pressure	0	Medical Conditions
+Weather	What is the current temperature in New York?	1	Fetch current weather conditions
+Weather	What is the weather like?	0	Fetch weather information
+Weather	How often does it rain in Paris?	1	Rainfall frequency
+Weather	What's the weather like on Mars?	0	Astronomical information
+Weather	Will it snow tomorrow in Tokyo?	1	Forecast for a specific date
+Weather	What does the weather do?	0	Philosophical question
+Weather	What is the hottest month in Dubai?	1	Temperature extremes
+Weather	Is it hot?	0	Emotional state
+Weather	What is the humidity in Los Angeles today?	1	Humidity levels
+Weather	What is the atmosphere?	0	Ambiguous
+Weather	Will it be sunny in Miami on January 15th?	1	Forecast for a specific date
+Weather	What does weather mean?	0	Etymology question
+Weather	What is the wind speed in Chicago?	1	Wind speed
+Weather	How is the weather?	0	Subjective evaluation
+Weather	What is the coldest temperature ever recorded in Antarctica?	1	Record low temperature
+Weather	What does the weather do to me?	0	Subjective experience
+Weather	Will it rain in London on June 20th?	1	Forecast for a specific date
+Weather	What is the air quality in Beijing?	1	Air quality index
+Weather	How is weather like?	0	Metaphorical expression
+Weather	What is the weather in Tokyo right now?	1	Current weather conditions
+Weather	What is the weather like outside?	0	Ambiguous
+Work	What are the average working hours per week for a software developer?	1	Goal
+Work	How many hours do people work in a week?	0	Goal
+Work	What skills do I need to get hired as a marketing manager?	1	Goal
+Work	What skills are required to be successful?	0	Goal
+Work	How do I balance my work and personal life?	1	Problem
+Work	What is the secret to balancing life?	0	Problem
+Work	What are the highest paying jobs in the IT industry?	1	Goal
+Work	What are the highest paying jobs?	0	Goal
+Work	What are the benefits of working from home?	1	Knowledge
+Work	What are the benefits of anything?	0	Knowledge
+Work	What is the average salary for a data scientist?	1	Goal
+Work	What is the average salary?	0	Goal
+Work	How can I improve my productivity at work?	1	Solution
+Work	How can I get more done?	0	Solution
+Work	What are the top companies for remote work?	1	Goal
+Work	What are the top companies?	0	Goal
+Work	How do I create a work-life balance schedule?	1	Solution
+Work	How can I schedule my life?	0	Solution
+Work	What are the essential tools for project management?	1	Solution
+Work	What are the essential tools?	0	Solution
+Work	What are the common work-life balance issues?	1	Problem
+Work	What are the common issues?	0	Problem
+Work	How can I manage my work-related stress?	1	Solution
+Work	How can I manage stress?	0	Solution
+Workspace	How to organize my workspace for maximum productivity?	1	organization
+Workspace	What does a typical workspace look like?	0	description
+Workspace	How can I declutter my workspace?	1	problem-solving
+Workspace	What can I use to organize my workspace?	0	products
+Workspace	How to set up a home workspace for remote work?	1	solution
+Workspace	What are the benefits of a dedicated workspace?	0	benefits
+Workspace	How to create a peaceful workspace at home?	1	inspiration
+Workspace	What is the ideal workspace temperature?	0	temperature
+Workspace	How to create a workspace for a small home office?	1	solution
+Workspace	What are some common workspace mistakes to avoid?	0	avoidance
+Workspace	How to prioritize tasks in a shared workspace?	1	problem-solving
+Workspace	What are some innovative workspace design ideas?	0	inspiration
+Writing	How do I improve my writing skills?[	1	Improving writing skills
+Writing	What makes a good writer?[	0	
+Writing	What are the key elements of a well-written story?[	1	
+Writing	What does it mean to be a writer?[	0	
+Writing	How do I create an engaging writing style?[	1	
+Writing	How do I get ideas for writing?[	0	
+Writing	What is the best way to organize a research paper?[	1	
+Writing	What are the different types of writing styles?[	0	
+Writing	How do I write a compelling opening sentence?[	1	
+Writing	What are the most common writing mistakes?[	0	
+Writing	How do I write a successful book proposal?[	1	
+Writing	How do I make my writing more concise?[	0	
+Writing	What are the key elements of a good abstract?[	1	
+Writing	What is the best way to proofread my writing?[	0	
+Writing	How do I write a persuasive essay?[	1	
+Writing	How do I create a writing routine?[	0	
+Writing	What are the different types of writing formats?[	1	
+Writing	What are the benefits of writing regularly?[	0	
+Writing	How do I edit my writing for clarity?[	1	
+Writing	How do I write a well-structured essay?[	0	
+Writing	What is the best way to get feedback on my writing?[	1

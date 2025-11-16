@@ -93,4 +93,3 @@ CUDA_VISIBLE_DEVICES=0,1 python scripts/evaluate.py --models "Llama-3.3-70B" --d
 CUDA_VISIBLE_DEVICES=0,1 python scripts/evaluate.py --models "Llama-3.3-70B" --datasets ambignq --prompt_type few_shot --batch_size 64 --seed 0
 CUDA_VISIBLE_DEVICES=0,1 python scripts/evaluate.py --models "Llama-3.3-70B" --datasets clariq --prompt_type zero_shot --batch_size 64 --seed 0
 CUDA_VISIBLE_DEVICES=0,1 python scripts/evaluate.py --models "Llama-3.3-70B" --datasets clariq --prompt_type few_shot --batch_size 64 --seed 0
-```
