@@ -44,7 +44,7 @@ def main():
             # Generate response
             outputs = pipe(
                 prompt,
-                max_new_tokens=10000,
+                max_new_tokens=5000,
                 do_sample=True,
                 temperature=1.0,
             )
