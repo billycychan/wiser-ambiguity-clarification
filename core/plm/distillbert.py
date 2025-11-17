@@ -27,6 +27,23 @@ import logging
 import time
 from datetime import datetime
 
+# ============================================================================
+# DATASET CONFIGURATION
+# ============================================================================
+# Switch between datasets by changing the DATASET_NAME value
+# Options: 'llama31_8b' or 'gemma-3-27b'
+DATASET_NAME = "llama3.3-70B"  # Change this to switch datasets
+
+DATASET_PATHS = {
+    "llama31_8b": "/nfs/u40/chanc187/source/eval_cnp/data/llama31_8b_balanced_strict.tsv",
+    "gemma-3-27b": "/nfs/u40/chanc187/source/eval_cnp/data/gemma-3-27b-it_balanced_strict.tsv",
+    "llama3.3-70B": "/nfs/u40/chanc187/source/eval_cnp/data/Llama-3.3-70B-Instruct_balanced_strict.tsv",
+}
+
+# Get the selected dataset path
+TRAIN_DATA_PATH = DATASET_PATHS[DATASET_NAME]
+# ============================================================================
+
 
 def get_model_and_config():
     config = DistilBertConfig.from_pretrained(
@@ -129,14 +146,14 @@ def main():
 
     # Set up logging
     logging.basicConfig(
-        filename=f"./logs/distillbert/distillbert_{timestamp}_training.log",
+        filename=f"./logs/distillbert/distillbert_{DATASET_NAME}_{timestamp}_training.log",
         level=logging.INFO,
         format="%(asctime)s - %(message)s",
     )
 
     # Load data
     train_df = pd.read_csv(
-        "/nfs/u40/chanc187/source/eval_cnp/data/llama31_8b_balanced_strict.tsv",
+        TRAIN_DATA_PATH,
         sep="\t",
     )
     clariq_df = pd.read_csv(
@@ -305,7 +322,9 @@ def main():
 
     # Save to logs
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    with open(f"./logs/distillbert/distillbert_report_{timestamp}.txt", "w") as f:
+    with open(
+        f"./logs/distillbert/distillbert_{DATASET_NAME}_report_{timestamp}.txt", "w"
+    ) as f:
         f.write("Classification Report for ClariQ:\n")
         f.write(report)
         f.write(f"\nValidation Accuracy: {accuracy}\n")
@@ -322,7 +341,8 @@ def main():
     # Save training summary (basic metrics)
     training_summary = f"Training completed with {training_args.num_train_epochs} epochs.\nFinal Validation Accuracy on ClariQ: {accuracy}\nInference Time on ClariQ: {inference_time} seconds\nAverage Inference Time per Sample on ClariQ: {avg_inference_time} seconds\nFinal Validation Accuracy on AmbigNQ: {accuracy_ambignq}\nInference Time on AmbigNQ: {inference_time_ambignq} seconds\nAverage Inference Time per Sample on AmbigNQ: {avg_inference_time_ambignq} seconds\n"
     with open(
-        f"./logs/distillbert/distillbert_training_summary_{timestamp}.txt", "w"
+        f"./logs/distillbert/distillbert_{DATASET_NAME}_training_summary_{timestamp}.txt",
+        "w",
     ) as f:
         f.write(training_summary)
 
@@ -334,7 +354,7 @@ def main():
         {"initial_request": val_texts, "binary_label": val_labels, "prediction": preds}
     )
     clariq_df.to_csv(
-        f"./logs/distillbert/distillbert_clariq_{timestamp}_predictions.tsv",
+        f"./logs/distillbert/distillbert_{DATASET_NAME}_clariq_{timestamp}_predictions.tsv",
         sep="\t",
         index=False,
     )
@@ -348,7 +368,7 @@ def main():
         }
     )
     ambignq_df.to_csv(
-        f"./logs/distillbert/distillbert_ambignq_{timestamp}_predictions.tsv",
+        f"./logs/distillbert/distillbert_{DATASET_NAME}_ambignq_{timestamp}_predictions.tsv",
         sep="\t",
         index=False,
     )
