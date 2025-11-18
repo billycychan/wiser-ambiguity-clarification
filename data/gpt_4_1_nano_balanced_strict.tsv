@@ -249,16 +249,16 @@ Diet	What supplements are good for dieting?	0	Identify effective supplements to 
 Diet	Are there quick ways to lose weight?	1	Seeking fast weight loss methods without specifics.
 Diet	How does dieting affect energy levels?	0	Understand the impact of dieting on energy.
 Diet	Can dieting make you tired?	1	Looking for effects of dieting, but the query is vague.
-Diy	How do I build a birdhouse from scratch?	0	Step-by-step instructions for building a birdhouse.
-Diy	Can I make a birdhouse at home?	1	General inquiry about making a birdhouse without specifics.
-Diy	What tools are needed for woodworking projects?	0	Information on tools required for DIY woodworking.
-Diy	What tools do I need?	1	Seeking tools for various DIY projects without specificity.
-Diy	How do I paint furniture yourself?	0	Guide on painting furniture on your own.
-Diy	Can I paint my furniture?	1	Question about painting furniture generally, not specific to DIY.
-Diy	What are easy craft ideas for beginners?	0	Spell out simple craft projects for beginners.
-Diy	Can I do crafts at home?	1	General inquiry about doing crafts without context.
-Diy	How do I install shelves?	0	Instructions for installing shelves DIY-style.
-Diy	Can I put up shelves myself?	1	Question about installing shelves without specifics.
+DIY	How do I build a birdhouse from scratch?	0	Step-by-step instructions for building a birdhouse.
+DIY	Can I make a birdhouse at home?	1	General inquiry about making a birdhouse without specifics.
+DIY	What tools are needed for woodworking projects?	0	Information on tools required for DIY woodworking.
+DIY	What tools do I need?	1	Seeking tools for various DIY projects without specificity.
+DIY	How do I paint furniture yourself?	0	Guide on painting furniture on your own.
+DIY	Can I paint my furniture?	1	Question about painting furniture generally, not specific to DIY.
+DIY	What are easy craft ideas for beginners?	0	Spell out simple craft projects for beginners.
+DIY	Can I do crafts at home?	1	General inquiry about doing crafts without context.
+DIY	How do I install shelves?	0	Instructions for installing shelves DIY-style.
+DIY	Can I put up shelves myself?	1	Question about installing shelves without specifics.
 Documentation	How can I update the user manual for the latest software version?	0	Find instructions for updating the user manual.
 Documentation	What is documentation?	1	Seeking general information about documentation without specifics.
 Documentation	Where do I find the API documentation for this platform?	0	Locate the API documentation for a particular platform.
@@ -878,7 +878,6 @@ Sustainability	Are there sustainability projects everywhere?	1	Questioning the p
 Sustainability	How can I contribute to sustainability?	0	Seeking personal actions to support sustainability.
 Sustainability	What can individuals do for the environment?	1	Looking for ways individuals can help with environmental issues.
 Sustainability	What impacts sustainability on society?	0	Understanding how sustainability affects social aspects.
-Sustainability	What are the key principles of sustainability?	0	Understand fundamental concepts of sustainability.
 Technology	What are the latest developments in artificial intelligence?	0	Stay informed about recent AI advancements.
 Technology	What's up with AI?	1	General curiosity about AI without specific focus.
 Technology	How can I implement machine learning in my business?	0	Find ways to apply machine learning practically.

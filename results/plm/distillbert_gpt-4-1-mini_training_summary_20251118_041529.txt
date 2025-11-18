@@ -1,0 +1,7 @@
+Training completed with 10 epochs.
+Final Validation Accuracy on ClariQ: 0.6020066889632107
+Inference Time on ClariQ: 0.5709617137908936 seconds
+Average Inference Time per Sample on ClariQ: 0.0019095709491334233 seconds
+Final Validation Accuracy on AmbigNQ: 0.4875124875124875
+Inference Time on AmbigNQ: 3.063269853591919 seconds
+Average Inference Time per Sample on AmbigNQ: 0.0015301048219739854 seconds

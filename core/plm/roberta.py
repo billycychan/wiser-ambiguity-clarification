@@ -33,12 +33,15 @@ from datetime import datetime
 # ============================================================================
 # Switch between datasets by changing the DATASET_NAME value
 # Options: 'llama31_8b' or 'gemma-3-27b' or 'llama3.3-70B'
-DATASET_NAME = "llama3.3-70B"  # Change this to switch datasets
+DATASET_NAME = "gpt-4-1-nano"  # Change this to switch datasets
 
 DATASET_PATHS = {
     "llama31_8b": "/nfs/u40/chanc187/source/eval_cnp/data/llama31_8b_balanced_strict.tsv",
     "gemma-3-27b": "/nfs/u40/chanc187/source/eval_cnp/data/gemma-3-27b-it_balanced_strict.tsv",
     "llama3.3-70B": "/nfs/u40/chanc187/source/eval_cnp/data/Llama-3.3-70B-Instruct_balanced_strict.tsv",
+    "gpt-4-1": "/nfs/u40/chanc187/source/eval_cnp/data/gpt_4_1_balanced_strict.tsv",
+    "gpt-4-1-mini": "/nfs/u40/chanc187/source/eval_cnp/data/gpt_4_1_mini_balanced_strict.tsv",
+    "gpt-4-1-nano": "/nfs/u40/chanc187/source/eval_cnp/data/gpt_4_1_nano_balanced_strict.tsv",
 }
 
 # Get the selected dataset path
