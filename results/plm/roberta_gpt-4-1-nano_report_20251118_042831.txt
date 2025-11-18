@@ -1,0 +1,27 @@
+Classification Report for ClariQ:
+               precision    recall  f1-score   support
+
+not ambiguous       0.13      0.59      0.21        37
+    ambiguous       0.88      0.44      0.58       262
+
+     accuracy                           0.45       299
+    macro avg       0.51      0.51      0.40       299
+ weighted avg       0.79      0.45      0.54       299
+
+Validation Accuracy: 0.45484949832775917
+Inference Time: 0.5049557685852051 seconds
+Average Inference Time per Sample: 0.0016888152795491809 seconds
+
+Classification Report for AmbigNQ:
+               precision    recall  f1-score   support
+
+not ambiguous       0.41      0.50      0.45       830
+    ambiguous       0.58      0.50      0.54      1172
+
+     accuracy                           0.50      2002
+    macro avg       0.50      0.50      0.50      2002
+ weighted avg       0.51      0.50      0.50      2002
+
+Validation Accuracy: 0.5
+Inference Time: 3.1849234104156494 seconds
+Average Inference Time per Sample: 0.0015908708343734513 seconds
