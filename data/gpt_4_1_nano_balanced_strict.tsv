@@ -1,0 +1,1001 @@
+topic	initial_request	binary_label	user_information_need
+Activism	What are effective strategies for grassroots activism?	0	Discover ways to organize grassroots movements effectively.
+Activism	How can I get involved in activism?	0	Find out how to participate in activism activities.
+Activism	What are the main goals of activist groups?	0	Understand the objectives of various activist organizations.
+Activism	Why do people participate in activism?	1	Seek reasons behind activism participation without specifics.
+Activism	How does activism influence policy change?	0	Explore the impact of activism on creating policy changes.
+Activism	Can activism lead to social change?	1	Investigate whether activism causes social transformations in general.
+Activism	What tools do activists use to organize?	0	Identify common tools and methods used in activism efforts.
+Activism	How do activism campaigns work?	1	Understand the workings of campaigns related to activism, vaguely.
+Activism	What are examples of successful activism movements?	0	Look for specific examples of effective activism campaigns.
+Activism	How do activism movements start?	1	Seek information on the beginnings of activism movements in a broad sense.
+Aging	What are the health benefits of regular exercise for the elderly?	0	Identify benefits of exercise for aging individuals.
+Aging	Can exercise help?	1	Seeking general information about exercise and aging, but vague.
+Aging	What are effective skincare routines for aging skin?	0	Find skincare advice suitable for aging skin.
+Aging	How can skin care help?	1	Looking for skincare tips related to aging, but imprecise.
+Aging	What are the best nutritional supplements for seniors?	0	Discover recommended supplements for elderly health.
+Aging	Are supplements good?	1	Seeking info on supplements, with unclear focus on aging.
+Aging	What procedures are available for cosmetic anti-aging treatments?	0	Explore anti-aging cosmetic procedures.
+Aging	Are procedures enough?	1	General question about anti-aging treatments without specifics.
+Aging	How does aging affect memory and cognition?	0	Understand cognitive changes with aging.
+Aging	Does aging impact mind?	1	Seeking information on aging and mental function, but vague.
+Allergies	What are common symptoms of pollen allergy?	0	Understand typical pollen allergy symptoms.
+Allergies	Can allergies cause headaches?	0	Ascertain if allergies can lead to headaches.
+Allergies	What foods should I avoid if I have food allergies?	0	Identify foods to avoid with food allergies.
+Allergies	How can I treat allergy symptoms?	0	Find treatments for allergy symptoms.
+Allergies	Are allergies hereditary?	0	Determine if allergies are inherited.
+Allergies	What might cause allergic reactions?	1	Seeking causes of allergic reactions, but not specific.
+Allergies	Can certain environments trigger allergies?	1	Want to know if environments cause allergies, vague.
+Allergies	Why do some people develop allergies later in life?	1	Investigate reasons for adult-onset allergies in a broad sense.
+Allergies	How do I know if I have allergies?	1	General question about identifying allergies, not specific.
+Allergies	Can allergies be permanent?	1	Want to understand if allergies can last forever, vague.
+Appointments	When is my next appointment scheduled?	0	Find out the date and time of the upcoming appointment.
+Appointments	Can I see my upcoming appointments?	1	Get a list of all upcoming appointments without specific details.
+Appointments	How do I cancel an appointment?	0	Obtain instructions on canceling a scheduled appointment.
+Appointments	What's the process for changing my appointment?	1	Inquire about how to adjust or reschedule an appointment.
+Appointments	Do I have any appointments today?	0	Check if there are appointments scheduled for today.
+Appointments	Are there any meetings I need to join?	1	Seek information about meetings or appointments without specifics.
+Appointments	How can I book a new appointment?	0	Steps to schedule a new appointment.
+Appointments	Can I set up an appointment with a doctor?	1	Ask about making a health-related appointment generally.
+Appointments	Where do I go for my appointment?	0	Find the location details for a scheduled appointment.
+Appointments	Tell me my next appointment with Dr. Smith.	0	Find out specific upcoming appointments.
+Art	Who are the most famous painters in history?	0	Identify renowned painters historically.
+Art	Who are well-known artists?	1	Seeking information on notable artists but lacks specificity.
+Art	What is modern art?	0	Detailed explanation of modern art.
+Art	Can you tell me about art styles?	1	Seeking info on art styles but too broad.
+Art	Where can I see famous artworks?	0	Find locations of famous artworks.
+Art	Are there places with artwork?	1	Looking for locations with artworks but vague.
+Art	How do I start painting?	0	Tips for beginning painters.
+Art	How can I learn to draw?	1	Seeking drawing lessons or ways but imprecise.
+Art	What techniques do artists use?	0	Descriptions of artistic techniques.
+Art	What methods are there?	1	Looking for artistic methods but unclear about specifics.
+Banking	How can I open a new savings account?	0	Instructions for opening a savings account.
+Banking	What is the process to get a new bank account?	0	Details on opening a bank account.
+Banking	How do I apply for a home loan?	0	Procedure to apply for a mortgage.
+Banking	What are the requirements for a mortgage application?	0	Information on mortgage criteria.
+Banking	Can I get a loan without collateral?	0	Details on unsecured loans.
+Banking	How to get a loan with bad credit?	0	Information on obtaining loans with poor credit.
+Banking	Best way to manage my bank account?	1	Looking for ways to handle bank accounts effectively.
+Banking	How should I handle my banking?	1	Seeking general advice on banking but unclear specifics.
+Banking	What options do I have for banking?	1	Questions about banking choices but vague on type.
+Banking	Can I do banking online?	1	Seeking information on banking options, but unclear if online or in person.
+Budgeting	What are the key steps in creating a personal budget?	0	Understanding the main steps to develop a personal budget.
+Budgeting	How do I make a budget?	1	Seeking general information on making a budget, without specifics.
+Budgeting	What tools can I use for budgeting effectively?	0	Find tools to help with effective budgeting.
+Budgeting	Which apps are best for keeping track of expenses?	1	Looking for mobile applications to manage expenses, but vague on criteria.
+Budgeting	How should I budget for monthly expenses?	0	Guide on budgeting for monthly expenses specifically.
+Budgeting	What’s the best way to plan my money?	1	Seeking vague advice on money planning without details.
+Budgeting	How do I track my spending?	0	Information on methods to track daily or monthly spending.
+Budgeting	What are ways to monitor my expenditures?	1	Looking for general expenditure monitoring options without specifics.
+Budgeting	How can I set financial goals and stick to them?	0	Instructions on setting and maintaining financial goals.
+Budgeting	How do I stay motivated to save money?	1	Seeking motivation techniques for saving, but not specific to budgeting.
+Bureaucracy	What is the definition of bureaucracy?	0	Understand the meaning of bureaucracy.
+Bureaucracy	Can you explain what bureaucracy is?	0	Seek a clear explanation of bureaucracy.
+Bureaucracy	How does bureaucracy function in government?	0	Determine how bureaucracy operates within government systems.
+Bureaucracy	Is bureaucracy necessary for administration?	0	Find out if bureaucracy is essential for administration.
+Bureaucracy	What are the main characteristics of bureaucracy?	0	Identify features of a bureaucratic system.
+Bureaucracy	What is the role of bureaucracy in organizations?	0	Understand the function of bureaucracy in organizations.
+Bureaucracy	What does a bureaucrat do?	0	Get information about the duties of a bureaucrat.
+Bureaucracy	How do bureaucracies impact efficiency?	0	Learn how bureaucracy affects efficiency.
+Bureaucracy	What are common criticisms of bureaucracy?	0	Explore criticisms of bureaucratic systems.
+Bureaucracy	Why do governments have bureaucratic systems?	0	Find out the purpose of bureaucratic systems in governments.
+Celebrations	When is New Year's Day celebrated?	0	Discover the date of New Year's Day.
+Celebrations	What holidays are celebrated around the world?	1	Seek general information about global celebrations.
+Celebrations	How do people typically celebrate birthdays?	0	Find out common birthday celebration customs.
+Celebrations	What are common birthday traditions?	1	Looking for birthday celebration traditions but remain vague on the details.
+Celebrations	What types of decorations are used during festivals?	0	Understand decorations used in festivals.
+Celebrations	How are festivals decorated generally?	1	Seek information on festival decorations without specifying which ones.
+Celebrations	What are some popular celebration foods?	0	Get information about foods consumed during celebrations.
+Celebrations	What do people usually eat on special occasions?	1	Seeking details on celebration foods broadly.
+Celebrations	How do people plan surprise parties?	0	Learn about organizing surprise parties.
+Celebrations	How can I organize a celebration?	1	Looking for general tips on celebration planning without specifics.
+Civics	Who are the current members of Congress?	0	Identify the current members of the legislative body.
+Civics	What does civics cover?	1	Seek general information about the subject of civics.
+Civics	What rights are guaranteed by the Constitution?	0	Find out specific rights protected under the Constitution.
+Civics	Explain civics in simple terms.	1	Looking for an easy explanation of civics as a subject.
+Civics	How do laws get passed in the government?	0	Understand the legislative process for passing laws.
+Civics	What about how laws happen?	1	Want to know about lawmaking but in a vague way.
+Civics	What are the responsibilities of citizens?	0	Discover the duties and responsibilities required of citizens.
+Civics	Why should people participate in civics?	1	Seek reasons for civic engagement without specifics.
+Civics	How does the government function?	0	Understand the basic functioning of the government.
+Civics	How does politics work?	1	Want to know about political processes but broadly.
+Cleaning	How do I clean a stained carpet?	0	Instructions for cleaning stained carpets.
+Cleaning	What is cleaning?	1	General query about the concept of cleaning.
+Cleaning	What are the best methods for cleaning windows?	0	Effective techniques for window cleaning.
+Cleaning	How do people clean?	1	Seeking information on cleaning practices broadly.
+Cleaning	How can I remove mold from bathroom tiles?	0	Step-by-step guide to mold removal from tiles.
+Cleaning	What's the best way to clean?	1	Unknown what needs to be cleaned, seeking general advice.
+Cleaning	How often should I clean my house?	0	Recommended cleaning frequency for households.
+Cleaning	Do I need to clean regularly?	1	Seeking advice on cleaning schedules without specifics.
+Cleaning	What do I use to clean floors?	0	Products and methods for floor cleaning.
+Cleaning	What are effective methods to clean hardwood floors?	0	Find best practices for cleaning hardwood floors.
+Clinic	Where is the nearest clinic for vaccinations?	0	Find the closest vaccination clinic.
+Clinic	Can you tell me about clinics nearby?	1	Looking for information about local clinics, but specifics are unclear.
+Clinic	What services does the clinic offer?	0	Obtain details on services provided at the clinic.
+Clinic	Are there clinics around here?	1	Seeking information on the presence of clinics in the area.
+Clinic	How do I book an appointment at a clinic?	0	Register for a scheduled appointment at a clinic.
+Clinic	Can I make an appointment somewhere?	1	Requesting appointment information but not specifying where.
+Clinic	What are the clinic hours?	0	Find out the opening and closing times of the clinic.
+Clinic	When is the clinic open?	1	Seeking the operating hours of a clinic, but not which one.
+Clinic	Do clinics provide general checkups?	0	Inquire if clinics offer routine health checkups.
+Clinic	Are checkups available somewhere?	1	Looking for places that offer health checkups, but detail is vague.
+Clothing	What are the latest trends in men's fashion?	0	Find current men's fashion trends.
+Clothing	Can you tell me about trendy clothes?	1	Look for information on fashionable clothing, but not specific.
+Clothing	How do I choose the right size for a shirt?	0	Locate guidance on selecting shirt sizes.
+Clothing	What clothes should I wear?	1	Seek advice on clothing choices without specifics.
+Clothing	Where can I buy new clothes online?	0	Find online stores for purchasing clothes.
+Clothing	Are there good shopping sites?	1	Looking for online shopping sites, but vague.
+Clothing	How do I wash and care for silk clothes?	0	Care instructions for silk garments.
+Clothing	What do I do with delicate fabrics?	1	Information about handling delicate clothes generally.
+Clothing	What accessories go well with formal wear?	0	Match accessories with formal outfits.
+Clothing	How can I style my outfits?	1	Seek general styling tips, not specific to an event.
+Communication	What are effective ways to improve interpersonal communication?	0	Identify methods to enhance face-to-face communication skills.
+Communication	How can I get better at talking to people?	1	Seek advice on improving communication, but vague about the context.
+Communication	What tools are available for remote team communication?	0	Find tools designed for virtual team interactions.
+Communication	What apps help communicate with friends?	1	Looking for communication apps without specifying type or context.
+Communication	How do I convey my message clearly in a presentation?	0	Methods for clear message delivery during presentations.
+Communication	What techniques work for public speaking?	1	Seeking general public speaking tips without specifics.
+Communication	How can I understand others better?	0	Strategies to improve understanding in conversations.
+Communication	What helps with understanding people?	1	Looking to understand others, but not clear whether it's about communication skills or empathy.
+Communication	How to handle conflicts through communication?	0	Approaches for resolving conflicts via communication.
+Communication	What do you do when disagreements happen?	1	Seeking conflict resolution methods, but the focus isn't specified.
+Commuting	What are the main modes of commuting in urban areas?	0	Understand different commuting options in cities.
+Commuting	What about transportation options?	1	Seeking information on transportation but not specific to commuting.
+Commuting	How long does the average commute take in New York City?	0	Find out average commuting times in NYC.
+Commuting	What is the typical duration of a daily trip?	1	Looking for general travel durations without specifics.
+Commuting	What factors affect commuting times?	0	Identify factors influencing how long commutes last.
+Commuting	Why do some commutes take longer?	1	Understanding reasons for longer travel times but vague.
+Commuting	What are the benefits of public transportation?	0	Explore advantages of using public transit.
+Commuting	What are the advantages of different travel methods?	1	Seeking broad benefits of travel options, not specific.
+Commuting	How can I reduce my commuting time?	0	Find strategies to make commutes shorter.
+Commuting	What are some ways to make travel faster?	1	Looking for general tips to improve speed, vague on context.
+Composting	What are the main benefits of composting?	0	Understand the advantages of composting.
+Composting	Why composting is good?	1	Seeking reasons why composting might be beneficial.
+Composting	How do I start composting at home?	0	Find instructions for beginning composting.
+Composting	What are the steps for composting?	1	Looking for information on the process of composting, but vague.
+Composting	Can I compost food scraps?	0	Determine if food scraps are suitable for composting.
+Composting	What can I put in compost?	1	Want to know what items are compostable, but not specific.
+Composting	How long does composting take?	0	Find out the typical time needed for composting.
+Composting	Does composting take forever?	1	Questioning the duration of composting in a vague way.
+Composting	What tools do I need for composting?	0	Know the equipment needed for composting.
+Composting	What stuff do I need?	1	Seeking information about supplies or tools but quite general.
+Conservation	What are effective methods for wildlife conservation?	0	Find proven strategies for conserving wildlife species.
+Conservation	How do I support conservation efforts?	1	Seeking ways to support conservation activities but not specific which ones.
+Conservation	What is the importance of conserving natural habitats?	0	Understand reasons for habitat conservation.
+Conservation	Why should we care about saving animals?	1	Looking for reasons to support animal conservation, but vague.
+Conservation	What organizations are involved in conservation?	0	Identify groups working on conservation projects.
+Conservation	Where can I donate to conservation causes?	1	Seeking donation options for conservation, but not specifying causes.
+Conservation	How are endangered species protected?	0	Understand measures for protecting endangered species.
+Conservation	What can I do to help endangered animals?	1	Looking for ways to assist endangered animals, but not detailed.
+Conservation	What are the main challenges in conservation today?	0	Know about current obstacles in conservation.
+Conservation	Why is conservation difficult?	1	Seeking reasons behind conservation challenges but ambiguously.
+Cooking	Tell me how to bake a chocolate cake from scratch.	0	Step-by-step instructions to bake a chocolate cake.
+Cooking	Can I make a cake?	1	General inquiry about making a cake without specifics.
+Cooking	What is the best way to cook spaghetti al dente?	0	Expert advice on cooking spaghetti properly.
+Cooking	How do I prepare pasta?	1	Seeking general information on pasta preparation.
+Cooking	What are some healthy ingredients for stir-fry?	0	Detailed list of healthy stir-fry ingredients.
+Cooking	What should I add to stir-fry?	1	Ambiguous query about stir-fry ingredients.
+Cooking	How do I roast vegetables properly?	0	Cooking techniques for roasting vegetables.
+Cooking	What is the best way to cook veggies?	1	General question about cooking vegetables without specifics.
+Cooking	What are some quick dinner recipes?	0	Collection of fast dinner recipes.
+Cooking	Can you suggest dinner ideas?	1	Seeking dinner ideas but not specifying preferences.
+Creativity	How can I improve my creative thinking skills?	0	Strategies to enhance creative thinking abilities.
+Creativity	Can you tell me about becoming more creative?	1	Seeking general advice on increasing creativity, but vague.
+Creativity	What techniques are used in creative problem-solving?	0	Methods for solving problems creatively.
+Creativity	How do people get creative ideas?	1	Questions about generating ideas without specifics.
+Creativity	What are famous examples of creative works?	0	Catalog of well-known creative projects or artworks.
+Creativity	Can you give examples of creative things?	1	Asking for creative examples but not specifying type or context.
+Creativity	What habits do creative people have?	0	Information on habits leading to creativity.
+Creativity	Are there habits that boost creativity?	1	General inquiry about habits and creativity without detail.
+Creativity	How does creativity develop over time?	0	Understanding growth of creativity through time.
+Creativity	Can creativity change?	1	Exploring whether creativity can evolve, but vague.
+Credit	What is a credit score?	0	Understanding what a credit score is.
+Credit	Can you tell me about credit?	1	Seeking general information about credit, but unclear what aspect.
+Credit	How do I build credit?	0	Looking for ways to establish or improve credit.
+Credit	What affects credit scores?	1	Want to know factors influencing credit scores, vague context.
+Credit	What is a good credit limit?	0	Understanding acceptable or recommended credit limits.
+Credit	What's the ideal credit limit?	1	Seeking opinions on ideal credit limits without specifics.
+Credit	How do I check my credit report?	0	Asking for steps to view personal credit reports.
+Credit	Can I see my credit info?	1	Want to access credit information, but context is unclear.
+Credit	How often should I review my credit?	0	Seeking advice on the recommended frequency for credit review.
+Credit	When should I check my credit again?	1	Unclear about timing for reviewing credit, seeking general advice.
+Culture	What are the main elements of a country's culture?	0	Identify core components that define a nation's culture.
+Culture	Can you tell me about culture?	1	Seeking general information about culture without specific focus.
+Culture	How do cultural traditions influence societies?	0	Understand the role of traditions in shaping societies.
+Culture	What impact do customs have?	1	Looking for information about customs without specifying impact.
+Culture	What are popular cultural festivals around the world?	0	Discover well-known cultural festivals internationally.
+Culture	Are there any famous festivals?	1	Want to know about festivals but not particular which or where.
+Culture	How do languages reflect culture?	0	Explore the connection between language and culture.
+Culture	How is culture expressed?	1	Seeking general ways through which culture is expressed.
+Culture	What is cultural identity?	0	Understand the concept of cultural identity.
+Culture	What does culture mean?	1	Ask for the meaning of culture in a broad sense.
+Cycling	What are the essential safety gear for cycling?	0	Identify necessary safety equipment for cycling.
+Cycling	What safety gear do I need?	1	Seeking general information about safety gear for cycling.
+Cycling	How do I maintain a mountain bike?	0	Find instructions for maintaining a mountain bike.
+Cycling	How to keep my bike in good condition?	1	Looking for maintenance tips but phrased broadly.
+Cycling	What are the best cycling routes in Paris?	0	Discover top cycling paths in Paris.
+Cycling	Which cities are good for cycling?	1	Want to know about good cycling cities but without specifics.
+Cycling	How can I improve my cycling endurance?	0	Obtain methods to enhance cycling stamina.
+Cycling	What helps increase cycling stamina?	1	Search for general tips to boost cycling endurance.
+Cycling	What should I eat before a long ride?	0	Find dietary advice for long cycling rides.
+Cycling	What do I eat when cycling long distances?	1	Looking for nutrition tips but not specific to cycling.
+Decluttering	How can I start decluttering my closet?	0	Want practical steps to begin decluttering my closet.
+Decluttering	What's the best way to declutter?	1	Seeking advice on decluttering but not specifying what to declutter.
+Decluttering	How do I organize my garage after decluttering?	0	Looking for methods to organize a garage post-decluttering.
+Decluttering	What's the process?	1	Questions about the decluttering process but vague on specifics.
+Decluttering	How can I reduce clutter in my home?	0	Methods to decrease clutter in the home.
+Decluttering	Can you give tips?	1	Looking for decluttering tips without specifying the area.
+Decluttering	What should I do with unnecessary stuff?	0	Seeking guidance on handling items considered unnecessary.
+Decluttering	Where should I put things I don't need anymore?	1	Questions about storage options for decluttered items.
+Decluttering	How do I maintain a clutter-free space?	0	Methods for sustaining a clutter-free environment.
+Decluttering	How can I keep things organized long-term?	1	Looking for long-term organization strategies without specifics.
+Devices	What is the latest model of iPhone?	0	Find information on the newest iPhone model available.
+Devices	Which devices are popular?	1	Seeking general information about popular electronic devices.
+Devices	How do I connect my Bluetooth device?	0	Methods for pairing a Bluetooth device.
+Devices	Can I connect this device?	1	Additional details needed to determine connectivity options.
+Devices	What are the features of the new Samsung Galaxy?	0	Details about features of a specific Samsung Galaxy model.
+Devices	Is Samsung better than Apple?	1	Comparison between Samsung and Apple devices, but vague.
+Devices	How do I update my device firmware?	0	Instructions for updating device software or firmware.
+Devices	What updates are available?	1	Information about device updates, but unspecified which device.
+Devices	What accessories are compatible with my device?	0	List of accessories compatible with a particular device.
+Devices	Are there any add-ons?	1	Question about additional components for a device, but unspecified.
+Diet	What are the best low-carb diets for weight loss?	0	Identify effective low-carb diet plans for weight loss.
+Diet	Can you tell me about diets?	1	Seeking general information about diets without specifics.
+Diet	How many calories should I eat daily to lose weight?	0	Find out recommended daily calorie intake for weight loss.
+Diet	What is a healthy eating plan?	1	Understanding general concepts of healthy diets without details.
+Diet	Are vegetarian diets healthy?	0	Cover the health aspects of vegetarian diets.
+Diet	Can I eat vegetables and still lose weight?	1	Seeking info about vegetables and weight loss, but not specific.
+Diet	What supplements are good for dieting?	0	Identify effective supplements to aid dieting.
+Diet	Are there quick ways to lose weight?	1	Seeking fast weight loss methods without specifics.
+Diet	How does dieting affect energy levels?	0	Understand the impact of dieting on energy.
+Diet	Can dieting make you tired?	1	Looking for effects of dieting, but the query is vague.
+Diy	How do I build a birdhouse from scratch?	0	Step-by-step instructions for building a birdhouse.
+Diy	Can I make a birdhouse at home?	1	General inquiry about making a birdhouse without specifics.
+Diy	What tools are needed for woodworking projects?	0	Information on tools required for DIY woodworking.
+Diy	What tools do I need?	1	Seeking tools for various DIY projects without specificity.
+Diy	How do I paint furniture yourself?	0	Guide on painting furniture on your own.
+Diy	Can I paint my furniture?	1	Question about painting furniture generally, not specific to DIY.
+Diy	What are easy craft ideas for beginners?	0	Spell out simple craft projects for beginners.
+Diy	Can I do crafts at home?	1	General inquiry about doing crafts without context.
+Diy	How do I install shelves?	0	Instructions for installing shelves DIY-style.
+Diy	Can I put up shelves myself?	1	Question about installing shelves without specifics.
+Documentation	How can I update the user manual for the latest software version?	0	Find instructions for updating the user manual.
+Documentation	What is documentation?	1	Seeking general information about documentation without specifics.
+Documentation	Where do I find the API documentation for this platform?	0	Locate the API documentation for a particular platform.
+Documentation	How do I access technical docs?	1	Looking for technical documentation, vague on which.
+Documentation	What are the best practices for documenting code?	0	Understand recommended practices for code documentation.
+Documentation	How should I write documentation?	1	Seeking advice on how to write documentation but not specific.
+Documentation	Can you help me generate documentation?	0	Assist with creating documentation.
+Documentation	What does good documentation look like?	1	Want to know characteristics of good documentation.
+Documentation	Where is the documentation stored?	0	Find where the documentation files are kept.
+Documentation	How do I create a new document in this software?	0	Learn the process of creating a new document.
+Emergency	What should I do if someone is choking?	0	Instructions for helping a choking person.
+Emergency	How can I handle an emergency?	1	Seeking general advice on managing emergencies without specifics.
+Emergency	Where is the nearest hospital in an emergency?	0	Find the closest hospital during emergencies.
+Emergency	Can you tell me about emergency procedures?	1	Information about procedures during emergencies but vague on details.
+Emergency	What emergency contacts should I have?	0	List essential emergency contacts.
+Emergency	Who should I call in an urgent situation?	1	Unclear about which contacts to call in emergencies.
+Emergency	How do I perform CPR?	0	Step-by-step CPR instructions.
+Emergency	What are basic first aid steps?	1	Seeking general first aid information without specifics.
+Emergency	What signs indicate a medical emergency?	0	Identify symptoms that require urgent medical attention.
+Emergency	How do I know if I need urgent help?	1	General question about recognizing need for urgent help.
+Environment	Query about pollution levels in urban areas	0	Obtain current pollution statistics for cities.
+Environment	What does pollution do?	1	Seek general information on pollution effects without specifics.
+Environment	How can pollution be reduced?	0	Find methods to decrease pollution.
+Environment	Can pollution be stopped?	1	Explore possibilities of completely ending pollution.
+Environment	What are the main sources of air pollution?	0	Identify major contributors to air pollution.
+Environment	Where does pollution come from?	1	Understand general origins of pollution without detail.
+Environment	What are the effects of pollution on health?	0	Look into health impacts of pollution.
+Environment	How does pollution affect ecosystems?	1	Seek vague information about pollution's ecological impact.
+Environment	What policies control pollution emissions?	0	Find regulations related to pollution control.
+Environment	What can be done about pollution?	1	Explore broad solutions for pollution without specifics.
+Ergonomics	What are the main principles of ergonomic design?	0	Understand core principles of ergonomic design.
+Ergonomics	Can you tell me about ergonomic design?	1	Seeking general information about ergonomic design but not specific.
+Ergonomics	How can ergonomic principles reduce workplace injuries?	0	Learn how ergonomics can prevent injuries at work.
+Ergonomics	Do ergonomics help with health?	1	Looking for health benefits of ergonomics but vague on details.
+Ergonomics	What are common ergonomic tools used in offices?	0	Identify tools used for office ergonomics.
+Ergonomics	Are there any ergonomic gadgets?	1	Seeking information about ergonomic gadgets, but not specific which ones.
+Ergonomics	How do ergonomic assessments improve productivity?	0	Understand impact of ergonomic assessments on productivity.
+Ergonomics	Can ergonomics make work better?	1	Looking for benefits of ergonomics in the workplace without specifics.
+Ergonomics	What is ergonomic sitting?	0	Definition of ergonomic sitting positions.
+Ergonomics	How should I sit properly?	1	Seeking advice on sitting posture but not necessarily ergonomic.
+Events	When is the next music concert in New York?	0	Find out the date of the upcoming concert in New York.
+Events	What's the event happening soon?	1	Looking for information about upcoming events but not specific.
+Events	Who organized the charity marathon last year?	0	Identify the organizer of last year's charity marathon.
+Events	Can you tell me about recent marathons?	1	Seek details on recent marathons but vague on which.
+Events	Where will the festival be held this summer?	0	Locate the venue for this summer's festival.
+Events	What's happening in town?	1	Want general info about local happenings; not specific.
+Events	Are there any conferences in September?	0	Check if there are conferences scheduled for September.
+Events	What new events are planned?	1	Find info on upcoming events, but not specific which.
+Events	Which events are canceled?	0	Find out about canceled events.
+Events	When is the company annual meeting scheduled?	0	Find the date of the company's annual meeting.
+Exercise	What are some effective exercises for weight loss?	0	Find effective exercises to lose weight.
+Exercise	What exercises should I do?	1	Seeking general exercise advice without specifics.
+Exercise	How often should I exercise weekly?	0	Determine recommended weekly exercise frequency.
+Exercise	When should I start exercising?	1	Want to know the best time to begin exercising.
+Exercise	What types of exercise improve cardiovascular health?	0	Identify exercises beneficial for heart health.
+Exercise	Which exercises are good?	1	Looking for suggestions on good exercises, but vague.
+Exercise	What is the best way to stay fit?	0	Find effective methods to maintain fitness.
+Exercise	How can I stay healthy?	1	Seeking general health tips without specifics.
+Exercise	How does exercise affect mental health?	0	Understand the impact of exercise on mental well-being.
+Exercise	Why should I start exercising?	1	Want reasons to begin exercising but not specific.
+Family	What are the common responsibilities of family members?	0	Understand typical family member responsibilities.
+Family	Who are considered immediate family members?	0	Identify who qualifies as immediate family.
+Family	How can I strengthen my family relationships?	0	Find ways to improve family connections.
+Family	What does family mean to different cultures?	1	Exploring varied definitions of family.
+Family	What are family values?	0	Learn about core family values.
+Family	How do different belief systems view family?	1	Seeking perspectives on family in various religions or beliefs.
+Family	How can I support my family during difficult times?	0	Look for ways to help family members in need.
+Family	What should I do if I have conflicts with my family?	1	Asking for general advice about family conflicts.
+Family	How does family influence personal development?	0	Understand the impact of family on growth.
+Family	What affects family dynamics?	1	Seeking information on factors impacting family interactions.
+Feedback	What is feedback?	0	Understanding the concept of feedback.
+Feedback	Can you tell me about feedback?	1	Seeking general information about feedback, but unclear about specifics.
+Feedback	How do I give effective feedback?	0	Looking for tips on providing good feedback.
+Feedback	What is the best way to give feedback?	1	Unsure about criteria for effective feedback, vague question.
+Feedback	Why is feedback important?	0	Understanding the significance of feedback.
+Feedback	Why does feedback matter?	1	Seeking reasons for the importance of feedback, but too broad.
+Feedback	How can I improve my feedback skills?	0	Wanting to enhance feedback abilities.
+Feedback	What methods exist for giving feedback?	1	Looking for different feedback methods but not specific about context.
+Feedback	How do companies use feedback?	0	Understanding how organizations utilize feedback.
+Feedback	What do they do with feedback?	1	Seeking information on feedback management but unclear about details.
+First-aid	What are the basic steps to perform CPR?	0	Learn the correct procedure for performing CPR.
+First-aid	How do I do first aid?	1	Seeking general information about first aid without specific details.
+First-aid	How can I help someone who is unconscious?	0	Find out how to assist an unconscious person safely.
+First-aid	What do I do if someone is unresponsive?	1	Looking for actions to take when someone is unresponsive but vague about the situation.
+First-aid	What supplies are needed for first-aid kits?	0	Identify essential items for a first-aid kit.
+First-aid	What should be in a first-aid kit?	1	Seeking information about contents without specifying for what purpose.
+First-aid	How do I treat a burn?	0	Understand the proper treatment for burns.
+First-aid	What do I do for simple burns?	1	Looking for first-aid steps for burns but not specifying severity.
+First-aid	How do I handle choking emergencies?	0	Learn techniques for helping someone who is choking.
+First-aid	What if someone can't breathe?	1	Seeking guidance for breathing problems but with vague context.
+Food	What are the main ingredients in a margherita pizza?	0	Identify the ingredients used in a margherita pizza.
+Food	What is food?	1	Seeking general information about food, but vague.
+Food	How many calories are in a cheeseburger?	0	Find out the caloric content of a cheeseburger.
+Food	What is the nutritional value of food?	1	Looking for nutritional information about food in general.
+Food	How do I make pizza at home?	0	Instructions for making pizza at home.
+Food	What should I cook tonight?	1	Requesting dinner ideas without specifying preferences.
+Food	What are common food allergies?	0	Identify common food allergies.
+Food	Are some foods bad?	1	Questioning the health implications of certain foods, but vague.
+Food	What is gluten?	0	Understand what gluten is.
+Food	Type of food?	1	Seeking information about food type, vague.
+Friendship	What are the qualities of a good friend?	0	Identify key traits that define a good friend.
+Friendship	What makes someone a good friend?	1	Seeking general qualities that define friendship without specifics.
+Friendship	How can I strengthen my friendship?	0	Improve or deepen an existing friendship.
+Friendship	What can I do to fix friendship issues?	1	Seek ways to resolve friendship conflicts but vaguely.
+Friendship	Why is friendship important?	0	Understanding the significance of friendship in life.
+Friendship	What is the value of friendships?	1	Look for the importance of friendship without details.
+Friendship	How do I meet new friends?	0	Find strategies to make new friends.
+Friendship	Where can I find friends?	1	Seeking places or methods to find friends but imprecise.
+Friendship	How do friendships change over time?	0	Explore how friendships develop or evolve.
+Friendship	What happens to friendships?	1	Want to know about the fate or changes in friendships vaguely.
+Gardening	What are the best plants for a beginner's garden?	0	Find suitable plants for beginners in gardening.
+Gardening	What plants are good?	1	Looking for information about suitable garden plants, but vague on specifics.
+Gardening	How often should I water my vegetable garden?	0	Learn irrigation frequency for vegetable gardening.
+Gardening	When should I water my garden?	1	Seeking general watering advice without specifics.
+Gardening	What soil is best for roses?	0	Determine optimal soil conditions for roses.
+Gardening	What kind of soil do flowers need?	1	Looking for soil requirements for flowers, but not specific to roses.
+Gardening	How can I control pests on my tomato plants?	0	Understand pest management for tomatoes.
+Gardening	How do I keep pests away?	1	Seeking pest control methods, but not specific to plants.
+Gardening	What tools do I need for gardening?	0	Identify essential gardening tools.
+Gardening	What equipment is necessary?	1	Looking for gardening equipment, but unclear on what specifically.
+Health	What are the symptoms of diabetes?	0	Understand the signs and symptoms of diabetes.
+Health	Can you tell me about diabetes?	1	Seeking general information about diabetes, vague on specifics.
+Health	What are effective ways to lower blood sugar levels?	0	Find methods to reduce blood sugar.
+Health	How can I control my blood sugar?	1	Looking for ways to manage blood sugar without specific context.
+Health	What is a healthy diet for heart health?	0	Know about diets that promote heart health.
+Health	What should I eat for good health?	1	General inquiry about healthy eating, unclear about specific health benefits.
+Health	How often should I exercise for wellness?	0	Find recommended exercise frequency for health.
+Health	What's a good amount of exercise?	1	Seeking advice on exercise, but not specifying any health condition.
+Health	What are the treatments for hypertension?	0	Understand hypertension treatment options.
+Health	How do you treat high blood pressure?	1	Looking for treatments without specifying context or details.
+Hobbies	What is a popular hobby for beginners?	0	Start learning about common beginner hobbies.
+Hobbies	What hobbies do people enjoy?	1	Find out generally about hobbies people enjoy.
+Hobbies	How can I start gardening as a hobby?	0	Receive guidance on beginning gardening.
+Hobbies	What are some ways to get into gardening?	1	Seeking ways to start gardening, but not specific.
+Hobbies	What are different types of hobbies?	0	Learn about various hobby categories.
+Hobbies	Can you tell me about hobbies?	1	Want general information on hobbies, but vague.
+Hobbies	What equipment do I need for painting?	0	Find out supplies needed for painting.
+Hobbies	How do I start painting?	1	Looking for painting tips but not specific.
+Hobbies	What are some hobbies I can do indoors?	0	Identify hobbies suitable for indoor activity.
+Hobbies	What hobbies can I do at home?	1	Seeking activities to do at home, but unclear on which.
+Housing	What is the average cost of a one-bedroom apartment in downtown New York?	0	Determine the typical rental price for a specific apartment type in a city center.
+Housing	Can you tell me about housing costs?	1	Seeking general information about housing expenses without specifics.
+Housing	What are the best neighborhoods to buy a house in Los Angeles?	0	Find top neighborhoods for purchasing homes in a particular city.
+Housing	Where should I look for real estate?	1	Looking for suggestions on areas to find housing, but not specific to needs.
+Housing	How do I qualify for a mortgage?	0	Understand the requirements for obtaining a mortgage loan.
+Housing	What do I need to get a loan?	1	Ask about loan qualification criteria generally without specifying type.
+Housing	What are rental prices like in San Francisco?	0	Find out about current rental rates in a specific city.
+Housing	Can you give me an overview of rent prices?	1	Seeking broad information about rental prices without location detail.
+Housing	How do I find affordable housing options?	0	Get tips on locating affordable housing solutions.
+Housing	Where can I find affordable housing?	1	Looking for places to find economic housing, but not a specific location.
+Hydration	What are the benefits of staying hydrated?	0	Understand the health benefits of proper hydration.
+Hydration	Why should I drink water?	1	Seeking reasons for drinking water but not specifically about hydration.
+Hydration	How much water should I drink daily?	0	Find out recommended daily water intake.
+Hydration	What's the right amount of fluid?	1	Looking for guidance on fluid intake but vague.
+Hydration	What are signs of dehydration?	0	Identify symptoms indicating dehydration.
+Hydration	How do I know if I'm dehydrated?	1	Seeking signs of dehydration but not specific.
+Hydration	What drinks are good for hydration?	0	Know which beverages best keep you hydrated.
+Hydration	What should I drink to rehydrate?	1	Looking for rehydration drinks without specificity.
+Hydration	How does hydration affect health?	0	Understand the impact of hydration on overall health.
+Hydration	Why is water important?	1	Seeking information on importance of water but broad.
+Hygiene	What are the best handwashing techniques?	0	Details on proper handwashing methods.
+Hygiene	How to keep clean?	1	General advice on staying clean without specifics.
+Hygiene	What are the recommended hygiene products for daily use?	0	Information on essential hygiene products.
+Hygiene	Which stuff should I use?	1	Seeking advice on hygiene items but vague.
+Hygiene	How often should I shower for good hygiene?	0	Recommended shower frequency for hygiene.
+Hygiene	Is there a standard shower routine?	1	Interested in general shower routines, not specific.
+Hygiene	What are the signs of poor hygiene?	0	Indicators of inadequate personal hygiene.
+Hygiene	How do I know if I’m hygienic enough?	1	Questions about personal hygiene standards.
+Hygiene	What are the benefits of maintaining proper hygiene?	0	Advantages of good hygiene practices.
+Hygiene	Why is hygiene important?	1	Seeking reasons behind hygiene importance, vague.
+Insurance	What is health insurance?	0	Understand the definition of health insurance.
+Insurance	What does insurance cover?	0	Find out what types of coverage insurance provides.
+Insurance	How can I get insurance?	0	Seek instructions on obtaining insurance.
+Insurance	What is the cost of insurance?	0	Determine the typical expenses associated with insurance.
+Insurance	Why do I need insurance?	0	Understand the reasons for having insurance.
+Insurance	What is insurance?	1	Ask about general insurance concepts, but vague.
+Insurance	How does insurance work?	1	Seeking broad understanding of insurance operations.
+Insurance	Can you explain insurance?	1	Looking for an explanation but not specific on which type.
+Insurance	What are different types of insurance?	1	Question about various insurance categories without specifics.
+Insurance	Why is insurance important?	1	Generic inquiry about importance, not linked to a particular aspect.
+Investments	What are the best long-term stocks to invest in?	0	Identify top-performing stocks for long-term investment.
+Investments	Where should I invest my money?	1	Seeking advice on investment options without specifics.
+Investments	How do I start investing in ETFs?	0	Learn the steps to begin investing in Exchange-Traded Funds.
+Investments	What are ETFs?	1	Understand what ETFs are, but query is vague about learning or investing.
+Investments	What is the difference between mutual funds and stocks?	0	Compare mutual funds and stocks to understand their differences.
+Investments	Which investment is better, mutual funds or stocks?	1	Seeking advice on investment choices without specifics.
+Investments	How do I diversify my investment portfolio?	0	Find ways to spread investments to reduce risk.
+Investments	How can I avoid losing money on investments?	1	Looking for strategies to prevent investment losses, but unclear about methods.
+Investments	What are the risks associated with investing?	0	Understand the potential risks involved in investing.
+Investments	Are investments safe?	1	Seeking information about safety and security of investments without details.
+Isolation	What are effective methods for social isolation?	0	Identify methods to achieve or understand social isolation.
+Isolation	How does isolation impact mental health?	0	Learn about the effects of isolation on mental well-being.
+Isolation	Can isolation cause physical health problems?	0	Investigation into physical health consequences related to isolation.
+Isolation	How do people feel when they are isolated?	1	General query about emotions associated with being isolated.
+Isolation	What is the experience of being in isolation like?	1	Seeking vague insights into what isolation feels like.
+Isolation	Why do some people choose to isolate themselves?	1	Interested in reasons behind voluntary or involuntary isolation.
+Isolation	Are there benefits to isolation?	1	Contemplating the advantages of being isolated, but not specific.
+Isolation	When should someone isolate from others?	1	Looking for vague guidance on timing for isolation.
+Isolation	How long can one stay isolated without problems?	0	Find out about duration limits of safe or typical isolation.
+Isolation	What are the consequences of long-term isolation?	0	Understand risks and outcomes of extended isolation periods.
+Kindness	What are practical ways to show kindness to others?	0	Find ways to demonstrate kindness in everyday life.
+Kindness	How can I be kind?	1	Seeking general ideas on being kind without specifics.
+Kindness	What are the benefits of kindness?	0	Understand positive effects of kindness on well-being.
+Kindness	Why is kindness important?	1	Explore reasons behind the importance of kindness, but vaguely.
+Kindness	How does kindness impact mental health?	0	Learn about the connection between kindness and mental health.
+Kindness	Does kindness make a difference?	1	Questioning whether kindness has an effect, without context.
+Kindness	What activities promote kindness?	0	Identify specific activities that encourage kindness.
+Kindness	What are good deeds?	1	Seeking examples of good deeds but not necessarily kindness.
+Kindness	How can kindness be practiced daily?	0	Discover practical ways to practice kindness every day.
+Kindness	How do I be better?	1	General question about self-improvement, vague on kindness.
+Laundry	How do I remove red wine stains from white shirts?	0	Find methods to remove red wine stains from white shirts.
+Laundry	How can I clean my clothes?	1	Seeking general advice on cleaning clothes, but not specific.
+Laundry	What is the best detergent for heavy stains?	0	Identify effective detergents for tough stains.
+Laundry	What laundry products should I buy?	1	Looking to purchase laundry products but unclear what types.
+Laundry	How do I wash delicates properly?	0	Understand proper washing techniques for delicate fabrics.
+Laundry	What is the correct way to fold clothes?	1	Seeking advice on folding clothes but not specific to any fabric.
+Laundry	How long should I run a wash cycle?	0	Find out optimal duration for washing machine cycles.
+Laundry	How do I know when clothes are clean?	1	Wondering how to tell if laundry is thoroughly cleaned.
+Laundry	How do I operate a front-loading washing machine?	0	Understand how to use a front-loading washing machine.
+Laundry	What should I do if my clothes shrink?	1	Seeking solutions for shrunken clothes but vague on causes.
+Laws	What are the basic elements of criminal law?	0	Understand the fundamental components of criminal law.
+Laws	Can you tell me about law?	1	Seeking general information about law without specifics.
+Laws	What are the main types of laws in the United States?	0	Identify different categories of US law.
+Laws	What laws exist?	1	Looking for an overview of existing laws, but not specific.
+Laws	How does contract law work?	0	Understand the principles of contract law.
+Laws	Can you explain laws?	1	Seeking a broad explanation of laws.
+Laws	What is copyright law?	0	Find out specifics about copyright law.
+Laws	What kinds of legal rules are there?	1	Seeking information about various legal rules without detail.
+Laws	How is law enforced?	0	Understand the enforcement mechanisms of law.
+Laws	Do laws get enforced?	1	Questioning if laws are enforced, vague on how.
+Learning	What are effective techniques for learning a new language?	0	Find strategies for language acquisition.
+Learning	How to learn better?	1	Seeking general advice on improving learning processes.
+Learning	What are the best methods for mastering math?	0	Identify effective methods to learn mathematics.
+Learning	How do I get better at studying?	1	Looking for ways to improve studying skills without specifics.
+Learning	What resources help in learning programming?	0	Discover resources for learning programming.
+Learning	Where can I find tutorials?	1	Seeking tutorials but not specifying the subject.
+Learning	How can I improve memory for study purposes?	0	Find techniques to enhance memory for learning.
+Learning	What are ways to memorize fast?	1	Seeking quick memorization methods, too vague.
+Learning	What is the best way to learn history?	0	Identify effective history learning methodologies.
+Learning	How do I study history better?	1	Looking for general tips on studying history.
+Lighting	What are different types of lighting used in homes?	0	Know about various home lighting types.
+Lighting	Can you tell me about lighting?	1	Seeking general information about lighting without specifics.
+Lighting	How does natural lighting differ from artificial lighting?	0	Compare natural and artificial lighting.
+Lighting	What are the main sources of lighting?	1	Want to know about lighting sources but without detail.
+Lighting	What are energy-efficient lighting options?	0	Find out about eco-friendly lighting choices.
+Lighting	What lighting should I use?	1	Looking for advice on lighting choices but unclear on context.
+Lighting	How do I install lighting fixtures?	0	Instructions or guidance on installing lighting fixtures.
+Lighting	Can I install lighting myself?	1	Questions about installing lighting but not specific on skill level.
+Lighting	How is lighting designed for different rooms?	0	Understand design considerations for room lighting.
+Lighting	How do rooms get lit?	1	Seeking general info on room illumination, vague about method or purpose.
+Loneliness	Query about causes of loneliness.	0	Understanding reasons behind loneliness.
+Loneliness	Query about loneliness.	1	Seeking general information on loneliness.
+Loneliness	How to cope with loneliness?	0	Getting strategies to deal with loneliness.
+Loneliness	What is loneliness?	1	Looking for a definition or general overview of loneliness.
+Loneliness	How does loneliness affect health?	0	Researching health impacts related to loneliness.
+Loneliness	Does loneliness impact mental health?	1	Seeking information on mental health and loneliness.
+Loneliness	Ways to make friends and reduce loneliness.	0	Practical methods to overcome loneliness.
+Loneliness	How can I stop feeling lonely?	1	Looking for ways to stop feeling lonely, vaguely.
+Loneliness	Effects of loneliness on the body.	0	Understanding bodily effects resulting from loneliness.
+Loneliness	What happens when people are lonely?	1	Seeking general information on consequences of loneliness.
+Maintenance	What is routine maintenance for a car?	0	Understand standard car maintenance procedures.
+Maintenance	How do I maintain my vehicle?	1	Seeking general information on vehicle maintenance but imprecise.
+Maintenance	How often should equipment be serviced?	0	Find recommended service intervals for equipment.
+Maintenance	When should I check my machinery?	1	Looking for timing to inspect machinery but unclear specifics.
+Maintenance	What tools are needed for maintenance?	0	Identify tools required for maintenance tasks.
+Maintenance	What supplies are essential?	1	General question about supplies without specifying the item.
+Maintenance	How do I maintain my home heating system?	0	Instructions for home heating system upkeep.
+Maintenance	What should I do about my heater?	1	Seeking advice on heating system issues but vague.
+Maintenance	How do I keep appliances working well?	0	Advice on keeping appliances functional.
+Maintenance	How can I make devices last longer?	1	Gather tips for prolonging device lifespan without specifics.
+Markets	What are the current stock market trends?	0	Understand recent movements in the stock market.
+Markets	What's happening with the market?	1	Seeking information about the market but lacks specificity.
+Markets	How do currency exchange rates affect international trade?	0	Learn about the impact of currency rates on trade.
+Markets	Why do markets fluctuate?	1	Looking for reasons behind market fluctuations, but vague.
+Markets	What are the main sectors in the stock market?	0	Identify key sectors in the stock market.
+Markets	What's included in the market?	1	Want to know what's part of the market, but unclear which market.
+Markets	How do supply and demand influence markets?	0	Understand how supply and demand affect markets.
+Markets	Why do prices go up and down?	1	Seeking causes of price changes without detail.
+Markets	What investment strategies are popular right now?	0	Find out about trending investment strategies.
+Markets	What's a good way to invest?	1	Looking for investment advice but too vague.
+Medication	What is the recommended dosage of acetaminophen for children?	0	Find the correct dosage for children.
+Medication	Can I take medicine with food?	1	Seeking general advice about taking medicine, but vague on specifics.
+Medication	What are the side effects of ibuprofen?	0	Obtain information on side effects of a specific medication.
+Medication	Are there any risks with medicine?	1	Questioning the risks of medication in general terms.
+Medication	How should I store my medication?	0	Getting instructions on proper storage.
+Medication	Is it safe to mix medicines?	1	Inquiry about safety of combining medications with no specifics.
+Medication	What should I do if I miss a dose?	0	Looking for guidance on missed doses.
+Medication	Can I skip my medication?	1	Concern about skipping doses, but not specific about medication.
+Medication	How long does medicine stay in your system?	0	Find out duration of medication effects.
+Medication	What is the recommended dosage for amoxicillin for adults?	0	Know the proper dosage of amoxicillin for adults.
+Meditation	What are the health benefits of daily meditation?	0	Identify the health advantages of practicing meditation regularly.
+Meditation	Can meditation improve focus?	0	Understand if meditation helps enhance concentration.
+Meditation	How does meditation reduce stress?	0	Explore the mechanisms by which meditation alleviates stress.
+Meditation	Does meditation help with anxiety?	0	Find out if meditation can reduce anxiety symptoms.
+Meditation	What are different types of meditation techniques?	0	Learn about various meditation methods available.
+Meditation	Can meditation be done anywhere?	1	Seeking information about the flexibility of doing meditation.
+Meditation	How do I start meditating?	1	Looking for guidance on beginning meditation practice.
+Meditation	What is the best time of day to meditate?	1	Questions about optimal timing for meditation sessions.
+Meditation	Do I need special equipment for meditation?	1	Seeking info on any tools or accessories needed for meditation.
+Meditation	How can I start meditating?	0	Guide on beginner meditation techniques.
+Memories	What specific memories do you want to recall?	0	Find a particular memory to recall.
+Memories	Can you tell me about memories?	1	Seeking general information about memories but not specific.
+Memories	How do memories form in the brain?	0	Understand the biological process of memory formation.
+Memories	What is the way memories are stored?	1	Looking for general information about memory storage without specifics.
+Memories	How can I improve my memory?	0	Find strategies to enhance memory.
+Memories	What techniques help with memory?	1	Seeking advice on memory improvement methods without explicit detail.
+Memories	Why do we forget some memories?	0	Understand reasons behind forgetting memories.
+Memories	Why do memories fade?	1	Looking for vague reasons for memory loss.
+Memories	Can memories be altered or changed?	0	Explore whether and how memories can be modified.
+Memories	Is it possible to change old memories?	1	Seeking information on modifying memories, but not specific.
+Milestones	What are the key milestones in a project timeline?	0	Identify important project phases and deadlines.
+Milestones	When do milestones typically occur in projects?	1	Seeking general timing information about milestones without specifics.
+Milestones	What is the significance of project milestones?	0	Understand why milestones are important in project management.
+Milestones	Why are milestones important?	1	Looking for reasons behind milestone significance without context.
+Milestones	How do teams track project milestones?	0	Find methods used to monitor progress through milestones.
+Milestones	How are milestones monitored?	1	Seeking vague information on monitoring progress without details.
+Milestones	Can milestones be adjusted during a project?	0	Understand if and how milestones can be modified during execution.
+Milestones	Are milestones flexible?	1	Looking for information on the flexibility of milestones without specifics.
+Milestones	What tools are used to set milestones?	0	Identify tools or software for setting and planning milestones.
+Milestones	What do you use for milestones?	1	Seeking general info about tools or methods without clarity.
+Mindfulness	What are some mindfulness meditation techniques?	0	Seek specific mindfulness meditation methods.
+Mindfulness	What is mindfulness?	1	Looking for general information about mindfulness.
+Mindfulness	How can I practice mindfulness daily?	0	Find actionable steps for daily mindfulness practice.
+Mindfulness	Can I incorporate mindfulness into my routine?	1	Need to know if and how mindfulness can be integrated into daily life.
+Mindfulness	What are the benefits of mindfulness?	0	Understand the positive effects of practicing mindfulness.
+Mindfulness	Does mindfulness help with stress?	1	Seeking information on whether mindfulness is effective for stress management.
+Mindfulness	How does mindfulness improve mental health?	0	Find out how mindfulness impacts mental health.
+Mindfulness	Will mindfulness help me feel better?	1	Looking for general guidance on mindfulness benefits without specifics.
+Mindfulness	Are there different types of mindfulness practices?	0	Identify various forms of mindfulness exercises.
+Mindfulness	What kinds of mindfulness are there?	1	Want to know about different mindfulness practices without details.
+Motivation	Why do people lack motivation?	0	Understand causes of low motivation.
+Motivation	What causes a lack of motivation?	0	Identify reasons behind decreased motivation.
+Motivation	How can I increase my motivation?	0	Find ways to boost personal motivation.
+Motivation	What are tips to stay motivated?	0	Discover strategies to maintain motivation.
+Motivation	Why am I feeling unmotivated?	0	Explore reasons for feeling unmotivated.
+Motivation	What can I do to stay motivated?	0	Obtain practical methods for staying motivated.
+Motivation	How do I motivate myself?	0	Seek techniques for self-motivation.
+Motivation	Why do I lose motivation easily?	0	Understand why motivation fades quickly.
+Motivation	How to regain motivation after failure?	0	Strategies to recover motivation post-failure.
+Motivation	What motivates people to achieve goals?	0	Acquire knowledge about sources of motivation.
+Movies	What are the top-rated movies of 2022?	0	Find out which movies were highly rated in 2022.
+Movies	Can you tell me about recent popular films?	1	Looking for information on popular movies, but without a specific timeframe.
+Movies	"Who directed the movie ""Inception""?"	0	"Obtain the director's name for the film ""Inception""."
+Movies	Who is the director of that film?	1	Seek information about the director of a certain film, but not specifying which one.
+Movies	What movies are playing in theaters now?	0	Find current movies showing in theaters.
+Movies	Are there any new films?	1	Want information about new films, but not specifying how recent.
+Movies	"What genre of movies does the ""Marvel"" franchise produce?"	0	Identify the types of movies produced by Marvel.
+Movies	What about superhero movies?	1	Seek general info on superhero movies without specifying Marvel or others.
+Movies	Can you recommend good comedies to watch?	0	Receive recommendations for comedy movies.
+Movies	Any fun movies?	1	Looking for entertaining movies but not specifying comedy or genre.
+Music	What are the popular genres of music today?	0	Identify current popular music genres.
+Music	Can you tell me about music?	1	Seek general information or opinions about music.
+Music	Who composed Beethoven's Symphony No. 9?	0	Find out specific composer information.
+Music	What is the best music?	1	Explore opinions or subjective ideas about the best music.
+Music	How do I learn to play guitar?	0	Get specific advice or steps for learning guitar.
+Music	Is there a way to play an instrument?	1	Seek information about playing instruments, but details are unclear.
+Music	"What are the lyrics to ""Shape of You""?"	0	Find specific song lyrics.
+Music	Can you give me song lyrics?	1	Ask for song lyrics in a vague way.
+Music	What are some famous classical composers?	0	Identify notable classical music composers.
+Music	Who are big music stars?	1	Seek information about popular music celebrities with vague phrasing.
+Nature	What are the main types of ecosystems?	0	Identify different types of ecosystems in nature.
+Nature	Can you tell me about ecosystems?	1	Seeking general information about ecosystems with vague scope.
+Nature	How do forests contribute to the environment?	0	Understand the role of forests in ecosystems.
+Nature	What is the importance of trees?	1	Looking for information about trees but not specifically how they contribute to the environment.
+Nature	What are some endangered species?	0	Find specific examples of endangered species.
+Nature	How many animals are endangered?	1	Seek information about the number of endangered animals generally.
+Nature	Why is biodiversity important?	0	Understand the significance of biodiversity.
+Nature	What makes nature special?	1	Ask why nature is valuable without a specific angle.
+Nature	How do natural habitats function?	0	Learn about the functioning of natural habitats.
+Nature	What about the habitats out there?	1	Seeking information about habitats but in a vague way.
+Networking	How do I set up a Wi-Fi router at home?	0	Instructions on configuring a home Wi-Fi router.
+Networking	Can you tell me about networking?	1	Seeking general information about networking without specific focus.
+Networking	What are the main types of computer networks?	0	Detailed information on different types of computer networks.
+Networking	What are different kinds of networks?	1	Want to know various network types but lacks specificity.
+Networking	How does TCP/IP work?	0	Understanding the functioning of the TCP/IP protocol suite.
+Networking	Can you explain protocols?	1	Looking for explanation about network protocols in general.
+Networking	What is a subnet mask used for?	0	Details about the purpose of subnet masks in networking.
+Networking	What do masks do?	1	Ambiguous question about masks in a networking context.
+Networking	How can I troubleshoot network issues?	0	Methods for diagnosing and fixing network problems.
+Networking	What fixes network problems?	1	Seeking ways to resolve issues but not specific about the problems.
+Nutrition	What are the essential nutrients for a balanced diet?	0	Identify key nutrients needed for a healthy diet.
+Nutrition	What nutrients should I eat daily?	1	Find out about daily nutrient requirements, but unclear which nutrients.
+Nutrition	How many calories are in a banana?	0	Determine calorie content of a specific food item.
+Nutrition	How many calories do fruits have?	1	Ask about calorie content in fruits generally, vague on specific fruit.
+Nutrition	What are good sources of protein?	0	Discover foods rich in protein.
+Nutrition	Where do I find protein?	1	Seek sources of protein but not specific about foods or types.
+Nutrition	How does alcohol affect nutrition?	0	Understand impact of alcohol on nutritional health.
+Nutrition	Does drinking alcohol influence diet?	1	Explore effects of alcohol consumption on diet, vague.
+Nutrition	What is a healthy weight loss plan?	0	Look for guidance on safe weight loss strategies.
+Nutrition	How can I lose weight?	1	Seeking weight loss advice but not specific about plans or methods.
+Office	Where is the nearest office supply store?	0	Locate a nearby office supply retailer.
+Office	Can you tell me about offices?	1	Looking for general information about offices without specifics.
+Office	What are the office hours today?	0	Check the operating hours for today.
+Office	Are offices open now?	1	Want to know if offices are currently open, but lacks location details.
+Office	How do I organize my office space?	0	Receive tips on organizing an office.
+Office	What's the best way to set up an office?	1	Inquiring about office setup methods without context.
+Office	Do offices typically have cafeterias?	0	Obtain information about amenities in offices.
+Office	Are there cafeterias in most offices?	1	Seeking general information about office amenities, not specific.
+Office	How do office layouts vary?	0	Learn about different office layouts and designs.
+Office	What is the purpose of an office?	0	Understand the primary function of an office space.
+Organization	What is the purpose of organizational charts?	0	Understand the function of organizational charts.
+Organization	Can you explain organizational charts?	1	Seeking general information about organizational charts without specifics.
+Organization	How do organizations structure their teams?	0	Find out how teams are organized within companies.
+Organization	What does organizational structure mean?	1	Want a broad understanding of organizational structure.
+Organization	How are departments arranged in large companies?	0	Learn about departmental arrangements in big organizations.
+Organization	Can you describe how companies set up their departments?	1	Seeking vague info on company setup without details.
+Organization	What are the key components of an organization?	0	Understand the main parts that make up an organization.
+Organization	How do organizations operate?	1	Looking for general info on how organizations function.
+Organization	What are the different types of organizational structures?	0	Find out about various organizational structure types.
+Organization	What types of structures do companies use?	1	Want vague info about company structures without specifics.
+Parenting	What are effective discipline strategies for toddlers?	0	Find effective ways to discipline toddlers.
+Parenting	How to handle kid's bad behavior?	1	Seeking advice on managing children's behavior, but unclear about specifics.
+Parenting	What are some positive reinforcement techniques for children?	0	Explore positive reinforcement methods in parenting.
+Parenting	How do I get my child to listen?	1	Looking for ways to improve child's obedience without specifics.
+Parenting	What are healthy eating habits for children?	0	Understand proper nutrition habits for kids.
+Parenting	How can I make my kid eat vegetables?	1	Seeking ways to encourage vegetable intake but not detailed.
+Parenting	What are typical developmental milestones for a 3-year-old?	0	Identify developmental stages in 3-year-olds.
+Parenting	How do I know if my kid is developing okay?	1	Looking for signs of developmental progress, unclear about specifics.
+Parenting	What are best practices for bedtime routines?	0	Discover effective bedtime routines for kids.
+Parenting	How do I get my child to go to sleep easier?	1	Seeking general advice on sleep routines without details.
+Pets	What are the different types of common household pets?	0	Understand various species of household pets.
+Pets	Can I get information about pets?	1	Seeking general information about pets without specifics.
+Pets	What are the best pets for small apartments?	0	Find suitable pets for small living spaces.
+Pets	Which animals are good pets?	1	Determine suitable animals for companionship without specific criteria.
+Pets	How do I care for a puppy?	0	Learn puppy care instructions.
+Pets	What should I know about pet care?	1	Seeking broad knowledge about caring for pets.
+Pets	What is the lifespan of a cat?	0	Know the lifespan characteristic of cats.
+Pets	How long do pets live?	1	Looking for general lifespan information of pets but non-specific.
+Pets	What do cats eat?	0	Find out about cat dietary needs.
+Pets	How to feed pets?	1	Seeking feeding tips for pets in general without specifying animal.
+Photography	How do I adjust the ISO setting on my digital camera?	0	Instructions for changing ISO on a digital camera.
+Photography	Can you tell me about camera settings?	1	Seeking general information about camera settings without specifics.
+Photography	What is the best aperture for landscape photography?	0	Advice on optimal aperture for landscapes.
+Photography	What's a good lens for taking pictures?	1	Looking for recommendations without specifying the type of photography.
+Photography	How do I edit photos using Photoshop?	0	Step-by-step guide for photo editing in Photoshop.
+Photography	Can I improve my pictures?	1	Seeking ways to enhance photos, but vague on methods or tools.
+Photography	What are the different types of photography styles?	0	Information on various photography styles.
+Photography	How do I take good photos?	1	General question about improving photography skills without specific details.
+Photography	What equipment do professional photographers use?	0	Information about professional photography gear.
+Photography	What gear do pros have?	1	Seeking info on high-end photography equipment without specificity.
+Podcasts	What are popular podcasts for learning languages?	0	Find popular language learning podcasts.
+Podcasts	Can you suggest some good podcasts?	1	Looking for general podcast recommendations without specifics.
+Podcasts	How can I start a podcast about tech reviews?	0	Create a tech review podcast.
+Podcasts	What equipment do I need to make podcasts?	1	Seeking information about podcast equipment but without specifics.
+Podcasts	Where can I listen to health-related podcasts?	0	Find platforms hosting health podcasts.
+Podcasts	Are there any podcasts about nutrition?	1	Searching for any podcasts related to nutrition, unclear if specific.
+Podcasts	How do I monetize my podcasts?	0	Learn about monetization strategies for podcasts.
+Podcasts	Can podcasts generate income?	1	Interested in income possibility from podcasts, vague on details.
+Podcasts	What are some top science podcasts?	0	List top science podcasts.
+Podcasts	Are there podcasts on science topics?	1	Seeking science podcasts without specifying which.
+Politics	Who is the current president of the United States?	0	Identify the sitting president of the U.S.
+Politics	Who leads the country now?	1	Ask about the current country leader, but phrase is vague.
+Politics	What are the main political parties in Germany?	0	Know the primary political parties in Germany.
+Politics	Which political groups exist?	1	Seek information on political groups broadly without specifying location.
+Politics	How does the election process work in Canada?	0	Understand the Canadian election procedure.
+Politics	What’s the voting system?	1	Ask about voting procedures generally without context.
+Politics	What policies are being proposed in Congress?	0	Find out about current legislative proposals in Congress.
+Politics	What bills are being discussed?	1	Seek information on legislative discussions, but vague.
+Politics	Who is the opposition leader?	0	Identify the leader of the opposition in a specific country.
+Politics	What about the other side?	1	Ask about opposition or alternative political views broadly.
+Protection	What are the best ways to protect personal data online?	0	Seek methods to secure personal online information.
+Protection	How can I stay safe?	1	Looking for ways to stay safe but not specifying what kind of safety.
+Protection	What measures protect against identity theft?	0	Find strategies to prevent identity theft.
+Protection	Can I prevent theft?	1	Seeking general crime prevention, unclear if about theft or other crime.
+Protection	What security tools help protect my home?	0	Identify tools to enhance home security.
+Protection	How do I keep my stuff safe?	1	Want general advice on safety, unclear if physical or digital.
+Protection	What are the best security systems for businesses?	0	Find security solutions for business protection.
+Protection	How can I secure my workplace?	1	Look for ways to enhance workplace security but vague.
+Protection	What protocols ensure safety in emergencies?	0	Understand safety protocols during emergencies.
+Protection	How do I stay protected during disasters?	1	Seeking safety tips during disasters but not specific about type.
+Reading	What are the best techniques for speed reading?	0	Find effective methods to improve reading speed.
+Reading	Can you tell me about reading?	1	Seeking general information about reading without specifics.
+Reading	How can I improve my comprehension while reading?	0	Look for ways to enhance understanding of texts.
+Reading	What's the deal with reading?	1	Want to know about reading but vague on what aspect.
+Reading	Are there recommended books for beginner readers?	0	Find suitable books for those new to reading.
+Reading	What books should I read?	1	Unclear whether seeking recommendations or criteria for choosing books.
+Reading	How do I stay focused when reading?	0	Want techniques to maintain concentration during reading.
+Reading	How do I concentrate?	1	Seeking tips for focus but not specifically on reading.
+Reading	What are some techniques to read faster?	0	Look for strategies to increase reading speed.
+Reading	How to read quickly?	1	Interested in methods to speed up reading without detail.
+Recycling	What are the main methods of recycling plastic?	0	Understand specific recycling techniques for plastic.
+Recycling	How can I recycle stuff?	1	Seeking general advice on recycling, but vague about materials.
+Recycling	What is the recycling process for electronics?	0	Know the steps involved in electronic recycling.
+Recycling	Can I recycle my electronic waste?	1	Interested in recycling electronic waste but not specific about procedures.
+Recycling	Where are recycling centers located in New York?	0	Find locations of recycling centers in New York.
+Recycling	How do I find places to recycle?	1	Looking for recycling centers but lack location details.
+Recycling	What recyclable materials can go in a green bin?	0	Determine which items are accepted in a green recycling bin.
+Recycling	What can I put in the recycling bin?	1	Seeking info on what to recycle without specifying materials.
+Recycling	Why is recycling important?	0	Understand the significance of recycling.
+Recycling	Does recycling matter?	1	Question the importance of recycling in a general sense.
+Relationships	What are healthy boundaries in a relationship?	0	Understand how to set healthy relationship boundaries.
+Relationships	How do I improve my relationship?	0	Seek ways to enhance relationship quality.
+Relationships	What are the red flags in a relationship?	0	Identify warning signs of problematic relationships.
+Relationships	What does a healthy relationship look like?	0	Learn characteristics of healthy partnerships.
+Relationships	How can I rebuild trust after betrayal?	0	Find methods to restore trust in a relationship.
+Relationships	Are all disagreements bad?	1	Question whether disagreements are always negative.
+Relationships	Can relationships work if there's no communication?	1	Wonder if lack of communication can still lead to a successful relationship.
+Relationships	What makes relationships last?	1	Seek reasons why some relationships endure.
+Relationships	How do people stay together forever?	1	Find out about long-lasting relationships but vague about how.
+Relationships	Do couples always agree on everything?	1	Question if couples need to agree on everything for success.
+Remote	Tell me how to operate a remote control.	0	Understanding how to use a remote control device.
+Remote	Can I use a remote for other devices?	1	Seeking information about using a remote with various devices, but the question is vague.
+Remote	What types of remote controls are available?	0	Know about different categories and functions of remote controls.
+Remote	Is there a universal remote?	1	Looking for a universal remote option, but not specific.
+Remote	How do I program a remote?	0	Instructions on programming a remote control device.
+Remote	Can I program my remote myself?	1	Interested in DIY remote programming, but the question is open-ended.
+Remote	What batteries does a remote need?	0	Inquire about battery requirements for a remote.
+Remote	What kind of batteries do remotes use?	1	Seeking info on batteries but without specific model details.
+Remote	Why is my remote not working?	0	Troubleshooting a non-functioning remote control.
+Remote	How can I fix my remote?	1	Looking for general repair tips for a remote, vague in scope.
+Repairs	How do I fix a leaking faucet?	0	Commands for repairing a leaking faucet.
+Repairs	Can you help me with plumbing issues?	1	Seeking assistance for plumbing repairs but vague on specifics.
+Repairs	What is the best way to repair a broken window?	0	Identify the most effective repair method for a broken window.
+Repairs	How can I fix my door?	1	Looking for door repair methods without details.
+Repairs	What tools are needed for appliance repairs?	0	Tools required for repairing household appliances.
+Repairs	Do I need special tools to fix my fridge?	1	Questions about tools for specific appliance repair, unspecified.
+Repairs	How do I patch a hole in the drywall?	0	Instructions for drywall hole repairs.
+Repairs	Can I repair wall damage myself?	1	Seeking general info on repairing wall damage without specifics.
+Repairs	What steps are involved in repairing a car engine?	0	Procedures for car engine repair.
+Repairs	How do I fix my vehicle?	1	General inquiry about fixing a car, vague on details.
+Safety	How can I stay safe while hiking?	0	Seek safety tips for hiking activities.
+Safety	What safety measures should I follow?	1	Looking for general safety measures without specifying context.
+Safety	What should I do if there's a fire?	0	Find steps to take in case of fire emergencies.
+Safety	How can I prevent accidents?	1	Seeking accident prevention tips but not specific to a context.
+Safety	What are common workplace safety practices?	0	Discover standard safety practices at workplaces.
+Safety	How do I stay safe at work?	1	Looking for general safety advice related to employment.
+Safety	What safety equipment is necessary?	0	Identify essential safety gear for specific activities.
+Safety	What should I use for protection?	1	Seeking information about protective equipment without context.
+Safety	How do I ensure my child's safety?	0	Obtain tips to keep children safe.
+Safety	What can I do to keep kids safe?	1	Searching for ways to protect children generally.
+Seasons	When do the summer months typically start in the northern hemisphere?	0	Understand the start dates of summer in the northern hemisphere.
+Seasons	When are the seasons changing?	1	Seeking information about seasonal changes but vague on specifics.
+Seasons	What causes the seasons to occur?	0	Find out the reasons behind seasons.
+Seasons	How do seasons happen?	1	Looking for a general explanation of seasonal occurrence.
+Seasons	Which months are considered winter in the southern hemisphere?	0	Identify the winter months in the southern hemisphere.
+Seasons	When does winter start?	1	Want to know the start date of winter but not specified which hemisphere.
+Seasons	How do seasons affect agriculture?	0	Get information on seasonal impacts on farming.
+Seasons	Are seasons important?	1	Seeking to understand the significance of seasons in general.
+Seasons	How do seasons change in different parts of the world?	0	Understand regional variations in seasonal patterns.
+Seasons	What happens when seasons change?	1	Looking for information about seasonal transitions, but vague.
+Sharing	How do I share a photo on social media?	0	Understand the process of sharing a photo online.
+Sharing	Can I share something?	1	Seeking to share content but unclear what or how.
+Sharing	What are the best ways to share files?	0	Find effective methods for sharing files.
+Sharing	How to share documents?	1	Looking for ways to share documents generally.
+Sharing	How do I share my location with a friend?	0	Understand steps to share location data.
+Sharing	Can people share things?	1	Questions about sharing in a vague context.
+Sharing	What does sharing mean?	0	Seeking the meaning or definition of sharing.
+Sharing	Why should I share?	1	Understanding reasons for sharing, but not specific.
+Sharing	How can I share my screen?	0	Know the steps to share screen during a call.
+Sharing	Share?	1	Ambiguous inquiry about sharing, purpose unknown.
+Shopping	What are the best deals on smartphones right now?	0	Find the current best deals on smartphones.
+Shopping	Can I get discounts on electronics?	1	Seeking information about discounts on electronics, but not specifically which items.
+Shopping	Where can I buy organic groceries in my area?	0	Locate nearby stores selling organic groceries.
+Shopping	Are there places that sell healthy food options?	1	Looking for stores with healthy food, but vague on location or type.
+Shopping	How do I return a faulty item I purchased online?	0	Instructions for returning an online purchase that is defective.
+Shopping	What is the online return policy?	1	General inquiry about return policies without specifying item or retailer.
+Shopping	Which stores offer free shipping on orders over $50?	0	Find stores with free shipping for orders exceeding $50.
+Shopping	Do shops give free delivery?	1	Asking about free delivery but not specifying which shop or what purchase.
+Shopping	What are popular gift ideas for birthdays?	0	Explore popular birthday gift options.
+Shopping	What gifts are trending now?	1	Interested in trending gifts, but not specific about occasion or type.
+Skills	How can I improve my communication skills?	0	Understand methods to enhance communication abilities.
+Skills	What about skills for working better?	1	Seeking information on skills to improve work performance but vague.
+Skills	What are some essential skills for project management?	0	Identify key skills needed for managing projects effectively.
+Skills	How do I get better at managing tasks?	1	Looking for ways to improve task management skills without specifics.
+Skills	What technical skills are needed for software development?	0	Find out the specific technical skills required for software development.
+Skills	Are there any skills necessary for tech jobs?	1	Seeking information about skills for tech jobs but not specified which skills.
+Skills	How can I develop leadership skills?	0	Understand how to build and enhance leadership abilities.
+Skills	What makes a good leader?	1	Seeking qualities or skills of a good leader in general.
+Skills	What skills do I need to become a graphic designer?	0	Identify specific skills necessary for graphic design.
+Skills	What should I learn to be a graphic designer?	1	Looking for general learning goals for becoming a graphic designer, but vague.
+Sleep	Tips for falling asleep faster.	0	Obtain strategies to fall asleep more quickly.
+Sleep	How can I sleep better?	1	Seeking general advice on improving sleep quality without specifics.
+Sleep	Best bedtime for adults.	0	Find optimal sleep timing for adults.
+Sleep	What time should I go to bed?	1	Looking for a specific bedtime recommendation but vague on age or schedule.
+Sleep	Effects of sleep deprivation.	0	Understand consequences of lack of sleep.
+Sleep	What happens if I don’t sleep?	1	Want to know effects of missing sleep in general.
+Sleep	How long should I sleep each night?	0	Seek recommended sleep duration.
+Sleep	Is it okay to sleep less sometimes?	1	Ask about flexibility in sleep patterns without detail.
+Sleep	Rem sleep importance.	0	Understand significance of REM sleep.
+Sleep	Sleep duration on a weeknight for adults	0	Determine recommended sleep duration for adults on weekdays.
+Social	How can I connect with my friends on social media?	0	Find ways to connect with friends online.
+Social	What are social platforms?	1	Seeking information about social media platforms in general.
+Social	How do I create a social media account?	0	Create a new social media account.
+Social	How do people make accounts?	1	Looking for how to make accounts but not specifying which platform.
+Social	What is social networking?	0	Understand the concept of social networking.
+Social	What does social mean?	1	Seeking a definition of social but vague.
+Social	How can I improve my social skills?	0	Get advice on enhancing social skills.
+Social	What helps with talking to people?	1	Looking for ways to improve social interactions but vague.
+Social	Are there social events nearby?	0	Find out about local social events.
+Social	Where can I find social gatherings?	1	Seeking social gatherings but not specifying location.
+Sports	Sports competitions in Europe.	0	Find information about sports events held in Europe.
+Sports	What are popular sports worldwide?	1	Seek information about popular sports on a global scale.
+Sports	Tennis Grand Slam winners 2022.	0	Discover the winners of tennis Grand Slam tournaments in 2022.
+Sports	Who won major tennis tournaments?	1	Want to know about recent tennis tournament winners but not specifically Grand Slams.
+Sports	Cleveland Cavaliers' recent games.	0	Access recent game results for the Cleveland Cavaliers.
+Sports	How have basketball teams performed lately?	1	Looking for recent basketball team performances without specifying teams.
+Sports	Best athletes in Olympic history.	0	Identify top Olympic athletes historically.
+Sports	Who's the greatest Olympic athlete?	1	Seek opinion on the greatest Olympic athlete but not exact criteria.
+Sports	Upcoming sports events this summer.	0	List upcoming sports competitions planned for this summer.
+Sports	Are there any big sports events soon?	1	Searching for upcoming sports events, but unspecified.
+Stress	What are effective techniques to manage stress?	0	Identify proven methods to reduce stress levels.
+Stress	Can stress be reduced?	1	Seeking general information about stress reduction, but unclear about specific techniques.
+Stress	What are common causes of stress?	0	Understand typical factors that lead to stress.
+Stress	Why do I feel stressed?	1	Looking for reasons behind feeling stressed but not specific.
+Stress	How does stress affect health?	0	Explore health impacts associated with stress.
+Stress	Does stress impact health?	1	Seek information on whether stress influences health, but vague.
+Stress	What are signs of stress overload?	0	Identify symptoms indicating excessive stress.
+Stress	How do I know if I am stressed?	1	Want to recognize signs of stress but lacks detail.
+Stress	What are ways to relax and reduce stress?	0	Find practical relaxation techniques for stress relief.
+Stress	How can I relax?	1	Search for relaxation methods in general, not necessarily stress-related.
+Sustainability	What are the main principles of sustainability?	0	Understanding core principles of sustainability.
+Sustainability	Can you tell me about sustainability?	1	Seeking general information about sustainability without specifics.
+Sustainability	How can companies improve sustainability practices?	0	Looking for ways companies implement sustainability.
+Sustainability	What do businesses do for sustainability?	1	Want to know what businesses do, vaguely related to sustainability.
+Sustainability	What are some successful sustainability projects?	0	Find examples of effective sustainability initiatives.
+Sustainability	Are there sustainability projects everywhere?	1	Questioning the prevalence of sustainability projects broadly.
+Sustainability	How can I contribute to sustainability?	0	Seeking personal actions to support sustainability.
+Sustainability	What can individuals do for the environment?	1	Looking for ways individuals can help with environmental issues.
+Sustainability	What impacts sustainability on society?	0	Understanding how sustainability affects social aspects.
+Sustainability	What are the key principles of sustainability?	0	Understand fundamental concepts of sustainability.
+Technology	What are the latest developments in artificial intelligence?	0	Stay informed about recent AI advancements.
+Technology	What's up with AI?	1	General curiosity about AI without specific focus.
+Technology	How can I implement machine learning in my business?	0	Find ways to apply machine learning practically.
+Technology	Can I use AI for my project?	1	Interested in AI use but lacks specific details.
+Technology	What are the benefits of 5G networks?	0	Understand advantages of 5G technology.
+Technology	Why is 5G important?	1	Seeking general reasons for 5G significance.
+Technology	How do quantum computers work?	0	Obtain technical explanation of quantum computing.
+Technology	What is quantum computing?	1	General inquiry about quantum computers.
+Technology	What are the best programming languages for web development?	0	Identify top programming languages for web.
+Technology	Which languages are good for making websites?	1	Seeking recommendations without specifics.
+Theater	What are the different types of theater?	0	Understand various genres and forms of theater.
+Theater	Can you tell me about theater?	1	Seeking general information about theater without specifics.
+Theater	When was the first recorded theater performance?	0	Find historical dates related to early theater.
+Theater	Who performed in the earliest theaters?	1	Looking for information about early theater performers without specifics.
+Theater	How do theater productions typically work?	0	Understand the process of staging theater productions.
+Theater	What's involved in putting on a play?	1	Seeking vague details about producing a play.
+Theater	Where are the main theater districts in New York City?	0	Locate key theater areas in NYC.
+Theater	Are theaters usually in specific parts of a city?	1	Question about theater locations, but not specific to NYC.
+Theater	Who are famous contemporary theater directors?	0	Identify notable current theater directors.
+Theater	How do theater directors work with actors?	1	Seek insight into the director-actor relationship but broadly.
+Time	What is the current time in Tokyo?	0	Determine the exact local time in Tokyo now.
+Time	Can you tell me the time?	1	Seek general information about the concept of time or asking for the current time vaguely.
+Time	How much time do I have left for my flight?	0	Find out specific remaining time before a scheduled event.
+Time	Is it late now?	1	Question about whether it’s late, but unclear if it’s about the current time or general delay.
+Time	What time is the meeting scheduled for?	0	Identify the specific time set for an appointment.
+Time	When is the upcoming event?	1	Ask about an event date, but not specific about timing.
+Time	How long does it take to get there?	0	Find out the duration to reach a particular destination.
+Time	Do you know how long it is?	1	"Seek information about duration, but not clear what ""it"" refers to."
+Time	What is the meaning of time?	0	Understand the philosophical or scientific definition of time.
+Time	Why is time important?	1	Ask broadly about the significance of time without specifics.
+Traditions	What are some common wedding traditions in Japan?	0	Details about traditional wedding customs in Japan.
+Traditions	Can you tell me about wedding traditions?	1	Seeking general information about wedding traditions, but not specific to Japan.
+Traditions	How are traditional festivals celebrated in India?	0	Information on festival celebrations in India.
+Traditions	What do Indian festivals involve?	1	General curiosity about Indian festivals, not specific.
+Traditions	What are traditional music styles in Africa?	0	Understanding traditional African music genres.
+Traditions	Explain traditional music in Africa?	1	Interest in African traditional music but lacks specifics.
+Traditions	What are some eating customs during Ramadan?	0	Details about Ramadan dining traditions.
+Traditions	How do people observe Ramadan?	1	Seeking information on Ramadan observance, but vague on specifics.
+Traditions	What cultural practices are essential in Chinese New Year?	0	Information about Chinese New Year customs.
+Traditions	What happens during Chinese New Year celebrations?	1	General question about Chinese New Year festivities, not detailed.
+Transportation	What are the main types of transportation available?	0	Identify primary transportation modes.
+Transportation	How can I get somewhere fast?	1	Seeking quick travel options but uncleardestination.
+Transportation	What are the best ways to travel across the country?	0	Find optimal cross-country transportation methods.
+Transportation	What's the best way to move around?	1	Looking for general movement options, vague about specifics.
+Transportation	How does public transportation work in urban areas?	0	Understand functioning of city public transit systems.
+Transportation	Can you tell me about transport systems?	1	Seeking information on transportation but vague about type.
+Transportation	How do I buy tickets for buses and trains?	0	Order or purchase transit tickets.
+Transportation	What should I do to travel easily?	1	Looking for general travel tips without specifics.
+Transportation	What are the latest innovations in transport?	0	Find advanced or new transportation technologies.
+Transportation	What's new in transport?	1	Seeking recent developments but not specified.
+Traveling	What are the top travel destinations in Europe?	0	Identify popular travel destinations in Europe.
+Traveling	Where should I go?	1	Seeking destination recommendations but without specifics.
+Traveling	How do I book a flight to Paris?	0	Find out how to book a flight to Paris.
+Traveling	Can I get tickets?	1	Asking about tickets but lacking details on destination or event.
+Traveling	What's the best time to visit Japan?	0	Determine the ideal visiting period for Japan.
+Traveling	When is the best time to go?	1	Looking for travel timing information without specifying location.
+Traveling	What is the baggage allowance for international flights?	0	Know baggage policies for international flights.
+Traveling	How much luggage can I take?	1	Ambiguous question about luggage limits without context.
+Traveling	What requirements do I need for traveling abroad?	0	Discover documents needed for international travel.
+Traveling	Do I need papers?	1	Asking about travel documentation in a vague way.
+Volunteering	What are the key skills needed for volunteering?	0	Identify essential skills for volunteering roles.
+Volunteering	How can I volunteer my time?	0	Find ways to offer your time for volunteering.
+Volunteering	What opportunities are available for volunteering locally?	0	Discover nearby volunteering options.
+Volunteering	I want to help out, how do I start?	1	Seeking general advice on volunteering without specifics.
+Volunteering	Can I volunteer without experience?	1	Looking for information on volunteering with no prior experience.
+Volunteering	What kind of volunteering can I do online?	0	Explore remote volunteering opportunities.
+Volunteering	Are there virtual volunteering options?	1	Interested in volunteering from home but not specific.
+Volunteering	What organizations need volunteers?	0	Find organizations currently seeking volunteers.
+Volunteering	Where can I find volunteer jobs?	0	Locate platforms or sites listing volunteer opportunities.
+Volunteering	How do I get involved in volunteering activities?	1	Want to participate but seeking general guidance.
+Walking	What is the proper way to walk for exercise?	0	Find correct walking techniques for fitness.
+Walking	How do I walk?	1	Seeking general advice on walking but no specifics.
+Walking	What shoes are best for walking long distances?	0	Identify suitable footwear for extended walks.
+Walking	What footwear should I wear?	1	Somewhat vague, asking about footwear for walking.
+Walking	How many steps should I walk daily?	0	Determine recommended daily step count.
+Walking	How much walking is enough?	1	Ambiguous about sufficient walking levels.
+Walking	What are the health benefits of walking?	0	Understand health advantages of walking.
+Walking	Why should I walk regularly?	1	Seeking reasons to walk but not specific health benefits.
+Walking	Where can I walk nearby?	0	Find local walking routes or places.
+Walking	What is the proper technique for walking briskly?	0	Understand the correct way to walk quickly and efficiently.
+Weather	What is the current temperature in New York City?	0	Obtain the current temperature for New York City.
+Weather	How's the weather today?	1	Ask about the weather, but the location or time is unspecified.
+Weather	Will it rain tomorrow in Los Angeles?	0	Get specific forecast for rain in Los Angeles tomorrow.
+Weather	Weather forecast for tomorrow?	1	Seeking weather forecast without specifying location.
+Weather	What are this week's weather alerts?	0	Find out about weather alerts issued this week.
+Weather	Is there a weather warning?	1	Asking about weather warnings without details.
+Weather	How hot will it be this afternoon?	0	Know the temperature forecast for this afternoon.
+Weather	Will it be hot today?	1	Question about temperature today but without location or time specifics.
+Weather	What is the humidity level right now?	0	Obtain current humidity information.
+Weather	How humid is it?	1	Applying to humidity but lacks specific context.
+Work	How can I improve my productivity at work?	0	Strategies to enhance productivity in the workplace.
+Work	What is work?	1	General query about the concept of work without specifics.
+Work	What are the common symptoms of work-related stress?	0	Identify signs of stress caused by work.
+Work	How do I handle stress?	1	Seeking ways to manage stress but not limited to work context.
+Work	What skills are needed for a managerial role?	0	List of essential skills for management positions.
+Work	What about leadership stuff?	1	Looking for information on leadership but vague.
+Work	How do I prepare for a job interview?	0	Application tips for interview readiness.
+Work	What should I wear to an interview?	1	Questions about appropriate attire without mentioning job specifics.
+Work	What are employee rights?	0	Details about workplace rights and protections.
+Work	What are the core skills required for a software developer?	0	Identify essential skills for software development professionals.
+Workspace	How do I organize my workspace for productivity?	0	Get tips on organizing a workspace effectively.
+Workspace	What's the best way to arrange things?	1	Looking for general arrangement ideas without specifics.
+Workspace	What tools are essential for an ergonomic workspace?	0	Identify necessary tools for an ergonomic setup.
+Workspace	What do I need to set up my workspace?	1	Seeking information about setup essentials but vague.
+Workspace	How can I reduce clutter in my workspace?	0	Find ways to declutter a workspace efficiently.
+Workspace	How do I make my workspace less messy?	1	Looking for general clutter-reduction tips without detailed focus.
+Workspace	What are some ergonomic furniture options?	0	Explore ergonomic furniture options for a workspace.
+Workspace	What sort of furniture should I get?	1	Seeking furniture recommendations without specifying ergonomic needs.
+Workspace	How do I improve lighting in my workspace?	0	Learn methods to enhance workspace lighting.
+Workspace	How can I make my workspace brighter?	1	Searching for ways to increase brightness without specific guidance.
+Writing	How can I improve my essay writing skills?	0	Seeking ways to enhance essay writing abilities.
+Writing	What does writing mean?	1	Asking about the definition of writing in general.
+Writing	What are the best methods for creative writing?	0	Looking for effective techniques for creative writing.
+Writing	How do I write better stories?	1	Want tips on improving story writing, but vague.
+Writing	What is academic writing?	0	Seeking to understand the concept of academic writing.
+Writing	How do I write papers?	1	Asking about the process of writing papers without specifics.
+Writing	What are the rules for proper writing?	0	Looking for grammatical or structural rules for writing.
+Writing	What makes writing good?	1	Seeking qualities of good writing, unclear on context.
+Writing	How do I start writing poetry?	0	Want guidance on beginning to write poetry.
+Writing	Where do I find inspiration for writing?	1	Seeking sources of inspiration for writing, but vague.

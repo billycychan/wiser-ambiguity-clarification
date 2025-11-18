@@ -1,4 +1,4 @@
-from topics import topics
+from .topics import topics
 
 USER_PROMPT_TEMPLATE = """
 INSTRUCTIONS – FOLLOW EACH STEP PRECISELY:
