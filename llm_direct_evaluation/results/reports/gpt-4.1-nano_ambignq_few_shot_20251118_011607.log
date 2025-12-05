@@ -1,0 +1,21 @@
+Model: gpt-4.1-nano
+Dataset: Ambignq
+Timestamp: 20251118_011607
+Prompt Type: few_shot
+Parameters: max_new_tokens=5, temperature=0.0, do_sample=False, batch_size=32, seed=0
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.4210    0.8663    0.5666       830
+    Ambiguous     0.6224    0.1561    0.2497      1172
+
+     accuracy                         0.4505      2002
+    macro avg     0.5217    0.5112    0.4081      2002
+ weighted avg     0.5389    0.4505    0.3811      2002
+
+
+Accuracy: 0.4505
+
+Inference Time Stats:
+(Timing stats not available)

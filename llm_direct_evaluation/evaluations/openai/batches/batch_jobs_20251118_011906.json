@@ -1,0 +1,74 @@
+[
+  {
+    "file_name": "gpt-4.1-nano_ambignq_zero_shot_20251118_011607.jsonl",
+    "file_id": "file-Crxu3HHEDdge3zfjVW2xA8",
+    "batch_id": "batch_691c0fb95d0c8190af86514b8b7bf399",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-nano_ambignq_few_shot_20251118_011607.jsonl",
+    "file_id": "file-RCzhoAomzHWJz4S6WUpUpW",
+    "batch_id": "batch_691c0fbe4a288190aa653e8edfd8b652",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-nano_clariq_zero_shot_20251118_011607.jsonl",
+    "file_id": "file-9jLU35FTphppvUKt1SmzSf",
+    "batch_id": "batch_691c0fc06f6881909ec05a3a97cf2581",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-nano_clariq_few_shot_20251118_011607.jsonl",
+    "file_id": "file-C73CymmxnwuKD9DJgMJ96f",
+    "batch_id": "batch_691c0fc284a48190a85c3a239dd47130",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-mini_ambignq_zero_shot_20251118_011607.jsonl",
+    "file_id": "file-Ff1hCaevDFbrQi5PQ5r7pa",
+    "batch_id": "batch_691c0fc542608190806892c3b7fa0fac",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-mini_ambignq_few_shot_20251118_011607.jsonl",
+    "file_id": "file-NZQzr4wHga44R4qVhiUiWH",
+    "batch_id": "batch_691c0fca32a08190a4f80c02baa32c39",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-mini_clariq_zero_shot_20251118_011607.jsonl",
+    "file_id": "file-5x5o9PJppevdSorpmxaUXL",
+    "batch_id": "batch_691c0fcbeb30819094890ee16300d95e",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1-mini_clariq_few_shot_20251118_011607.jsonl",
+    "file_id": "file-3eeNPnpg7KjNYnHw9LHe9y",
+    "batch_id": "batch_691c0fcdf87c819080ca6a7e2b7d51f4",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1_ambignq_zero_shot_20251118_011607.jsonl",
+    "file_id": "file-A4dzi7G5yn2b9cKsfXF4jf",
+    "batch_id": "batch_691c0fd0d3948190acb68ecc2e505daa",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1_ambignq_few_shot_20251118_011607.jsonl",
+    "file_id": "file-4qzs67HHpvwudZ5r7oYkLd",
+    "batch_id": "batch_691c0fd4a86c81908881e5bf444b05af",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1_clariq_zero_shot_20251118_011607.jsonl",
+    "file_id": "file-KcgvcqtCH8kfw6zaAMj5HJ",
+    "batch_id": "batch_691c0fd73ba081909d1e1d4d4d719d8e",
+    "status": "validating"
+  },
+  {
+    "file_name": "gpt-4.1_clariq_few_shot_20251118_011607.jsonl",
+    "file_id": "file-JofbNvWdbGZR7fXLnbVAdU",
+    "batch_id": "batch_691c0fd941cc8190ada10839aad8274e",
+    "status": "validating"
+  }
+]

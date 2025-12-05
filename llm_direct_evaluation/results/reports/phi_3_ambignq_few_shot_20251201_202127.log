@@ -1,0 +1,28 @@
+Model: Phi-3
+Dataset: ambignq
+Timestamp: 20251201_202127
+Prompt Type: few_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=128, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.4384    0.1759    0.2511       830
+    Ambiguous     0.5902    0.8404    0.6934      1172
+
+     accuracy                         0.5649      2002
+    macro avg     0.5143    0.5082    0.4722      2002
+ weighted avg     0.5273    0.5649    0.5100      2002
+
+
+Accuracy: 0.5649
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.5273
+Weighted Recall:    0.5649
+Weighted F1-Score:  0.5100
+
+Inference Time Stats:
+Min: 0.0014s
+Max: 0.0018s
+Mean: 0.0016s

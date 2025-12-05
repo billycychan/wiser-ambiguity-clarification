@@ -1,0 +1,1001 @@
+topic	initial_request	binary_label	user_information_need
+Activism	What are the key organizations involved in environmental activism?	0.0	Identify environmental activist groups.
+Activism	What is the history of the women's suffrage movement?	0.0	Learn about the historical background of a specific activism movement.
+Activism	Where can I find information about protesting peacefully?	0.0	Find resources on non-violent protest methods.
+Activism	What are the legal consequences of civil disobedience?	0.0	Understand the legal ramifications of a specific activist tactic.
+Activism	What is the role of social media in modern activism?	0.0	Explore the impact of social media on activist movements.
+Activism	How can I get involved in activism?	1.0	General inquiry about participating in activism.
+Activism	What about women's rights history?	1.0	Vague inquiry about women's rights history, potentially including activism.
+Activism	How do people make change?	1.0	Broad question about social change, potentially through activism.
+Activism	What happens if you get arrested protesting?	1.0	Inquiry about arrest during protests, lacking specifics.
+Activism	How do activists use the internet?	1.0	Broad question about internet use by activists, lacking focus.
+Aging	What are the common physical changes associated with aging?	0.0	Understand physiological changes during aging.
+Aging	What is the average lifespan in Japan?	0.0	Find statistical data on lifespan in a specific country.
+Aging	What are effective strategies for preventing age-related cognitive decline?	0.0	Learn about preventing cognitive decline.
+Aging	What are the financial implications of retiring at age 65?	0.0	Understand financial planning for retirement.
+Aging	What are the signs of elder abuse and how to report it?	0.0	Learn about identifying and reporting elder abuse.
+Aging	What happens as you get older?	1.0	General inquiry about aging with unclear focus.
+Aging	How long do people live?	1.0	Broad question about lifespan, lacking specificity.
+Aging	How can I keep my brain young?	1.0	Vague inquiry about maintaining cognitive function.
+Aging	What about retirement?	1.0	Broad question about retirement, lacking specifics.
+Aging	How can I help older people?	1.0	General inquiry about assisting older adults, unclear focus.
+Allergies	What are the symptoms of a peanut allergy?	0.0	Identify allergy symptoms
+Allergies	How is a dust mite allergy diagnosed?	0.0	Understand allergy diagnosis methods
+Allergies	What are the best antihistamines for seasonal allergies?	0.0	Find medication for allergy relief
+Allergies	Can allergies cause a rash?	0.0	Understand allergy symptoms - skin reactions
+Allergies	What is the difference between a food intolerance and a food allergy?	0.0	Understand the distinction between allergy and intolerance
+Allergies	Do I have allergies?	1.0	General inquiry about allergies, unclear what is prompting the question
+Allergies	What’s wrong with me?	1.0	Vague health concern, could be allergies or something else
+Allergies	I feel unwell sometimes	1.0	Unclear health issue, potentially allergies
+Allergies	What happens when you’re allergic?	1.0	Broad question about allergies, lacking specific focus
+Allergies	I have a reaction to food	1.0	Vague statement about food reaction, unclear if it's allergy or intolerance
+Appointments	Schedule an appointment with Dr. Smith for next Tuesday at 2 PM	0.0	Schedule a specific appointment.
+Appointments	What is Dr. Lee’s earliest availability this week?	0.0	Find available appointment times with a specific doctor.
+Appointments	Reschedule my appointment for Friday morning	0.0	Modify an existing appointment.
+Appointments	Cancel my appointment with the dentist	0.0	Terminate a scheduled appointment.
+Appointments	What appointments do I have next week?	0.0	Retrieve a list of upcoming appointments.
+Appointments	Book a doctor's visit	1.0	Requesting an appointment, details unspecified.
+Appointments	Can I see a doctor sometime?	1.0	Vague request for a doctor's appointment.
+Appointments	I need to change something with my appointment	1.0	Request to alter an appointment, details missing.
+Appointments	I have to cancel something	1.0	Vague request to cancel something, potentially an appointment.
+Appointments	Do I have anything scheduled?	1.0	Inquire about scheduled events, unspecified type.
+Art	What is the historical context of the Renaissance period?	0.0	Understand the background of Renaissance art.
+Art	Where can I find Impressionist paintings online?	0.0	Locate online resources for Impressionist art.
+Art	How do I restore a damaged oil painting?	0.0	Learn the process of oil painting restoration.
+Art	What are the key characteristics of Cubism?	0.0	Understand the defining features of Cubism.
+Art	"Who is the artist behind ""The Starry Night""?"	0.0	Identify the creator of a specific artwork.
+Art	Tell me about art.	1.0	General inquiry about art with no specific focus.
+Art	Show me some art.	1.0	Vague request to view art, lacking specifics.
+Art	Can you fix my painting?	1.0	Seeking help with art restoration, unclear if it's a request for service or information.
+Art	What is art about?	1.0	Broad philosophical question about the purpose of art.
+Art	What's a famous painting?	1.0	Seeking information about famous paintings, but lacks specificity.
+Banking	What is the current interest rate for a savings account?	0.0	Check current savings account interest rates.
+Banking	How do I open a checking account online?	0.0	Learn the process of opening a checking account online.
+Banking	What are the fees associated with using an ATM?	0.0	Understand ATM fee structure.
+Banking	How can I report a lost or stolen credit card?	0.0	Learn the procedure for reporting a lost/stolen card.
+Banking	What are the requirements for a small business loan?	0.0	Understand loan requirements for small businesses.
+Banking	What about banking rates?	1.0	General inquiry about banking rates, unclear what type.
+Banking	Can I open an account?	1.0	Vague inquiry about account opening, lacking specifics.
+Banking	What do I pay to use an ATM?	1.0	Inquiry about ATM fees, imprecise.
+Banking	My card is missing, what now?	1.0	Reporting a card issue, but lacking detail.
+Banking	Can businesses get loans?	1.0	Inquiry about business loans, lacking specifics.
+Budgeting	How can I create a monthly budget?	0.0	Learn the steps for creating a monthly budget.
+Budgeting	What is the 50/30/20 budgeting rule?	0.0	Understand a specific budgeting method.
+Budgeting	What are the best budgeting apps for beginners?	0.0	Find suitable budgeting applications for new users.
+Budgeting	How can I budget for irregular income?	0.0	Learn budgeting strategies for fluctuating income.
+Budgeting	What is zero-based budgeting?	0.0	Understand the concept of zero-based budgeting.
+Budgeting	I need to manage my money better	1.0	General desire for financial improvement, unclear specifics.
+Budgeting	How do I spend less?	1.0	Vague request for spending reduction strategies.
+Budgeting	What apps can help with finances?	1.0	Seeking financial apps, but the specific need is unclear.
+Budgeting	How do I deal with money when it's not consistent?	1.0	Seeking advice for inconsistent income, lacking specifics.
+Budgeting	What's a good way to budget?	1.0	General request for budgeting advice, lacking specifics.
+Bureaucracy	What are the key characteristics of a bureaucratic system?	0.0	Understand the defining features of bureaucracy.
+Bureaucracy	How does bureaucracy impact economic growth in developing nations?	0.0	Investigate the relationship between bureaucracy and economic development.
+Bureaucracy	What are the common criticisms of bureaucratic processes?	0.0	Learn about the disadvantages and drawbacks of bureaucracy.
+Bureaucracy	What is the history of bureaucracy and its origins?	0.0	Understand the historical development of bureaucratic systems.
+Bureaucracy	What are examples of bureaucratic red tape in healthcare?	0.0	Identify specific instances of bureaucratic inefficiency in healthcare.
+Bureaucracy	Tell me about bureaucracy.	1.0	General inquiry about bureaucracy with unclear intent.
+Bureaucracy	How does government work?	1.0	Broad question about government, potentially related to bureaucracy.
+Bureaucracy	Is bureaucracy good or bad?	1.0	Seeking a value judgement about bureaucracy, lacking specific focus.
+Bureaucracy	How did things get so complicated?	1.0	Vague question about complexity, potentially referencing bureaucracy.
+Bureaucracy	Why is everything so slow?	1.0	Expressing frustration with slow processes, potentially related to bureaucracy.
+Celebrations	When is the next national holiday in the US?	0.0	Identify upcoming US national holidays.
+Celebrations	What are traditional foods for a Chinese New Year celebration?	0.0	Learn about food traditions for Chinese New Year.
+Celebrations	How do people celebrate birthdays in Japan?	0.0	Understand birthday celebrations in Japan.
+Celebrations	Where can I find party decorations for a graduation?	0.0	Locate party supplies for a graduation celebration.
+Celebrations	What is the history of Thanksgiving celebrations?	0.0	Learn about the historical origins of Thanksgiving.
+Celebrations	What's a good day to celebrate?	1.0	Seeking celebration ideas, intent unclear.
+Celebrations	What do people eat for holidays?	1.0	Vague query about holiday food, lacking specificity.
+Celebrations	How do cultures celebrate?	1.0	Broad question about celebrations, lacking cultural context.
+Celebrations	Where can I get party stuff?	1.0	Vague query about party supplies, lacking event context.
+Celebrations	What's the story behind holidays?	1.0	Seeking information about holiday origins, but unspecified which holiday.
+Civics	What is the process of amending the US Constitution?	0.0	Understand constitutional amendment process.
+Civics	Who is my state representative in the House of Representatives?	0.0	Identify local representative.
+Civics	What are the requirements to become a US citizen?	0.0	Understand naturalization requirements.
+Civics	What is the role of the Supreme Court?	0.0	Understand the function of the Supreme Court.
+Civics	What are the main responsibilities of the President?	0.0	Understand presidential duties.
+Civics	How does the government work?	1.0	General inquiry about government function.
+Civics	Who represents me?	1.0	Seeking representation information, level unspecified.
+Civics	How do I become a citizen?	1.0	Inquiry about citizenship, lacking specifics.
+Civics	What does the judicial branch do?	1.0	Seeking information about a branch of government, vague.
+Civics	What does the President do?	1.0	General question about the President's role.
+Cleaning	How do I clean stainless steel appliances?	0.0	Specific cleaning instructions for stainless steel.
+Cleaning	What's the best way to remove mildew from a shower?	0.0	Specific cleaning problem and desired solution.
+Cleaning	What are the most effective natural cleaning products?	0.0	Seeking information about natural cleaning options.
+Cleaning	How often should I deep clean my kitchen?	0.0	Seeking frequency recommendation for a specific cleaning task.
+Cleaning	What is the best way to clean hardwood floors?	0.0	Specific cleaning instructions for hardwood floors.
+Cleaning	How do I clean?	1.0	Vague request for cleaning information.
+Cleaning	How do I get rid of mold?	1.0	General request about mold removal, lacking specifics.
+Cleaning	What can I use to clean?	1.0	Unclear what needs cleaning and with what.
+Cleaning	How often should I clean?	1.0	Vague request about cleaning frequency.
+Cleaning	How do you clean floors?	1.0	General request about floor cleaning, lacking material specifics.
+Clinic	Find a dermatologist in New York City specializing in acne.	0.0	Find a specific type of doctor in a location.
+Clinic	What are the operating hours for the cardiology clinic on Monday?	0.0	Determine the hours of operation for a specific clinic.
+Clinic	How much does a general check-up cost at your clinic?	0.0	Determine the cost of a specific service.
+Clinic	Does the clinic accept Blue Cross Blue Shield insurance?	0.0	Verify insurance acceptance.
+Clinic	I need to schedule an appointment with a pediatrician for my child.	0.0	Schedule an appointment with a specific type of doctor.
+Clinic	Is there a clinic near me?	1.0	Find a healthcare facility, location unspecified.
+Clinic	When are you open?	1.0	Inquire about operating hours, clinic unspecified.
+Clinic	How much will this cost?	1.0	Inquire about costs, service unspecified.
+Clinic	Do you take insurance?	1.0	Inquire about insurance acceptance, type unspecified.
+Clinic	Can I book an appointment?	1.0	Request an appointment, details unspecified.
+Clothing	Where can I buy affordable winter coats for women?	0.0	Product search - specific item, price constraint
+Clothing	What materials are best for summer dresses?	0.0	Material information for a specific clothing item
+Clothing	What is the return policy at Zara?	0.0	Policy inquiry for a specific retailer
+Clothing	How do I wash a silk scarf?	0.0	Care instructions for a specific clothing item
+Clothing	Show me black high-heeled boots under $100	0.0	Product search - specific item, color, price constraint
+Clothing	What clothes should I get?	1.0	General clothing advice, lacks specifics
+Clothing	What should I wear?	1.0	Vague request for clothing advice
+Clothing	What about returns?	1.0	General question about returns, no retailer specified
+Clothing	How do I do laundry?	1.0	General laundry question, not specific to clothing
+Clothing	I need some shoes	1.0	Vague request for footwear
+Communication	How can I improve my public speaking skills?	0.0	Skill development
+Communication	What are the key elements of effective nonverbal communication?	0.0	Understand nonverbal communication components
+Communication	What is the best way to communicate with a difficult coworker?	0.0	Seeking advice on workplace communication
+Communication	Explain the difference between active and passive listening.	0.0	Understand listening techniques
+Communication	What are some strategies for clear and concise writing?	0.0	Improve writing skills
+Communication	Can you tell me about communication?	1.0	General information about communication
+Communication	How do people communicate?	1.0	Vague inquiry about communication methods
+Communication	How do I talk to people?	1.0	General question about interpersonal communication
+Communication	What about talking to others?	1.0	Vague inquiry about interpersonal interaction
+Communication	How can I get my point across?	1.0	Seeking help with communication effectiveness, unclear context
+Commuting	What is the fastest route from Grand Central to Times Square during rush hour?	0.0	Route planning
+Commuting	What are the parking rates at Penn Station?	0.0	Parking information
+Commuting	Are there any subway delays on the 7 line this morning?	0.0	Real-time transit updates
+Commuting	What is the average commute time from Brooklyn to Manhattan?	0.0	Commute time estimation
+Commuting	What are the bike lanes near Central Park?	0.0	Cycling infrastructure
+Commuting	How do I get to work?	1.0	General commuting assistance
+Commuting	How much does it cost to get around?	1.0	Cost of commuting
+Commuting	Is the train running on time?	1.0	General transit status
+Commuting	How long does it take to get to the city?	1.0	Vague commute time inquiry
+Commuting	How can I get around?	1.0	General transportation options
+Composting	How long does it take to compost kitchen scraps?	0.0	Timeframe for kitchen scrap decomposition.
+Composting	What are the best composting bins for small spaces?	0.0	Product recommendations for limited space.
+Composting	How do I maintain a proper carbon to nitrogen ratio in my compost?	0.0	Understanding compost ratios for optimal decomposition.
+Composting	What are the benefits of composting for my garden?	0.0	Learn about the advantages of composting for gardening.
+Composting	How do I troubleshoot a compost pile that smells bad?	0.0	Problem-solving for common composting issues.
+Composting	What is composting?	1.0	Basic understanding of composting.
+Composting	Can I compost anything?	1.0	Broad question about compostable materials.
+Composting	What goes in compost?	1.0	Seeking information about compostable materials, but lacks specificity.
+Composting	Is composting good?	1.0	Seeking a general opinion about composting.
+Composting	My compost isn't working	1.0	Vague problem statement about compost failure.
+Conservation	What are the most effective methods for protecting endangered species?	0.0	Learn about species protection strategies.
+Conservation	What is the impact of deforestation on biodiversity?	0.0	Understand the link between deforestation and biodiversity loss.
+Conservation	Where can I find volunteer opportunities for wildlife conservation?	0.0	Find local conservation volunteering options.
+Conservation	How does sustainable fishing contribute to marine conservation?	0.0	Understand the role of sustainable fishing in conservation.
+Conservation	What are the key threats to coral reef ecosystems?	0.0	Identify dangers to coral reefs.
+Conservation	How can I help with conservation?	1.0	General interest in contributing to conservation efforts.
+Conservation	What's happening to the forests?	1.0	Vague inquiry about forests, could relate to many topics.
+Conservation	Is there anything I can do to help animals?	1.0	Broad question about animal welfare, not specifically conservation.
+Conservation	What about saving the oceans?	1.0	General inquiry about ocean protection, lacks specifics.
+Conservation	What's going on with the environment?	1.0	Very broad question about the environment, unclear intent.
+Cooking	How to bake a chocolate cake?	0.0	Recipe for chocolate cake
+Cooking	What is the best way to cook salmon?	0.0	Optimal salmon cooking method
+Cooking	How long do I roast a chicken at 375°F?	0.0	Roasting time for chicken
+Cooking	What are the health benefits of cooking with olive oil?	0.0	Health benefits of olive oil in cooking
+Cooking	How do I make homemade pasta?	0.0	Instructions for making pasta
+Cooking	What's for dinner?	1.0	Seeking meal ideas
+Cooking	Can you give me a recipe?	1.0	Vague request for a recipe
+Cooking	What should I make?	1.0	Seeking cooking ideas, unspecified
+Cooking	Is cooking good for you?	1.0	General question about the benefits of cooking
+Cooking	What's a good recipe?	1.0	Vague request for a recipe
+Creativity	How can I improve my brainstorming skills?	0.0	Skill development
+Creativity	What are some techniques for overcoming creative block?	0.0	Problem solving
+Creativity	What is the relationship between creativity and innovation?	0.0	Conceptual understanding
+Creativity	How does mindfulness enhance creative thinking?	0.0	Exploring cognitive benefits
+Creativity	What are the stages of the creative process?	0.0	Understanding process
+Creativity	Tell me about creativity.	1.0	General information seeking
+Creativity	I feel uninspired.	1.0	Expressing a lack of creativity
+Creativity	What's a good idea?	1.0	Vague request for creative input
+Creativity	Can you be more creative?	1.0	Unclear question about creativity
+Creativity	I need something new.	1.0	Vague desire for novelty
+Credit	What is a good credit score range?	0.0	Understand credit score ranges.
+Credit	How can I build credit with no credit history?	0.0	Learn how to establish credit.
+Credit	What are the factors that affect my credit score?	0.0	Understand credit score determinants.
+Credit	How do I dispute an error on my credit report?	0.0	Learn about disputing credit report errors.
+Credit	What is the average credit card interest rate?	0.0	Find out average credit card interest rates.
+Credit	Tell me about credit.	1.0	General inquiry about credit, intent unclear.
+Credit	How do I get credit?	1.0	Vague request about obtaining credit.
+Credit	What impacts my credit?	1.0	Broad question about credit impact.
+Credit	I think my credit is wrong.	1.0	Unclear issue with credit, needs clarification.
+Credit	What are interest rates like?	1.0	Vague question about interest rates.
+Culture	What are the traditional foods of Japan?	0.0	Learn about Japanese cuisine.
+Culture	What is the significance of Día de Muertos in Mexican culture?	0.0	Understand the meaning of a specific cultural celebration.
+Culture	How has K-Pop influenced global fashion trends?	0.0	Investigate the impact of K-Pop on fashion.
+Culture	"Can you explain the concept of ""Ubuntu"" in African cultures?"	0.0	Understand a specific African philosophical concept.
+Culture	What are the major art forms associated with Renaissance Italy?	0.0	Learn about artistic expressions during the Renaissance.
+Culture	Tell me about culture.	1.0	General inquiry about culture with no specific focus.
+Culture	What do cultures do?	1.0	Vague question about cultural practices.
+Culture	What's popular right now?	1.0	Seeking current trends, potentially including cultural ones, but unclear.
+Culture	What are some beliefs people have?	1.0	Broad question about beliefs, not specific to culture.
+Culture	What did people do in the past?	1.0	Vague inquiry about past human activities, potentially cultural.
+Cycling	What is the best road bike for climbing hills?	0.0	Product recommendation for a specific cycling purpose.
+Cycling	How do I fix a flat tire on a bicycle?	0.0	Instructional information for bike maintenance.
+Cycling	What are the health benefits of cycling regularly?	0.0	Information about the positive effects of cycling on health.
+Cycling	Where are the best cycling routes in Amsterdam?	0.0	Location-based information about cycling routes.
+Cycling	What is the proper gear for a long-distance cycling tour?	0.0	Information about equipment needed for a specific cycling activity.
+Cycling	I need a bike.	1.0	Vague request related to cycling, unclear what kind of bike.
+Cycling	My bike is broken.	1.0	Unclear problem with a bicycle, needs further clarification.
+Cycling	Is cycling good for you?	1.0	General question about the benefits of cycling, lacks specificity.
+Cycling	Where can I ride a bike?	1.0	Vague request for cycling locations, no specific place mentioned.
+Cycling	What do I need for a bike ride?	1.0	Unclear what kind of bike ride, lacking details about the need.
+DIY	How to build a simple birdhouse with scrap wood?	0.0	Instructional - building a specific project
+DIY	What's the best way to refinish a wood table?	0.0	Seeking advice on a specific DIY task
+DIY	Step-by-step instructions for making homemade soap	0.0	Detailed guide for a specific DIY project
+DIY	How to install a ceiling fan safely?	0.0	Safety-focused instructional query
+DIY	DIY projects to upcycle old clothes	0.0	Project ideas focused on upcycling
+DIY	Can I make something?	1.0	General inquiry about DIY possibilities
+DIY	How do I fix things?	1.0	Vague request for repair guidance
+DIY	What can I craft today?	1.0	Broad question about crafting options
+DIY	What projects are easy?	1.0	Seeking simple DIY projects, lacks specificity
+DIY	What can I do with old stuff?	1.0	Vague question about repurposing items
+Decluttering	What are the best storage solutions for a small bedroom?	0.0	Find storage ideas for limited bedroom space.
+Decluttering	What is the KonMari method for decluttering?	0.0	Learn about a specific decluttering technique.
+Decluttering	How often should I declutter my closet?	0.0	Determine a frequency for closet decluttering.
+Decluttering	What items should I donate when decluttering?	0.0	Identify appropriate donation items during decluttering.
+Decluttering	What are the steps for decluttering a home office?	0.0	Learn a process for decluttering a specific space.
+Decluttering	How can I organize my stuff?	1.0	General request for organization help, lacking specifics.
+Decluttering	Can you help me get organized?	1.0	Vague request for assistance with organization.
+Decluttering	When should I clean out my things?	1.0	Seeking guidance on timing for decluttering, imprecise.
+Decluttering	What should I get rid of?	1.0	Broad question about items to discard, lacking context.
+Decluttering	How do I make my house tidier?	1.0	General request for tidiness, lacking specific decluttering intent.
+Devices	How do I reset my iPhone 13?	0.0	Troubleshooting a specific device.
+Devices	What are the best noise-cancelling headphones under $200?	0.0	Product recommendation within a price range.
+Devices	Where can I find the user manual for a Samsung TV?	0.0	Locating documentation for a specific device.
+Devices	Compare the features of the latest Apple Watch Series 9 and Garmin Venu 3	0.0	Comparative analysis of two devices.
+Devices	How to connect a Bluetooth speaker to my laptop?	0.0	Instructions for device connectivity.
+Devices	My phone is acting weird	1.0	General device issue, unclear what the problem is.
+Devices	What headphones should I buy?	1.0	Seeking headphone recommendations, no specifics.
+Devices	Where's the manual?	1.0	Seeking documentation, device unspecified.
+Devices	Which watch is better?	1.0	Seeking a device comparison, lacking specific models.
+Devices	Can I connect something to my computer?	1.0	Vague request about device connectivity.
+Diet	What is a balanced diet for a 30-year-old woman?	0.0	Nutritional guidance for a specific demographic.
+Diet	How many calories should I consume to lose weight?	0.0	Calorie intake for weight loss.
+Diet	What foods are high in protein and low in carbohydrates?	0.0	Specific nutrient profile of foods.
+Diet	Can a ketogenic diet help with type 2 diabetes?	0.0	Diet's impact on a specific medical condition.
+Diet	What is the daily recommended intake of fiber?	0.0	Specific nutrient intake recommendation.
+Diet	What should I eat?	1.0	General dietary advice, lacking specifics.
+Diet	How do I eat better?	1.0	Vague request for dietary improvement.
+Diet	What foods are good for me?	1.0	General health-related food inquiry.
+Diet	Is dieting good?	1.0	General question about the effectiveness of dieting.
+Diet	What do I need to eat?	1.0	Broad question about dietary needs, lacking context.
+Documentation	How do I install Python on Windows?	0.0	Installation instructions for Python on Windows.
+Documentation	Explain the 'for' loop in Python with examples.	0.0	Understanding the functionality of 'for' loops in Python.
+Documentation	Where can I find the API documentation for the requests library?	0.0	Locating API documentation for a specific library.
+Documentation	How do I troubleshoot error code 500 in Apache?	0.0	Troubleshooting a specific error code in Apache.
+Documentation	What are the supported file formats for this program?	0.0	Identifying supported file formats.
+Documentation	What does this software do?	1.0	General inquiry about software functionality.
+Documentation	What is this thing for?	1.0	Vague question about software purpose.
+Documentation	Where is the information?	1.0	Seeking documentation, but lacking specifics.
+Documentation	My thing isn't working, help!	1.0	Vague request for assistance with an unspecified issue.
+Documentation	What can it open?	1.0	Inquiring about file compatibility, lacking specifics.
+Emergency	What is the emergency number in London?	0.0	Access emergency contact information.
+Emergency	How do I perform CPR on an adult?	0.0	Learn life-saving first aid procedures.
+Emergency	Where is the nearest hospital emergency room?	0.0	Locate immediate medical care.
+Emergency	How do I report a fire?	0.0	Understand procedures for reporting a fire.
+Emergency	What are the steps for evacuating during a flood?	0.0	Learn emergency procedures for a specific disaster.
+Emergency	Help!	1.0	Expressing a need for urgent assistance, nature unclear.
+Emergency	What should I do in a crisis?	1.0	Seeking general advice for emergency situations.
+Emergency	I need a doctor.	1.0	Expressing a need for medical attention, urgency unclear.
+Emergency	Something is wrong.	1.0	Vague expression of distress, nature of emergency unknown.
+Emergency	Is everything okay?	1.0	Expressing concern, unclear if a situation requires emergency response.
+Environment	What are the current air quality levels in London?	0.0	Check current air quality in a specific location.
+Environment	Where can I find information about local recycling programs?	0.0	Locate recycling information for a specific area.
+Environment	What are the effects of deforestation on biodiversity?	0.0	Understand the impact of deforestation on plant and animal life.
+Environment	What are the main sources of water pollution in rivers?	0.0	Identify causes of river water contamination.
+Environment	How can I reduce my carbon footprint at home?	0.0	Find ways to minimize environmental impact in a home setting.
+Environment	How is the environment?	1.0	Vague inquiry about the state of the environment.
+Environment	What can I recycle?	1.0	Seeking recycling information, but lacking specificity.
+Environment	What happens when trees are cut down?	1.0	Inquiring about deforestation, but lacking detail about consequences.
+Environment	Is the water clean?	1.0	General question about water quality, lacking location or specifics.
+Environment	How can I be more green?	1.0	Seeking ways to be environmentally friendly, but lacking specific context.
+Ergonomics	What are the benefits of an ergonomic chair for back pain?	0.0	Seeking information on ergonomic solutions for back pain.
+Ergonomics	What is the ideal height for a computer monitor?	0.0	Seeking specific ergonomic measurement for monitor placement.
+Ergonomics	What are common ergonomic mistakes in home offices?	0.0	Seeking information about common ergonomic errors.
+Ergonomics	What ergonomic accessories can prevent carpal tunnel syndrome?	0.0	Seeking information on accessories to prevent a specific RSI.
+Ergonomics	How does proper keyboard placement affect RSI risk?	0.0	Seeking information on keyboard placement and RSI.
+Ergonomics	How can I make my workspace better?	1.0	Vague request for workspace improvement.
+Ergonomics	Is my desk okay?	1.0	Unclear request about desk setup.
+Ergonomics	How should I sit at my desk?	1.0	Vague request for sitting posture guidance.
+Ergonomics	What can I do to feel more comfortable at work?	1.0	Vague request for workplace comfort.
+Ergonomics	How can I be more comfortable?	1.0	Vague request for general comfort improvement.
+Events	When is the next local farmers market?	0.0	Find the date/time of a specific event.
+Events	Where is the concert on July 15th taking place?	0.0	Locate the venue for a known event.
+Events	How much do tickets cost for the ballet performance?	0.0	Determine the price of tickets for a specific event.
+Events	Can I find a free event in the city center tomorrow?	0.0	Find free events in a specific location and timeframe.
+Events	Who is performing at the music festival next month?	0.0	Identify performers at a known event.
+Events	Is there anything happening this weekend?	1.0	Discover events happening soon, but lacks specifics.
+Events	What's going on around here?	1.0	General inquiry about events, lacking location or date.
+Events	Are there any fun things to do?	1.0	Seeking entertainment, but the type and location are undefined.
+Events	What's new?	1.0	Vague request for information, potentially including events.
+Events	What's on?	1.0	Broad inquiry about available events, lacking details.
+Exercise	How many calories does running burn per hour?	0.0	Calculate calorie expenditure for a specific exercise.
+Exercise	Show me a beginner dumbbell workout for arms.	0.0	Find a workout routine for a specific fitness level and body part.
+Exercise	What are the benefits of high-intensity interval training?	0.0	Understand the advantages of a specific exercise type.
+Exercise	How long should I warm up before a workout?	0.0	Determine the appropriate duration of a warm-up.
+Exercise	What exercises target the gluteus maximus?	0.0	Identify exercises for a specific muscle group.
+Exercise	What kind of exercise should I do?	1.0	Seeking general exercise recommendations.
+Exercise	I want to get in shape	1.0	Vague desire for fitness improvement.
+Exercise	Is exercise good for you?	1.0	General question about the benefits of exercise.
+Exercise	What should I do before working out?	1.0	Seeking pre-workout advice, but unspecified.
+Exercise	What exercises can I do?	1.0	Broad request for exercise suggestions.
+Family	What are some fun activities to do with my family this weekend?	0.0	Recreational activities for families
+Family	What are the common signs of a healthy family dynamic?	0.0	Understand characteristics of a healthy family
+Family	What are the historical trends in family structures over the past century?	0.0	Historical information about family evolution
+Family	What are the legal requirements for establishing guardianship of a family member?	0.0	Legal information regarding family guardianship
+Family	What are effective strategies for resolving conflicts between siblings?	0.0	Conflict resolution within a family
+Family	What should we do as a family?	1.0	Vague request for family activities
+Family	How is a family?	1.0	Vague question about family definition or status
+Family	What's changed about families?	1.0	Vague question about changes in family dynamics
+Family	What about family issues?	1.0	Broad request for information about family problems
+Family	How do you deal with family?	1.0	Vague request for help with family interactions
+Feedback	How do I write a performance review for an employee?	0.0	Guidance on writing performance reviews.
+Feedback	What are examples of constructive criticism?	0.0	Learn about constructive criticism techniques.
+Feedback	How can I ask for feedback on my presentation skills?	0.0	Seeking advice on requesting feedback.
+Feedback	What is the best way to deliver negative feedback?	0.0	Learn about delivering negative feedback effectively.
+Feedback	How do I respond to critical feedback?	0.0	Learn how to react to criticism.
+Feedback	What do you think?	1.0	Seeking general feedback, topic unclear.
+Feedback	Is this okay?	1.0	Seeking validation, lacking context.
+Feedback	What should I do?	1.0	Vague request for guidance, no specific context.
+Feedback	How do I tell them?	1.0	Seeking advice on communication, lacking context.
+Feedback	What did they say?	1.0	Seeking information about feedback received, unclear context.
+First-aid	How do I treat a first-degree burn?	0.0	Treatment for minor burns.
+First-aid	What are the steps for performing CPR on an adult?	0.0	Learn CPR procedure for adults.
+First-aid	How to stop nosebleeds quickly?	0.0	Rapidly address a nosebleed.
+First-aid	What is the proper way to bandage a sprained ankle?	0.0	Learn correct bandaging technique for sprains.
+First-aid	How do I deal with a snake bite?	0.0	Specific treatment for snake bites.
+First-aid	What do I do for a cut?	1.0	General inquiry about wound care.
+First-aid	Help with injuries	1.0	Vague request for assistance with injuries.
+First-aid	What about bleeding?	1.0	General question about dealing with bleeding.
+First-aid	What if someone is hurt?	1.0	Unclear situation involving injury.
+First-aid	What if you get bitten?	1.0	Vague inquiry about bites.
+Food	What are the calories in a medium apple?	0.0	Nutritional information
+Food	Where can I find a good Italian restaurant near me?	0.0	Restaurant recommendations
+Food	How do I make a chocolate cake?	0.0	Recipe instructions
+Food	What are the health benefits of broccoli?	0.0	Health benefits of a specific food
+Food	What is the best way to store avocados?	0.0	Food storage advice
+Food	What should I eat?	1.0	General dietary advice
+Food	I'm hungry	1.0	Expressing a need related to food
+Food	What's for dinner?	1.0	Seeking meal ideas
+Food	Is food good?	1.0	Vague question about food's value
+Food	What about food?	1.0	General inquiry about food
+Friendship	How can I make new friends as an adult?	0.0	Seeking advice on forming new friendships.
+Friendship	What are the signs of a toxic friendship?	0.0	Identifying characteristics of unhealthy friendships.
+Friendship	How do you resolve conflict in a friendship?	0.0	Seeking methods for handling disagreements with friends.
+Friendship	What are the benefits of having close friends?	0.0	Understanding the positive aspects of strong friendships.
+Friendship	How can I support a friend going through a difficult time?	0.0	Seeking advice on providing emotional support.
+Friendship	What is friendship?	1.0	Broad inquiry about the concept of friendship.
+Friendship	Are my friends okay?	1.0	Expressing concern about friends, lacking specifics.
+Friendship	What happens when friends fight?	1.0	Inquiring about conflict in friendships, broad and undefined.
+Friendship	Is it good to have friends?	1.0	General question about the value of friendship.
+Friendship	How do you help friends?	1.0	Vague inquiry about assisting friends, lacking context.
+Gardening	How do I grow tomatoes in containers?	0.0	Specific growing instructions
+Gardening	What is the best fertilizer for roses?	0.0	Product recommendation for a specific plant
+Gardening	How often should I water succulents?	0.0	Specific care instructions for succulents
+Gardening	What are companion plants for carrots?	0.0	Information about plant compatibility
+Gardening	How do I prevent pests on my vegetable garden?	0.0	Problem-solving for garden pests
+Gardening	What should I plant?	1.0	General gardening advice, lacks specifics
+Gardening	What do plants need?	1.0	Broad question about plant needs, lacks context
+Gardening	How much water do plants need?	1.0	Vague question about watering frequency
+Gardening	What grows well together?	1.0	Seeking plant combinations, lacks specifics
+Gardening	How do I keep bugs away?	1.0	General pest control, lacks specifics
+Health	What are the symptoms of the common cold?	0.0	Symptom identification
+Health	How much vitamin D do adults need daily?	0.0	Nutritional guidance
+Health	What are the long-term effects of diabetes?	0.0	Disease impact understanding
+Health	Where can I find a cardiologist in New York City?	0.0	Locate a medical professional
+Health	What is the recommended exercise routine for weight loss?	0.0	Fitness and weight management
+Health	I feel sick	1.0	General health concern
+Health	What vitamins should I take?	1.0	General vitamin inquiry
+Health	What happens if you have diabetes?	1.0	General question about diabetes
+Health	I need a doctor	1.0	Vague medical assistance request
+Health	How do I get in shape?	1.0	General fitness inquiry
+Hobbies	How do I start learning to paint with watercolors?	0.0	Beginner's guide to watercolor painting.
+Hobbies	What are the best cameras for wildlife photography?	0.0	Seeking camera recommendations for a specific photography niche.
+Hobbies	Where can I find local rock climbing gyms?	0.0	Locating facilities for a specific hobby.
+Hobbies	What are the benefits of learning to play the guitar?	0.0	Understanding the advantages of a particular hobby.
+Hobbies	How much does it cost to get started with woodworking?	0.0	Inquiring about the financial investment in a hobby.
+Hobbies	What should I do in my free time?	1.0	General question about leisure activities.
+Hobbies	I'm bored, what can I do?	1.0	Vague expression of boredom seeking activity suggestions.
+Hobbies	Is there anything fun around here?	1.0	Seeking entertainment options without specifying a hobby.
+Hobbies	What's a good hobby to pick up?	1.0	Seeking general hobby recommendations.
+Hobbies	What are some things people like?	1.0	Broad question about popular interests, not specific to hobbies.
+Housing	What is the median home price in Austin, Texas?	0.0	Determine housing costs in a specific location.
+Housing	What are the requirements for a mortgage in California?	0.0	Understand mortgage qualifications in a specific state.
+Housing	How much does renters insurance cost?	0.0	Determine the cost of renters insurance.
+Housing	Show me houses with a yard near good schools.	0.0	Find houses with specific features and location criteria.
+Housing	What are the pros and cons of a 30-year vs. 15-year mortgage?	0.0	Compare different mortgage options.
+Housing	Find me houses.	1.0	General housing search with unspecified criteria.
+Housing	Can I buy a house?	1.0	Vague inquiry about homeownership feasibility.
+Housing	What insurance do I need?	1.0	Unclear insurance needs related to housing.
+Housing	I need a place to live.	1.0	General housing need with no specifics.
+Housing	What's better, renting or buying?	1.0	Seeking general advice on housing choices.
+Hydration	How much water should I drink daily?	0.0	Determine daily water intake.
+Hydration	What are the signs of dehydration?	0.0	Identify symptoms of dehydration.
+Hydration	Can sports drinks hydrate better than water?	0.0	Compare hydration effectiveness of different beverages.
+Hydration	What foods contribute to hydration?	0.0	Identify food sources of hydration.
+Hydration	How does hydration affect athletic performance?	0.0	Understand the link between hydration and exercise.
+Hydration	Stay hydrated?	1.0	General inquiry about hydration.
+Hydration	I feel off, is it water?	1.0	Vague symptom, potential hydration issue.
+Hydration	What's good to drink?	1.0	Seeking beverage recommendations, unclear if related to hydration.
+Hydration	What can I eat that has water?	1.0	Seeking foods with water content, vague.
+Hydration	Does water help with stuff?	1.0	Vague inquiry about the benefits of water.
+Hygiene	How long should I brush my teeth?	0.0	Dental hygiene duration
+Hygiene	What are the symptoms of a fungal nail infection?	0.0	Identify a specific health condition related to hygiene
+Hygiene	What causes body odor and how can I prevent it?	0.0	Understanding and preventing a hygiene-related issue
+Hygiene	What is the best soap for sensitive skin?	0.0	Product recommendation for specific skin type
+Hygiene	What are the steps for proper handwashing technique?	0.0	Detailed instructions for a hygiene practice
+Hygiene	What's important for staying clean?	1.0	General hygiene practices
+Hygiene	Is cleanliness important?	1.0	General question about hygiene
+Hygiene	What makes people smell bad?	1.0	General question about body odor
+Hygiene	What should I use to get clean?	1.0	Vague request for cleaning products
+Hygiene	How do you wash your hands?	1.0	Basic question about handwashing, lacking detail
+Insurance	What is the average cost of car insurance in California for a 25-year-old male?	0.0	Price comparison
+Insurance	What does health insurance cover?	0.0	Coverage details
+Insurance	Can I cancel my home insurance policy early?	0.0	Policy cancellation
+Insurance	What is the claim process for flood damage?	0.0	Specific claim process
+Insurance	How does my deductible affect my insurance premium?	0.0	Understanding insurance components
+Insurance	How much does insurance cost?	1.0	General insurance cost inquiry
+Insurance	What insurance do I need?	1.0	Broad insurance needs assessment
+Insurance	What kind of insurance should I get?	1.0	Unclear insurance needs
+Insurance	What happens if I have a claim?	1.0	General claim inquiry
+Insurance	How does insurance work?	1.0	Basic insurance understanding
+Investments	What is the historical return of the S&P 500?	0.0	Historical investment performance
+Investments	Compare mutual funds versus ETFs.	0.0	Investment vehicle comparison
+Investments	Calculate the compound interest on a $10,000 investment at 5% annually for 10 years.	0.0	Investment calculation
+Investments	What are the risks of investing in cryptocurrency?	0.0	Understanding investment risks
+Investments	What is dollar-cost averaging?	0.0	Learn about a specific investment strategy
+Investments	How do investments work?	1.0	General understanding of investments
+Investments	What are good investments?	1.0	Seeking investment recommendations
+Investments	Can you help me invest?	1.0	Vague request for investment assistance
+Investments	What should I do with my money?	1.0	Broad financial advice request
+Investments	How can I make money?	1.0	General question about wealth generation
+Isolation	What are the signs of social isolation in teenagers?	0.0	Identify symptoms of isolation in teens.
+Isolation	What are effective coping mechanisms for loneliness?	0.0	Find ways to deal with feelings of isolation.
+Isolation	What are the long-term health effects of prolonged social isolation?	0.0	Understand the physical and mental health consequences.
+Isolation	Where can I find support groups for people experiencing isolation?	0.0	Locate resources for social support.
+Isolation	What is the difference between solitude and isolation?	0.0	Understand the distinction between two states.
+Isolation	I feel lonely.	1.0	Expressing feelings of isolation without specifics.
+Isolation	How do I feel better?	1.0	Vague request for help with emotional state.
+Isolation	Is being alone bad for you?	1.0	General question about the effects of being alone.
+Isolation	Where can I go for help?	1.0	Seeking help, but the nature of the problem is unspecified.
+Isolation	What's the difference between being alone and something else?	1.0	Seeking clarification on different states of being, vague.
+Kindness	What are some small acts of kindness I can do today?	0.0	Seeking actionable ideas for practicing kindness.
+Kindness	What are the psychological benefits of showing kindness?	0.0	Understanding the positive effects of kindness on mental well-being.
+Kindness	Where can I volunteer to help others in my community?	0.0	Finding opportunities for kind acts through volunteering.
+Kindness	What is the relationship between kindness and empathy?	0.0	Understanding the connection between kindness and empathy.
+Kindness	Can you recommend books about practicing kindness?	0.0	Seeking resources to learn more about kindness.
+Kindness	Be nice.	1.0	Vague request related to kindness, lacking specific intent.
+Kindness	Is being nice good for you?	1.0	Inquiring about the benefits of kindness, but broadly and without specifics.
+Kindness	How can I help people?	1.0	Broad request for ways to assist others, lacking context.
+Kindness	What does it mean to be a good person?	1.0	Seeking a definition of goodness, potentially related to kindness.
+Kindness	Tell me about being good.	1.0	Vague request for information about goodness, potentially related to kindness.
+Laundry	How long should I dry a cotton t-shirt?	0.0	Determine appropriate drying time for a specific fabric.
+Laundry	What temperature should I wash delicates at?	0.0	Find the correct washing temperature for delicate items.
+Laundry	What does the laundry symbol 'do not bleach' mean?	0.0	Understand the meaning of a specific laundry symbol.
+Laundry	Can I wash jeans with white clothes?	0.0	Determine compatibility of washing different colored items together.
+Laundry	What is the best detergent for removing grass stains?	0.0	Find a detergent effective for a specific type of stain.
+Laundry	What's the best way to do laundry?	1.0	Seeking general laundry advice, intent unclear.
+Laundry	How do I get clothes clean?	1.0	Vague request for cleaning clothes, lacking specifics.
+Laundry	What are those symbols on the tags?	1.0	Inquiring about laundry symbols generally, without specifying which one.
+Laundry	Can I mix colors when washing?	1.0	Asking about mixing colors, lacking specifics about fabrics or items.
+Laundry	What detergent should I use?	1.0	Seeking detergent advice, without specifying stain or fabric type.
+Laws	What are the penalties for driving under the influence in California?	0.0	Specific legal consequences for a crime.
+Laws	How do I file a restraining order in Texas?	0.0	Procedure for obtaining a legal order.
+Laws	What is the statute of limitations for a personal injury claim in Florida?	0.0	Time limit for filing a specific type of lawsuit.
+Laws	What are the requirements for a valid contract in New York?	0.0	Elements needed for a legally binding agreement.
+Laws	Where can I find the text of the Clean Air Act?	0.0	Accessing the full text of a specific law.
+Laws	What does the law say?	1.0	Vague request for legal information.
+Laws	What about legal stuff?	1.0	Broad and undefined legal inquiry.
+Laws	Can I sue someone?	1.0	General inquiry about legal action.
+Laws	What makes something legal?	1.0	Broad question about legality.
+Laws	What are some laws?	1.0	Very broad request for legal information.
+Learning	How do I learn to play the guitar?	0.0	Instructional - acquire a new skill.
+Learning	What are the best online courses for data science?	0.0	Identify resources for a specific subject.
+Learning	Explain the concept of spaced repetition learning.	0.0	Understand a specific learning technique.
+Learning	Where can I find free coding tutorials?	0.0	Locate free resources for learning to code.
+Learning	What is the most effective way to study for a history exam?	0.0	Find effective study methods for a specific subject.
+Learning	Tell me about learning.	1.0	General inquiry about the concept of learning.
+Learning	What can I study?	1.0	Seeking educational options, intent unclear.
+Learning	How do people learn?	1.0	Broad question about the learning process.
+Learning	I want to learn something new.	1.0	Vague desire to learn, no specific topic.
+Learning	How do I get smarter?	1.0	General desire for cognitive improvement, unclear intent.
+Lighting	Where can I buy LED bulbs online?	0.0	Purchase LED bulbs.
+Lighting	How do I install a dimmer switch?	0.0	Learn about dimmer switch installation.
+Lighting	What is the best lighting for a home office?	0.0	Find optimal lighting for a specific room.
+Lighting	How many lumens does a 60W bulb equal in LED?	0.0	Convert wattage to lumens for LED bulbs.
+Lighting	What are the energy efficiency ratings of different light bulbs?	0.0	Understand energy efficiency of bulbs.
+Lighting	What kind of lights are there?	1.0	General inquiry about lighting options.
+Lighting	Can you tell me about lights?	1.0	Vague request for information about lights.
+Lighting	What lights should I get?	1.0	Seeking lighting recommendations without specifics.
+Lighting	How bright should my lights be?	1.0	Unclear request about light brightness.
+Lighting	Is lighting important?	1.0	General question about the importance of lighting.
+Loneliness	What are effective coping mechanisms for chronic loneliness?	0.0	Seeking strategies to manage long-term loneliness.
+Loneliness	What are the health risks associated with prolonged loneliness?	0.0	Understanding the physical and mental health consequences of loneliness.
+Loneliness	Where can I find support groups for people experiencing loneliness?	0.0	Locating resources for social support related to loneliness.
+Loneliness	What is the difference between solitude and loneliness?	0.0	Seeking clarification on the distinction between two related states.
+Loneliness	How can I help a friend who is struggling with loneliness?	0.0	Seeking advice on supporting someone else experiencing loneliness.
+Loneliness	I feel alone.	1.0	Expressing a feeling of loneliness with no specific request.
+Loneliness	Is being alone bad for you?	1.0	General inquiry about the effects of being alone, potentially related to loneliness.
+Loneliness	Where do I go for help?	1.0	Vague request for assistance, potentially related to loneliness.
+Loneliness	What's the difference between being alone and lonely?	1.0	Similar to above, but less formal phrasing.
+Loneliness	How do I help someone?	1.0	Vague request for help, could relate to loneliness or other issues.
+Maintenance	How often should I change the oil in my 2018 Honda Civic?	0.0	Specific maintenance schedule for a vehicle.
+Maintenance	Where can I find a reliable mechanic for brake repair?	0.0	Locate a service provider for a specific repair.
+Maintenance	What is the cost of a typical HVAC system maintenance check?	0.0	Determine the price of a specific maintenance service.
+Maintenance	How do I replace a flat tire on a Toyota Camry?	0.0	Learn a specific maintenance task.
+Maintenance	What tools are needed for basic car maintenance?	0.0	Identify necessary tools for common tasks.
+Maintenance	What kind of maintenance does my car need?	1.0	General inquiry about vehicle maintenance.
+Maintenance	Is there anything I should fix on my car?	1.0	Vague inquiry about potential repairs.
+Maintenance	What about maintenance?	1.0	Broad inquiry about maintenance, lacking specifics.
+Maintenance	How do I fix my car?	1.0	Vague request for car repair assistance.
+Maintenance	What do I need to do to keep things running?	1.0	General question about upkeep, lacking context.
+Markets	What is the current price of Apple stock?	0.0	Check stock price
+Markets	What are the top 5 performing stocks in the tech sector this week?	0.0	Identify high-performing stocks
+Markets	What is the historical price trend of Tesla stock over the last year?	0.0	Analyze stock price history
+Markets	How does inflation affect the stock market?	0.0	Understand the relationship between inflation and stock market
+Markets	What are the key indicators of a healthy stock market?	0.0	Learn about stock market health indicators
+Markets	How are the markets doing today?	1.0	General market performance
+Markets	Tell me about the market	1.0	Vague request about markets
+Markets	What's a good investment?	1.0	Seeking investment advice, unspecified
+Markets	What's happening with the economy?	1.0	Broad question about the economy
+Markets	Is now a good time to invest?	1.0	Seeking investment timing advice
+Medication	What are the side effects of ibuprofen?	0.0	Understand potential adverse reactions to a specific medication.
+Medication	How much acetaminophen can I take in a day?	0.0	Determine the safe dosage of a specific medication.
+Medication	Where can I find information about drug interactions with lisinopril?	0.0	Find information about interactions for a specific medication.
+Medication	What is the generic name for Advil?	0.0	Identify the generic equivalent of a brand-name medication.
+Medication	How long does it take for amoxicillin to work?	0.0	Understand the onset of action for a specific medication.
+Medication	What medications do doctors prescribe?	1.0	General inquiry about medications, lacking a specific focus.
+Medication	What pills are good for pain?	1.0	Seeking pain relief medication, but the type of pain is unspecified.
+Medication	Can medications affect each other?	1.0	General question about drug interactions, lacking specific medications.
+Medication	What does medicine do?	1.0	Vague question about the purpose of medication in general.
+Medication	How long before I feel better?	1.0	Seeking information about recovery time, but medication is not specified.
+Meditation	How do I start a daily meditation practice?	0.0	Beginner guidance for starting meditation.
+Meditation	What are the benefits of mindfulness meditation for anxiety?	0.0	Specific benefits of a meditation type for a condition.
+Meditation	Where can I find guided meditation scripts for sleep?	0.0	Locating resources for a specific type of meditation.
+Meditation	What is the difference between Vipassana and Zen meditation?	0.0	Comparing and contrasting two meditation techniques.
+Meditation	How long should a meditation session be for beginners?	0.0	Duration guidance for new meditators.
+Meditation	Can you tell me about meditation?	1.0	General inquiry about meditation with unclear focus.
+Meditation	Is meditation good for you?	1.0	Vague inquiry about the general benefits of meditation.
+Meditation	Where can I find some relaxation?	1.0	Seeking relaxation, potentially through meditation, but unclear.
+Meditation	What kind of meditation should I do?	1.0	Seeking meditation advice, but without specifying needs or preferences.
+Meditation	How long should I meditate?	1.0	Seeking duration guidance, but lacking context (beginner/advanced).
+Memories	What are the stages of memory formation?	0.0	Understand the process of creating memories.
+Memories	How can I improve my long-term memory?	0.0	Seek methods for enhancing memory retention.
+Memories	What is the difference between episodic and semantic memory?	0.0	Understand different types of long-term memory.
+Memories	What are common memory disorders and their symptoms?	0.0	Learn about conditions affecting memory.
+Memories	How does trauma affect memory recall?	0.0	Understand the impact of trauma on memory.
+Memories	Tell me about memories	1.0	General inquiry about memories, intent unclear.
+Memories	Can you help me remember things?	1.0	Vague request for memory assistance, unclear what needs remembering.
+Memories	What kind of memory is there?	1.0	Broad question about memory types, lacks specificity.
+Memories	Why do I forget things?	1.0	Inquiry about forgetfulness, lacks detail about the situation.
+Memories	What happens when you remember something?	1.0	General question about the act of remembering, unclear focus.
+Milestones	What are the key milestones in project management?	0.0	Understand project management milestones
+Milestones	What are the milestones for a software development lifecycle?	0.0	Learn about milestones in software development
+Milestones	How do you define milestones in a personal development plan?	0.0	Understand how to set milestones for personal growth
+Milestones	What are the milestones for completing a marathon?	0.0	Learn about milestones for marathon training
+Milestones	How do milestones differ from tasks in agile methodology?	0.0	Understand the distinction between milestones and tasks
+Milestones	Tell me about milestones.	1.0	General inquiry about milestones, unclear what aspect is of interest
+Milestones	What are some important steps?	1.0	Vague request for steps, could refer to any process
+Milestones	What should I achieve?	1.0	Unclear goal, seeking guidance on achievements
+Milestones	What does it take to finish?	1.0	Vague question about completion, lacking context
+Milestones	What's the difference between a task and something else?	1.0	Ambiguous question about task differentiation
+Mindfulness	What are the benefits of daily mindfulness practice?	0.0	Understand the advantages of regular mindfulness.
+Mindfulness	How can I practice mindful breathing techniques?	0.0	Learn specific techniques for mindful breathing.
+Mindfulness	What is the history and origin of mindfulness?	0.0	Understand the historical roots of mindfulness.
+Mindfulness	Can mindfulness help with anxiety and stress?	0.0	Explore the application of mindfulness to mental health.
+Mindfulness	What are some guided mindfulness meditations for beginners?	0.0	Find resources for starting a mindfulness practice.
+Mindfulness	Tell me about mindfulness.	1.0	General inquiry about mindfulness, lacking specific focus.
+Mindfulness	How do I relax?	1.0	Seeking relaxation methods, potentially including mindfulness.
+Mindfulness	Where did this all come from?	1.0	Inquiring about the origins of a concept, unspecified.
+Mindfulness	Is mindfulness good for you?	1.0	General question about the benefits of mindfulness.
+Mindfulness	Can you help me meditate?	1.0	Vague request for meditation assistance, unclear if it's mindfulness-specific.
+Motivation	How can I increase my daily motivation?	0.0	Seeking strategies for daily motivation.
+Motivation	What are the psychological factors behind motivation?	0.0	Understanding the underlying psychology of motivation.
+Motivation	What are some effective goal-setting techniques to stay motivated?	0.0	Finding techniques to maintain motivation through goal setting.
+Motivation	Can you recommend books on building self-discipline and motivation?	0.0	Seeking book recommendations for self-discipline and motivation.
+Motivation	How does motivation relate to dopamine levels in the brain?	0.0	Understanding the neurochemical aspects of motivation.
+Motivation	I feel unmotivated.	1.0	Expressing a lack of motivation without specifying the context.
+Motivation	Why am I so lazy?	1.0	Seeking reasons for lack of motivation, using informal language.
+Motivation	How do I get things done?	1.0	Broad question about productivity, potentially related to motivation.
+Motivation	What should I do?	1.0	Vague request for guidance, potentially related to motivation.
+Motivation	What makes people tick?	1.0	Broad question about human behavior, potentially related to motivation.
+Movies	"What is the runtime of ""Oppenheimer""?"	0.0	Determine the length of a specific movie.
+Movies	"Who directed the movie ""Parasite""?"	0.0	Identify the director of a specific film.
+Movies	"Where can I stream ""Everything Everywhere All at Once""?"	0.0	Find streaming options for a specific movie.
+Movies	"What are the box office earnings of ""Barbie""?"	0.0	Find financial performance data for a specific movie.
+Movies	List movies starring Leonardo DiCaprio.	0.0	Find films featuring a specific actor.
+Movies	Tell me about movies.	1.0	General inquiry about movies with unclear intent.
+Movies	What are some good films?	1.0	Seeking movie recommendations without specific criteria.
+Movies	Can I watch something tonight?	1.0	Vague request about watching something, not specifying a movie.
+Movies	What's a popular movie?	1.0	Seeking a popular movie, but lacking specific criteria.
+Movies	I want to see a movie.	1.0	Expressing a desire to watch a movie, but without specifying which one.
+Music	Play Despacito by Luis Fonsi	0.0	Play a specific song.
+Music	What are the top 10 songs of 2023?	0.0	Find a ranked list of popular songs.
+Music	Who composed the Moonlight Sonata?	0.0	Identify the composer of a specific piece.
+Music	Find jazz music from the 1920s	0.0	Discover music from a specific genre and era.
+Music	Where can I download lossless FLAC files of Pink Floyd’s *Dark Side of the Moon*?	0.0	Find a source for high-quality music downloads.
+Music	Play some music	1.0	Play music, genre unspecified.
+Music	What's popular right now?	1.0	Discover current popular music, unspecified criteria.
+Music	Who wrote that piano song?	1.0	Identify the composer of a song, lacking details.
+Music	I want some old music	1.0	Discover older music, era unspecified.
+Music	Where can I get music?	1.0	Find music, source unspecified.
+Nature	What are the different types of rainforest ecosystems?	0.0	Identify rainforest ecosystems.
+Nature	Where can I find hiking trails in Yosemite National Park?	0.0	Locate hiking trails in a specific park.
+Nature	What is the life cycle of a monarch butterfly?	0.0	Understand the stages of a butterfly's life.
+Nature	How does photosynthesis work in plants?	0.0	Understand the process of photosynthesis.
+Nature	What are the biggest threats to coral reef ecosystems?	0.0	Identify dangers to coral reefs.
+Nature	Tell me about nature.	1.0	General inquiry about nature, intent unclear.
+Nature	Where can I go outside?	1.0	Seeking outdoor locations, lacks specificity.
+Nature	What do butterflies do?	1.0	Vague question about butterflies, intent unclear.
+Nature	How do plants grow?	1.0	General question about plant growth, lacks detail.
+Nature	What's happening to the oceans?	1.0	Broad question about oceans, intent unclear.
+Networking	How do I write a professional networking email?	0.0	Seeking guidance on composing networking emails.
+Networking	What are the best networking events for software engineers in San Francisco?	0.0	Finding relevant networking events for a specific profession and location.
+Networking	How can I leverage LinkedIn for job searching?	0.0	Learning how to use LinkedIn for job search purposes.
+Networking	What is the elevator pitch formula?	0.0	Understanding the structure of an elevator pitch.
+Networking	How often should I follow up with new networking contacts?	0.0	Seeking advice on follow-up frequency in networking.
+Networking	Can you help me with networking?	1.0	Vague request for assistance with networking.
+Networking	Where can I meet people?	1.0	Broad request for meeting people, lacking context.
+Networking	What's LinkedIn good for?	1.0	Unclear intent regarding LinkedIn's functionality.
+Networking	Tell me about making connections.	1.0	Vague request for information about connections.
+Networking	Should I stay in touch with people?	1.0	General question about maintaining connections, lacking context.
+Nutrition	What is the recommended daily intake of vitamin D for adults?	0.0	Specific nutrient intake
+Nutrition	How many calories are in a banana?	0.0	Calorie content of a specific food
+Nutrition	What is the glycemic index of white rice?	0.0	Specific food's impact on blood sugar
+Nutrition	How does protein affect muscle growth?	0.0	Nutrient's role in a physiological process
+Nutrition	What are the benefits of omega-3 fatty acids?	0.0	Health benefits of a specific nutrient
+Nutrition	What should I eat?	1.0	General dietary advice
+Nutrition	What foods are good for you?	1.0	General healthy food options
+Nutrition	What foods should I avoid?	1.0	Foods to limit or exclude from diet
+Nutrition	What's a healthy diet?	1.0	Broad question about healthy eating
+Nutrition	Is food good?	1.0	Vague question about the value of food
+Office	Where can I find staplers in the office?	0.0	Locate office supplies.
+Office	What is the policy on using the office printer?	0.0	Understand office printer usage guidelines.
+Office	How do I book a conference room in the office?	0.0	Learn the process for reserving a meeting space.
+Office	What is the office dress code?	0.0	Understand workplace attire requirements.
+Office	Who is the office manager?	0.0	Identify the person responsible for office administration.
+Office	Where is everything?	1.0	General inquiry about office location, unclear what is being sought.
+Office	Can I print something?	1.0	Vague request related to printing, unclear if permission or instructions are needed.
+Office	Can I use a meeting room?	1.0	Inquiry about meeting room availability, lacking details.
+Office	What should I wear to work?	1.0	Seeking guidance on workplace attire, but lacks context.
+Office	Who's in charge here?	1.0	Ambiguous inquiry about office leadership.
+Organization	How can I improve time management skills?	0.0	Improve personal productivity.
+Organization	What are the best organizational tools for small businesses?	0.0	Find tools for business organization.
+Organization	Explain the benefits of a well-organized workspace.	0.0	Understand the advantages of organization.
+Organization	What are some effective methods for decluttering a home?	0.0	Learn home decluttering techniques.
+Organization	How do I create a project management plan?	0.0	Learn to plan projects effectively.
+Organization	How do I get organized?	1.0	General desire for organization, unclear scope.
+Organization	What tools should I use?	1.0	Vague request for tools, unclear purpose.
+Organization	Why is organization important?	1.0	Seeking reasons for organization, broad question.
+Organization	Can you help me with clutter?	1.0	Unclear request related to clutter, no specific goal.
+Organization	How do I manage things?	1.0	Vague request for management assistance, unclear context.
+Parenting	How to deal with toddler tantrums?	0.0	Behavioral management
+Parenting	What are age-appropriate chores for a 10-year-old?	0.0	Developmental tasks and responsibilities
+Parenting	What are the signs of ADHD in a preschooler?	0.0	Child development and potential issues
+Parenting	What are effective strategies for teaching empathy?	0.0	Social-emotional learning
+Parenting	What are the best ways to encourage reading in children?	0.0	Literacy development
+Parenting	What about raising kids?	1.0	General parenting advice
+Parenting	How do I parent?	1.0	Seeking general parenting guidance
+Parenting	Is my child normal?	1.0	Seeking reassurance about child's development
+Parenting	How can I be a good parent?	1.0	General parenting advice
+Parenting	How do I help my child?	1.0	Vague request for assistance with child
+Pets	What are the nutritional requirements for a golden retriever?	0.0	Specific dietary needs of a dog breed.
+Pets	How much does it cost to adopt a cat from a local shelter?	0.0	Adoption costs for a specific animal.
+Pets	What are the symptoms of feline leukemia?	0.0	Disease symptoms in cats.
+Pets	Where can I find a reputable dog trainer in Chicago?	0.0	Locating a professional service for dogs.
+Pets	What are the best toys for a bored ferret?	0.0	Toy recommendations for a specific pet.
+Pets	What do I feed my pet?	1.0	General feeding advice, species unspecified.
+Pets	How much does pet adoption cost?	1.0	General adoption costs, animal unspecified.
+Pets	My cat is acting strange	1.0	Vague description of a pet's behavior.
+Pets	Where can I train my pet?	1.0	Seeking pet training, location unspecified.
+Pets	What should I get my pet?	1.0	General request for pet items, type unspecified.
+Photography	How to adjust aperture for portrait photography?	0.0	Learn specific camera settings for portraits.
+Photography	What is the best camera for beginner photographers?	0.0	Seeking camera recommendations for beginners.
+Photography	How do I edit photos in Lightroom?	0.0	Learn photo editing techniques in Lightroom.
+Photography	What are the rules of composition in photography?	0.0	Understand fundamental photography principles.
+Photography	What settings should I use for landscape photography?	0.0	Learn camera settings for landscapes.
+Photography	Take a picture.	1.0	Vague request related to photography.
+Photography	I want a good camera.	1.0	Unclear request regarding camera purchase.
+Photography	Can you fix my photos?	1.0	Ambiguous request for photo assistance.
+Photography	Make my photos look better.	1.0	Vague request for photo improvement.
+Photography	I want nice pictures.	1.0	Unclear request related to photography outcomes.
+Podcasts	What are the top 10 true crime podcasts of 2024?	0.0	Discover popular true crime podcasts.
+Podcasts	Where can I find a podcast about astrophysics for beginners?	0.0	Locate a beginner-friendly astrophysics podcast.
+Podcasts	How do I start my own podcast about history?	0.0	Learn the steps to create a history podcast.
+Podcasts	What is the average length of a daily news podcast?	0.0	Determine the typical duration of news podcasts.
+Podcasts	"Recommend podcasts similar to ""The Daily""."	0.0	Find podcasts with similar content to a specific podcast.
+Podcasts	Tell me about podcasts.	1.0	General inquiry about podcasts with unclear intent.
+Podcasts	Is there anything good to listen to?	1.0	Vague request for podcast recommendations.
+Podcasts	Can I make a show?	1.0	Inquiry about podcast creation, lacking specifics.
+Podcasts	How long are podcasts usually?	1.0	General question about podcast length, lacking context.
+Podcasts	What's a good podcast?	1.0	Broad request for podcast recommendations with no criteria.
+Politics	Who is the current US Secretary of State?	0.0	Identify a specific political figure and their role.
+Politics	What is the legislative process for a bill to become law in the US?	0.0	Understand how laws are made.
+Politics	What are the key policy positions of the Democratic Party on healthcare?	0.0	Learn about a specific party's stance on a policy issue.
+Politics	What were the results of the 2020 presidential election in Florida?	0.0	Find specific election results in a particular state.
+Politics	How can I contact my state representative?	0.0	Find contact information for a local political representative.
+Politics	What’s going on in politics?	1.0	General inquiry about the current political climate.
+Politics	How do laws get made?	1.0	Seeking information about lawmaking, but lacks specificity.
+Politics	What do Democrats believe?	1.0	Broad question about a political party's beliefs.
+Politics	What happened in the last election?	1.0	Vague question about a past election.
+Politics	How do I get in touch with people in government?	1.0	Seeking ways to contact government officials, but lacks specificity.
+Protection	How can I protect my identity from online fraud?	0.0	Identity theft prevention
+Protection	What are the best home security systems available?	0.0	Researching home security options
+Protection	What are the legal protections for renters?	0.0	Understanding renter's rights
+Protection	How can I protect my skin from the sun?	0.0	Sun protection methods
+Protection	What are the different types of insurance protection?	0.0	Learning about insurance options
+Protection	How do I stay safe online?	1.0	General online safety
+Protection	How can I protect my house?	1.0	Vague request for home protection
+Protection	What rights do I have as a tenant?	1.0	Seeking information about tenant rights, broad query
+Protection	How do I protect myself?	1.0	Broad request for personal protection
+Protection	What kind of protection do I need?	1.0	Unclear need for protection, seeking general advice
+Reading	What are the benefits of reading regularly?	0.0	Understand the advantages of reading.
+Reading	"Can you recommend books similar to ""Pride and Prejudice""?"	0.0	Seek book recommendations based on a specific title.
+Reading	What are some strategies for improving reading comprehension?	0.0	Learn techniques to better understand text.
+Reading	Where can I find free ebooks online?	0.0	Locate resources for free digital books.
+Reading	What is the average reading speed for adults?	0.0	Find information about typical reading rates.
+Reading	Tell me about reading.	1.0	Vague request about reading; intent unclear.
+Reading	What should I read?	1.0	Broad request for reading material; lacks specifics.
+Reading	How can I read better?	1.0	Vague request for reading improvement; lacks specifics.
+Reading	Where can I get books?	1.0	Unclear if seeking free or paid books, physical or digital.
+Reading	How fast do people read?	1.0	Vague question about reading speed; lacks context.
+Recycling	What materials are accepted in my local curbside recycling program?	0.0	Determine accepted materials for local recycling.
+Recycling	Where is the nearest drop-off recycling center?	0.0	Locate a nearby recycling facility.
+Recycling	How does recycling help the environment?	0.0	Understand the environmental benefits of recycling.
+Recycling	What is the recycling process for plastic bottles?	0.0	Learn the steps involved in recycling plastic bottles.
+Recycling	What are the common recycling symbols and what do they mean?	0.0	Understand the meaning of recycling symbols.
+Recycling	What can I recycle?	1.0	General inquiry about recyclable materials.
+Recycling	Where can I take my stuff to recycle?	1.0	Seeking recycling location, unspecified items.
+Recycling	Is recycling good?	1.0	Seeking validation of recycling's benefits, vague.
+Recycling	What happens to recycled materials?	1.0	Inquire about the fate of recycled items, broad.
+Recycling	What do all the recycling symbols mean?	1.0	Seeking information about recycling symbols, general.
+Relationships	How do I improve communication with my partner?	0.0	Improve relationship communication
+Relationships	What are the signs of a healthy relationship?	0.0	Identify characteristics of a healthy relationship
+Relationships	How to deal with infidelity in a relationship	0.0	Seek advice on handling infidelity
+Relationships	What are common relationship conflicts and how to resolve them?	0.0	Understand and resolve common conflicts
+Relationships	How can I rebuild trust after a betrayal?	0.0	Seek advice on rebuilding trust
+Relationships	How can I make my relationship better?	1.0	General relationship improvement
+Relationships	Is my relationship okay?	1.0	Assess relationship health, vague criteria
+Relationships	What happens when someone cheats?	1.0	Inquire about infidelity, broad scope
+Relationships	Why do relationships fail?	1.0	Understand reasons for relationship failure, broad
+Relationships	What about trust issues?	1.0	Vague inquiry about trust issues in relationships
+Remote	How do I set up a remote workstation?	0.0	Technical setup of a remote workspace.
+Remote	What are the best remote collaboration tools for small teams?	0.0	Software recommendations for remote teams.
+Remote	How do I troubleshoot a remote desktop connection?	0.0	Technical problem-solving for remote access.
+Remote	What are the security risks of remote access?	0.0	Understanding security concerns in remote work.
+Remote	What is the average salary for remote software engineers?	0.0	Salary information for a specific remote role.
+Remote	Working from home?	1.0	General inquiry about remote work.
+Remote	Can I work from anywhere?	1.0	Inquiry about location flexibility in remote work.
+Remote	Is remote work effective?	1.0	Seeking opinions on the effectiveness of remote work.
+Remote	What's the deal with remote work?	1.0	Vague inquiry about remote work.
+Remote	What jobs can I do remotely?	1.0	Exploring remote job options without specifying a field.
+Repairs	How much does it cost to repair a cracked iPhone screen?	0.0	Price of a specific repair.
+Repairs	Where can I find a local appliance repair service for a washing machine?	0.0	Locate a repair service for a specific appliance.
+Repairs	What tools do I need to repair a bicycle tire?	0.0	List of tools for a specific repair.
+Repairs	Can I replace a broken window pane myself?	0.0	Inquire about DIY repair possibility.
+Repairs	How to fix a leaky faucet step-by-step?	0.0	Instructions for a specific repair.
+Repairs	Fix my stuff	1.0	Vague request for repair assistance.
+Repairs	Is it worth fixing my old fridge?	1.0	Seeking advice on repair vs. replacement.
+Repairs	What do I do with broken things?	1.0	General question about dealing with broken items.
+Repairs	Something is broken at my house	1.0	Vague report of a problem needing repair.
+Repairs	My sink is acting up	1.0	Unclear problem with a plumbing fixture.
+Safety	How to install a smoke detector?	0.0	Installation instructions for smoke detectors.
+Safety	What are the dangers of carbon monoxide?	0.0	Understand the risks associated with carbon monoxide.
+Safety	What is the proper way to use a fire extinguisher?	0.0	Learn the correct operation of a fire extinguisher.
+Safety	What are the safety precautions for using power tools?	0.0	Understand safety measures when operating power tools.
+Safety	How often should I replace batteries in smoke detectors?	0.0	Determine the recommended battery replacement frequency.
+Safety	Home safety	1.0	General inquiry about home safety.
+Safety	Is my house safe?	1.0	Vague inquiry about home safety.
+Safety	What about fire safety?	1.0	General inquiry about fire safety.
+Safety	Are tools dangerous?	1.0	Vague inquiry about tool safety.
+Safety	What about detectors?	1.0	Unclear inquiry about detectors.
+Seasons	When does autumn begin in the Northern Hemisphere?	0.0	Determine the start date of autumn.
+Seasons	What are the four seasons and their characteristics?	0.0	Learn about the seasons and their defining features.
+Seasons	What causes the change of seasons on Earth?	0.0	Understand the astronomical reasons for seasons.
+Seasons	What activities are popular during the spring season?	0.0	Discover common activities during spring.
+Seasons	What is the average temperature in winter in Chicago?	0.0	Find specific temperature data for a season in a location.
+Seasons	What's the weather like during seasons?	1.0	General inquiry about seasonal weather.
+Seasons	Tell me about seasons	1.0	Vague request for information about seasons.
+Seasons	Why do seasons happen?	1.0	Seeking explanation for seasons, but lacks specificity.
+Seasons	What can I do when it's warm?	1.0	Seeking activities based on temperature, not specifically spring.
+Seasons	What's it like outside?	1.0	Broad question about the current outdoor conditions, potentially related to a season.
+Sharing	How do I share a photo on Instagram?	0.0	Specific instruction for photo sharing on a platform.
+Sharing	What are the best ways to share files with someone?	0.0	Seeking methods for file sharing.
+Sharing	How do I share my screen during a Zoom meeting?	0.0	Specific instruction for screen sharing in a meeting.
+Sharing	What are the legal implications of sharing copyrighted material?	0.0	Seeking information about copyright and sharing.
+Sharing	How do I share a document on Google Docs with edit access?	0.0	Specific instruction for document sharing with permissions.
+Sharing	Can you tell me about sharing?	1.0	Vague request about the concept of sharing.
+Sharing	How can I get my stuff to others?	1.0	Ambiguous request about transferring possessions.
+Sharing	What about sharing things?	1.0	Vague request about sharing, lacking context.
+Sharing	Is it okay to share?	1.0	Ambiguous question about the permissibility of sharing.
+Sharing	How do I let others have access?	1.0	Vague request about granting access, not specifying what.
+Shopping	Where can I buy a red dress in size medium?	0.0	Product purchase
+Shopping	What are the best noise-cancelling headphones under $200?	0.0	Product research/comparison
+Shopping	Are there any sales on running shoes at Nike right now?	0.0	Specific sale inquiry
+Shopping	What is the return policy at Macy’s?	0.0	Policy information
+Shopping	Show me highly-rated Bluetooth speakers	0.0	Product discovery
+Shopping	I need something to wear	1.0	General shopping need
+Shopping	What headphones should I get?	1.0	Vague product inquiry
+Shopping	Is there anything on sale?	1.0	General sale inquiry
+Shopping	What about returns?	1.0	Vague return inquiry
+Shopping	I want something cool	1.0	Vague product desire
+Skills	How do I learn Python?	0.0	Learn a new programming language.
+Skills	What are the best online courses for data analysis?	0.0	Find resources for data analysis skill development.
+Skills	What skills are needed for a software engineer role?	0.0	Identify skills required for a specific job.
+Skills	Can you list transferable skills employers value?	0.0	Identify skills applicable across different roles.
+Skills	How long does it take to become proficient in project management?	0.0	Understand the time commitment for skill mastery.
+Skills	What skills should I have?	1.0	General inquiry about necessary skills.
+Skills	How can I improve my abilities?	1.0	Vague request for skill improvement.
+Skills	What jobs are good for me?	1.0	Seeking career guidance without specifying skills.
+Skills	What are some good skills to have?	1.0	General inquiry about valuable skills.
+Skills	How long does it take to learn something?	1.0	Vague inquiry about learning duration.
+Sleep	What are the stages of a normal sleep cycle?	0.0	Understand sleep cycle phases.
+Sleep	How much sleep do teenagers need each night?	0.0	Determine sleep duration for a specific age group.
+Sleep	What are effective strategies for improving sleep hygiene?	0.0	Learn about habits for better sleep.
+Sleep	What is the impact of blue light on sleep quality?	0.0	Understand the effect of blue light on sleep.
+Sleep	What are common sleep disorders and their symptoms?	0.0	Learn about different sleep disorders.
+Sleep	I can't sleep	1.0	Expressing a sleep problem, unclear cause.
+Sleep	Am I getting enough rest?	1.0	Questioning sleep adequacy, lacking specifics.
+Sleep	How can I sleep better?	1.0	Seeking sleep improvement, no details.
+Sleep	Is my phone keeping me awake?	1.0	Possible sleep disruption, unclear connection.
+Sleep	Why am I so tired?	1.0	Expressing fatigue, unknown cause.
+Social	How can I make new friends as an adult?	0.0	Seeking advice on forming new friendships.
+Social	What are the benefits of strong social connections?	0.0	Understanding the positive impacts of social relationships.
+Social	Where can I find local social groups based on my hobbies?	0.0	Locating hobby-based social groups nearby.
+Social	How do I deal with social anxiety in group settings?	0.0	Seeking strategies for managing social anxiety.
+Social	What are some tips for improving my communication skills?	0.0	Seeking advice on effective communication.
+Social	How do I socialize?	1.0	Vague request about socializing, unclear context.
+Social	Why is being social important?	1.0	Seeking reasons for social interaction, broad question.
+Social	What's something to do around here?	1.0	Unclear request for activities, lacking specific interests.
+Social	I get nervous around people	1.0	Expressing social discomfort, lacking specific context.
+Social	How do I talk to people?	1.0	Vague request for communication advice, lacking context.
+Sports	Who won the 2023 FIFA World Cup?	0.0	Specific event outcome
+Sports	What are the rules of basketball?	0.0	Understand the regulations of a sport
+Sports	Where is the next Summer Olympics being held?	0.0	Location of a future sporting event
+Sports	How can I improve my running speed?	0.0	Seeking advice for athletic performance
+Sports	What is the history of the Tour de France?	0.0	Learn about the origins and evolution of a sport
+Sports	Tell me about sports.	1.0	General information about sports
+Sports	What's a good sport to watch?	1.0	Seeking entertainment options within sports
+Sports	What sports are popular?	1.0	General question about sport popularity
+Sports	How do I get better at exercise?	1.0	Vague request for fitness improvement
+Sports	What's a famous sporting event?	1.0	Seeking information about a well-known event, unspecified
+Stress	What are the physical symptoms of chronic stress?	0.0	Identify physical manifestations of long-term stress.
+Stress	What are effective coping mechanisms for work-related stress?	0.0	Find strategies to manage stress specifically from work.
+Stress	Can stress cause digestive problems?	0.0	Determine if stress has a physiological impact on digestion.
+Stress	What is the role of cortisol in the stress response?	0.0	Understand the biological mechanisms of stress.
+Stress	What are some relaxation techniques for reducing stress?	0.0	Discover methods for actively lowering stress levels.
+Stress	I’m feeling overwhelmed	1.0	Expressing a feeling of stress without specifying the cause or desired help.
+Stress	How do I deal with things?	1.0	Vague request for help with unspecified problems, potentially stress-related.
+Stress	Is stress bad for you?	1.0	General inquiry about the negative effects of stress, lacking specificity.
+Stress	What happens when you’re stressed?	1.0	Broad question about the effects of stress, lacking detail.
+Stress	I need to calm down	1.0	Expressing a need for relaxation without specifying the cause or desired method.
+Sustainability	What are the most sustainable materials for packaging?	0.0	Material selection for eco-friendly packaging.
+Sustainability	What is the carbon footprint of fast fashion?	0.0	Understand the environmental impact of fast fashion.
+Sustainability	Where can I find certified sustainable seafood?	0.0	Locate sources of sustainable seafood.
+Sustainability	How do supply chain practices impact sustainability?	0.0	Understand the link between supply chains and sustainability.
+Sustainability	What are the UN Sustainable Development Goals?	0.0	Learn about the UN's sustainability framework.
+Sustainability	How can I be more green?	1.0	General inquiry about sustainable living.
+Sustainability	Is sustainability important?	1.0	Seeking validation of sustainability's importance.
+Sustainability	Where can I buy ethical products?	1.0	Looking for ethical products, but lacks specificity.
+Sustainability	What's a sustainable lifestyle?	1.0	Broad question about sustainable living.
+Sustainability	What are the global goals?	1.0	Vague inquiry about global objectives.
+Technology	How do I set up two-factor authentication on my Google account?	0.0	Security setup
+Technology	What are the best noise-cancelling headphones under $200?	0.0	Product recommendation
+Technology	What are the latest advancements in artificial intelligence?	0.0	Staying updated on technology trends
+Technology	Explain the concept of blockchain in simple terms.	0.0	Understanding a technology concept
+Technology	Compare the iPhone 15 and Samsung Galaxy S23 cameras.	0.0	Product comparison
+Technology	How do I make my phone more secure?	1.0	General security concerns
+Technology	What headphones should I buy?	1.0	Seeking headphone advice
+Technology	What's new in tech?	1.0	Broad inquiry about technology updates
+Technology	What is all this blockchain stuff?	1.0	Vague inquiry about blockchain
+Technology	Which phone is better?	1.0	Unclear product comparison request
+Theater	What is the running time of Wicked at the Gershwin Theatre?	0.0	Show duration
+Theater	Where can I buy discounted Broadway tickets in New York City?	0.0	Ticket purchasing - discounts
+Theater	"Who wrote and originally performed ""Hamilton""?"	0.0	Playwright/Performer identification
+Theater	What are the Tony Award nominations for Best Musical in 2024?	0.0	Award nominations - specific category/year
+Theater	What is the history of the Globe Theatre?	0.0	Historical information - specific theater
+Theater	Tell me about plays.	1.0	General information about plays
+Theater	What's a good show?	1.0	Seeking show recommendations
+Theater	What's playing in London?	1.0	Shows in a location - vague
+Theater	Is there anything good on stage?	1.0	Seeking entertainment - vague
+Theater	What's theater about?	1.0	General question about theater
+Time	What time is it in London right now?	0.0	Current time in a specific location.
+Time	How far back in time does recorded history go?	0.0	Historical timeline depth.
+Time	What is the time difference between New York and Los Angeles?	0.0	Time zone calculation.
+Time	Set an alarm for 7:00 AM tomorrow morning	0.0	Request to schedule a future event.
+Time	What time will the sun rise tomorrow in Paris?	0.0	Sunrise time for a specific location.
+Time	What time is it?	1.0	Current time, location unspecified.
+Time	When did things start happening?	1.0	Vague inquiry about historical beginnings.
+Time	How does time work?	1.0	Broad question about the concept of time.
+Time	Remind me about something later	1.0	Request for a reminder, timing unspecified.
+Time	When will it be light again?	1.0	Inquiry about daylight, location and specific time unclear.
+Traditions	What are the origins of Día de los Muertos?	0.0	Understand the historical roots of a specific tradition.
+Traditions	How is Chinese New Year celebrated in modern times?	0.0	Learn about the current practices of a tradition.
+Traditions	What is the significance of a quinceañera?	0.0	Understand the meaning and importance of a tradition.
+Traditions	What are the traditional foods served at Thanksgiving?	0.0	Identify the culinary aspects of a tradition.
+Traditions	How have wedding traditions evolved over the last century?	0.0	Understand the historical changes within a tradition.
+Traditions	Tell me about traditions.	1.0	General inquiry about traditions, lacking a specific focus.
+Traditions	What do people do for holidays?	1.0	Vague inquiry about holiday practices, lacking specificity.
+Traditions	What are some celebrations?	1.0	Broad inquiry about celebrations, lacking a specific tradition.
+Traditions	What do people eat during celebrations?	1.0	Vague inquiry about food during celebrations, lacking a specific tradition.
+Traditions	How have things changed over time?	1.0	Vague inquiry about changes over time, lacking a specific tradition.
+Transportation	What is the fastest route from New York to Los Angeles by plane?	0.0	Route planning
+Transportation	What are the baggage restrictions for United Airlines?	0.0	Airline specific policy
+Transportation	Where can I find bus schedules for Chicago?	0.0	Public transportation schedule
+Transportation	How much does a taxi cost from Heathrow to central London?	0.0	Cost estimation for a specific route
+Transportation	Are there any train delays on the Amtrak Northeast Corridor?	0.0	Real-time service disruption information
+Transportation	How do I get around?	1.0	General transportation options
+Transportation	How can I travel?	1.0	Vague travel inquiry
+Transportation	What's the best way to travel?	1.0	Seeking travel advice, unspecified criteria
+Transportation	How much to get there?	1.0	Cost inquiry, destination unspecified
+Transportation	Is there traffic?	1.0	General traffic inquiry, location unspecified
+Traveling	What is the cheapest flight from New York to London on December 24th?	0.0	Find affordable flights for a specific date and route.
+Traveling	What are the best hotels in Paris near the Eiffel Tower?	0.0	Find highly-rated hotels in a specific location.
+Traveling	What documents do I need to travel to Japan from the US?	0.0	Determine required travel documentation for a specific route.
+Traveling	How do I get from Heathrow Airport to central London?	0.0	Find transportation options from a specific airport to a city center.
+Traveling	What is the baggage allowance on British Airways?	0.0	Find specific information about airline baggage policies.
+Traveling	How much does it cost to get away?	1.0	Vague inquiry about travel expenses.
+Traveling	Where should I go?	1.0	Broad request for travel destination suggestions.
+Traveling	What do I need for a trip?	1.0	Unclear request for travel preparation information.
+Traveling	How do I get around?	1.0	Vague request for transportation information.
+Traveling	What about luggage?	1.0	Unclear inquiry about luggage related to travel.
+Volunteering	Where can I find volunteer opportunities near me that involve working with animals?	0.0	Find local animal-related volunteer work.
+Volunteering	What are the benefits of volunteering for my career?	0.0	Understand the career advantages of volunteering.
+Volunteering	How do I become a volunteer at the local food bank?	0.0	Learn the process of volunteering at a specific organization.
+Volunteering	What skills can I gain from volunteering in a hospital?	0.0	Understand skill development through hospital volunteering.
+Volunteering	Are there volunteer opportunities for students during summer break?	0.0	Find summer volunteer opportunities for students.
+Volunteering	I want to help	1.0	General desire to volunteer, lacking specifics.
+Volunteering	Is volunteering good for you?	1.0	Vague inquiry about the benefits of volunteering.
+Volunteering	Can I help out somewhere?	1.0	General desire to volunteer, lacking specifics.
+Volunteering	What can I do to give back?	1.0	General desire to help, lacking specifics.
+Volunteering	I have some free time	1.0	Indicates available time, but no specific volunteering intent.
+Walking	How far is a typical walking distance for good health?	0.0	Health and fitness benefits
+Walking	What are the best walking shoes for concrete?	0.0	Product recommendation for a specific surface
+Walking	Where are good walking trails near me?	0.0	Locate nearby walking trails
+Walking	How many calories does a 30-minute walk burn?	0.0	Calculate calorie expenditure
+Walking	What is the proper walking technique to avoid injury?	0.0	Learn correct walking form
+Walking	I want to go for a walk	1.0	General desire to walk, no specific goal
+Walking	Let's go walking	1.0	Vague expression of interest in walking
+Walking	I feel like getting some exercise	1.0	General desire for exercise, could be anything
+Walking	I need to move my body	1.0	Vague need for physical activity
+Walking	I should probably do something today	1.0	Unclear intention, could include walking
+Weather	What is the temperature in London right now?	0.0	Current temperature
+Weather	Will it rain in Paris tomorrow morning?	0.0	Future precipitation forecast
+Weather	What is the wind speed in Chicago?	0.0	Specific weather condition
+Weather	What is the humidity in Miami today?	0.0	Specific weather condition
+Weather	What is the UV index in Sydney?	0.0	Specific weather condition
+Weather	What’s the weather like?	1.0	General weather information
+Weather	Is it cold outside?	1.0	General temperature inquiry
+Weather	What about the wind?	1.0	Vague weather condition inquiry
+Weather	How’s the air?	1.0	Vague air quality/weather inquiry
+Weather	What’s it like today?	1.0	General weather inquiry
+Work	How do I write a resume for a software engineer position?	0.0	Resume writing guidance for a specific role.
+Work	What are the highest paying jobs in the tech industry?	0.0	Salary information for tech jobs.
+Work	How do I prepare for a job interview at Google?	0.0	Interview preparation for a specific company.
+Work	What are the labor laws in California regarding overtime pay?	0.0	Specific legal information about overtime.
+Work	Can I be fired for poor performance in my role?	0.0	Understanding termination conditions based on performance.
+Work	What should I put on a resume?	1.0	General resume advice, lacking specific context.
+Work	What jobs pay well?	1.0	Seeking high-paying jobs, unspecified industry.
+Work	How do I get a job?	1.0	General job seeking advice, lacking specifics.
+Work	What are my rights as an employee?	1.0	General employee rights, unspecified location or context.
+Work	Can I get in trouble at work?	1.0	Vague inquiry about potential workplace issues.
+Workspace	How do I book a meeting room in our office?	0.0	Book a meeting space.
+Workspace	What is the policy on working from home?	0.0	Understand the remote work policy.
+Workspace	How do I report a broken chair in the office?	0.0	Report a maintenance issue.
+Workspace	What are the available office supplies?	0.0	Find out about available resources.
+Workspace	How do I request a new monitor?	0.0	Request equipment.
+Workspace	Where can I find a quiet place to work?	1.0	Find a suitable workspace, but the criteria are unclear.
+Workspace	Can I work somewhere else?	1.0	Inquire about workspace flexibility, but lacks specifics.
+Workspace	Is anything broken?	1.0	General inquiry about workspace condition, lacking detail.
+Workspace	What do we have?	1.0	Vague inquiry about available resources.
+Workspace	Can I get something for my desk?	1.0	Request for desk items, lacking specifics.
+Writing	How to write a compelling introduction for a novel?	0.0	Seeking guidance on novel introductions.
+Writing	What are the key elements of a sonnet?	0.0	Understanding the structure of sonnets.
+Writing	Give me examples of strong character development in fiction.	0.0	Seeking examples of character development.
+Writing	What are the best online courses for learning screenplay writing?	0.0	Finding resources for screenplay learning.
+Writing	Explain the difference between active and passive voice.	0.0	Understanding grammatical concepts in writing.
+Writing	Tell me about writing.	1.0	General inquiry about writing with unclear focus.
+Writing	What is poetry?	1.0	Broad question about poetry, lacking specific focus.
+Writing	How do you make people like your stories?	1.0	Vague question about story appeal.
+Writing	Can you help me with a story?	1.0	Unclear request for story assistance.
+Writing	How do I write better?	1.0	General request for writing improvement with no specifics.

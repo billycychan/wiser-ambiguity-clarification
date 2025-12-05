@@ -1,0 +1,28 @@
+Model: Phi-3
+Dataset: clariq
+Timestamp: 20251201_202027
+Prompt Type: few_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=128, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.2206    0.4054    0.2857        37
+    Ambiguous     0.9048    0.7977    0.8479       262
+
+     accuracy                         0.7492       299
+    macro avg     0.5627    0.6016    0.5668       299
+ weighted avg     0.8201    0.7492    0.7783       299
+
+
+Accuracy: 0.7492
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.8201
+Weighted Recall:    0.7492
+Weighted F1-Score:  0.7783
+
+Inference Time Stats:
+Min: 0.0013s
+Max: 0.0018s
+Mean: 0.0014s
