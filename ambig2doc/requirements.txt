@@ -1,0 +1,21 @@
+# PyTorch with CUDA support
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+
+# vLLM for optimized inference
+# Note: vLLM will automatically install transformers, huggingface-hub, 
+# tokenizers, safetensors and other dependencies as needed
+vllm>=0.6.0
+
+# Critical dependencies (fixes for import errors)
+brotlicffi==1.2.0.0
+gmpy2==2.2.1
+
+# Essential utilities
+psutil==7.1.3
+pyyaml==6.0.3
+numpy==2.3.3
+
+# Note: For CUDA 12.1 support, install PyTorch with:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
