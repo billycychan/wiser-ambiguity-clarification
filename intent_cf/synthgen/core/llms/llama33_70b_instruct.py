@@ -13,6 +13,19 @@ from prompt import get_user_prompt, SYSTEM_PROMPT
 from topics import topics
 
 
+def create_llm():
+    """Create and return a vLLM LLM instance for Llama-3.3-70B."""
+    llm = LLM(
+        model="nvidia/Llama-3.3-70B-Instruct-FP8",
+        tensor_parallel_size=4,  # Use 4 GPUs for 70B model
+        gpu_memory_utilization=0.5,
+        dtype="auto",
+        trust_remote_code=True,
+        enforce_eager=True,  # Disable CUDA graphs to avoid initialization issues
+    )
+    return llm
+
+
 def build_prompt(tokenizer, topic: str) -> str:
     """Build prompt for synthetic query generation."""
     messages = [

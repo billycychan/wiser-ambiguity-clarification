@@ -3,6 +3,7 @@ Synthetic query generation using Llama-3.1-8B with vLLM.
 
 Migrated from transformers to vLLM for improved performance.
 """
+
 from vllm import LLM, SamplingParams
 import os
 from tqdm import tqdm
@@ -10,6 +11,18 @@ from datetime import datetime
 
 from prompt import get_user_prompt, SYSTEM_PROMPT
 from topics import topics
+
+
+def create_llm():
+    """Create and return a vLLM LLM instance for Llama-3.1-8B."""
+    llm = LLM(
+        model="meta-llama/Llama-3.1-8B-Instruct",
+        tensor_parallel_size=1,
+        gpu_memory_utilization=0.5,
+        dtype="auto",
+        trust_remote_code=True,
+    )
+    return llm
 
 
 def build_prompt(tokenizer, topic: str) -> str:
@@ -63,7 +76,7 @@ def main():
 
             # Generate response using vLLM
             outputs = llm.generate([prompt], sampling_params)
-            
+
             # Extract generated text
             response = outputs[0].outputs[0].text
 

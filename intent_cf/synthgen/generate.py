@@ -6,20 +6,14 @@ import argparse
 import re
 import os
 import sys
-import time
 from datetime import datetime
 from tqdm import tqdm
 from vllm import SamplingParams
 
-# Add project root to path to access llm_direct_evaluation
-project_root = os.path.join(os.path.dirname(__file__), "..", "..")
-sys.path.insert(0, project_root)
-
-# Import model modules from llm_direct_evaluation
-from llm_direct_evaluation.core.llms import phi3_mini_128_4b_instruct as phi3
-from llm_direct_evaluation.core.llms import llama31_8b_instruct as llama31_8b
-from llm_direct_evaluation.core.llms import llama33_70b_instruct_fp8 as llama33_70b
-from llm_direct_evaluation.core.llms import gemma_3_27b_it as gemma27b
+# Import model modules from local core.llms
+from core.llms import llama33_70b_instruct_fp8 as llama31_8b
+from core.llms import llama33_70b_instruct as llama33_70b
+from core.llms import gemma_3_27b_it as gemma27b
 
 # Import synthgen components
 from prompt import get_user_prompt, SYSTEM_PROMPT
@@ -27,7 +21,6 @@ from topics import topics
 
 # Model registry - maps model names to their modules
 model_modules = {
-    "Phi-3": phi3,
     "Llama-3.1-8B": llama31_8b,
     "Llama-3.3-70B": llama33_70b,
     "Gemma-3-27B": gemma27b,
@@ -35,7 +28,7 @@ model_modules = {
 
 
 def build_prompt(tokenizer, topic: str) -> str:
-    """Builtic query generation."""
+    """Build prompt for synthetic query generation."""
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": get_user_prompt(topic)},
