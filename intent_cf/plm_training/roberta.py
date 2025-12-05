@@ -26,15 +26,12 @@ from torch.optim import AdamW
 import logging
 import os
 import time
+import argparse
 from datetime import datetime
 
 # ============================================================================
 # DATASET CONFIGURATION
 # ============================================================================
-# Switch between datasets by changing the DATASET_NAME value
-# Options: 'llama31_8b' or 'gemma-3-27b' or 'llama3.3-70B'
-DATASET_NAME = "gpt-4-1-nano"  # Change this to switch datasets
-
 # Updated paths to use relative path from intent_cf/plm_training/
 DATA_DIR = "../../data"
 DATASET_PATHS = {
@@ -46,7 +43,8 @@ DATASET_PATHS = {
     "gpt-4-1-nano": f"{DATA_DIR}/gpt_4_1_nano_balanced_strict.tsv",
 }
 
-# Get the selected dataset path
+# Default dataset (can be overridden via command-line argument)
+DATASET_NAME = "llama31_8b"
 TRAIN_DATA_PATH = DATASET_PATHS[DATASET_NAME]
 # ============================================================================
 
@@ -182,6 +180,27 @@ class WeightedLossTrainer(Trainer):
 
 
 def main():
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(
+        description="Train RoBERTa on synthetic query dataset"
+    )
+    parser.add_argument(
+        "--dataset",
+        type=str,
+        choices=list(DATASET_PATHS.keys()),
+        default="llama31_8b",
+        help="Dataset to train on",
+    )
+    args = parser.parse_args()
+
+    # Set dataset based on argument
+    global DATASET_NAME, TRAIN_DATA_PATH
+    DATASET_NAME = args.dataset
+    TRAIN_DATA_PATH = DATASET_PATHS[DATASET_NAME]
+
+    print(f"Training RoBERTa on dataset: {DATASET_NAME}")
+    print(f"Dataset path: {TRAIN_DATA_PATH}")
+
     # Generate timestamp for filenames
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 

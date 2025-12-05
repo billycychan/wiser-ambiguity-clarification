@@ -20,9 +20,12 @@ from datetime import datetime
 # ============================================================================
 OUTPUT_PREFIX = "roberta-baseline-zeroshot"  # Zero-shot baseline name for output
 
-# Dataset paths
-CLARIQ_DATA_PATH = "/nfs/u40/chanc187/source/wiser_ambiguity_clarification/data/clariq_preprocessed.tsv"
-AMBIGNQ_DATA_PATH = "/nfs/u40/chanc187/source/wiser_ambiguity_clarification/data/ambignq_preprocessed.tsv"
+# Dataset paths (relative to project root)
+PROJECT_ROOT = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "..", "..")
+)
+CLARIQ_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "clariq_preprocessed.tsv")
+AMBIGNQ_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "ambignq_preprocessed.tsv")
 
 # Output directory
 OUTPUT_DIR = "./logs/roberta"
