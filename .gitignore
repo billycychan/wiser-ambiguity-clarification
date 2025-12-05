@@ -56,7 +56,6 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -214,8 +213,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-logs/
 
 # NFS lock files (temporary files created by Network File System)
 .nfs*

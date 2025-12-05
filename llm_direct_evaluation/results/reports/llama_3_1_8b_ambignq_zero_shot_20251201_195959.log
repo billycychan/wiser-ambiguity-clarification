@@ -1,0 +1,28 @@
+Model: Llama-3.1-8B
+Dataset: ambignq
+Timestamp: 20251201_195959
+Prompt Type: zero_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=64, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.4315    0.3494    0.3862       830
+    Ambiguous     0.5940    0.6741    0.6315      1172
+
+     accuracy                         0.5395      2002
+    macro avg     0.5128    0.5117    0.5088      2002
+ weighted avg     0.5266    0.5395    0.5298      2002
+
+
+Accuracy: 0.5395
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.5266
+Weighted Recall:    0.5395
+Weighted F1-Score:  0.5298
+
+Inference Time Stats:
+Min: 0.0016s
+Max: 0.0030s
+Mean: 0.0017s

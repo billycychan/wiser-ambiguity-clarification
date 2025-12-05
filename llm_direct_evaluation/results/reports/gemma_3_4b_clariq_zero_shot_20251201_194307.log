@@ -1,0 +1,28 @@
+Model: Gemma-3-4B
+Dataset: clariq
+Timestamp: 20251201_194307
+Prompt Type: zero_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=128, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.0000    0.0000    0.0000        37
+    Ambiguous     0.8763    1.0000    0.9340       262
+
+     accuracy                         0.8763       299
+    macro avg     0.4381    0.5000    0.4670       299
+ weighted avg     0.7678    0.8763    0.8185       299
+
+
+Accuracy: 0.8763
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.7678
+Weighted Recall:    0.8763
+Weighted F1-Score:  0.8185
+
+Inference Time Stats:
+Min: 0.0009s
+Max: 0.0023s
+Mean: 0.0011s

@@ -1,0 +1,28 @@
+Model: Llama-3.2-1B
+Dataset: clariq
+Timestamp: 20251201_200420
+Prompt Type: zero_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=128, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.1165    0.3243    0.1714        37
+    Ambiguous     0.8724    0.6527    0.7467       262
+
+     accuracy                         0.6120       299
+    macro avg     0.4945    0.4885    0.4591       299
+ weighted avg     0.7789    0.6120    0.6755       299
+
+
+Accuracy: 0.6120
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.7789
+Weighted Recall:    0.6120
+Weighted F1-Score:  0.6755
+
+Inference Time Stats:
+Min: 0.0005s
+Max: 0.0011s
+Mean: 0.0008s

@@ -1,0 +1,28 @@
+Model: Gemma-3-1B
+Dataset: ambignq
+Timestamp: 20251201_194036
+Prompt Type: zero_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=128, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.5000    0.0024    0.0048       830
+    Ambiguous     0.5856    0.9983    0.7382      1172
+
+     accuracy                         0.5854      2002
+    macro avg     0.5428    0.5004    0.3715      2002
+ weighted avg     0.5501    0.5854    0.4341      2002
+
+
+Accuracy: 0.5854
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.5501
+Weighted Recall:    0.5854
+Weighted F1-Score:  0.4341
+
+Inference Time Stats:
+Min: 0.0005s
+Max: 0.0008s
+Mean: 0.0006s

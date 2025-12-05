@@ -1,0 +1,28 @@
+Model: Gemma-3-27B
+Dataset: clariq
+Timestamp: 20251201_195302
+Prompt Type: few_shot
+Parameters: max_new_tokens=10, temperature=0.0, do_sample=False, batch_size=32, seed=42
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.2130    0.6216    0.3172        37
+    Ambiguous     0.9267    0.6756    0.7815       262
+
+     accuracy                         0.6689       299
+    macro avg     0.5698    0.6486    0.5493       299
+ weighted avg     0.8384    0.6689    0.7240       299
+
+
+Accuracy: 0.6689
+
+--- Weighted Metrics (for imbalanced dataset) ---
+Weighted Precision: 0.8384
+Weighted Recall:    0.6689
+Weighted F1-Score:  0.7240
+
+Inference Time Stats:
+Min: 0.0065s
+Max: 0.0107s
+Mean: 0.0073s

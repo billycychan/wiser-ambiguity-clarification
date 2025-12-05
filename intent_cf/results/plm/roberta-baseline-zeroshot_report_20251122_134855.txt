@@ -1,0 +1,32 @@
+Zero-shot RoBERTa baseline report created at 20251122_134855
+
+Classification Report for ClariQ:
+               precision    recall  f1-score   support
+
+not ambiguous       0.12      0.97      0.22        37
+    ambiguous       0.80      0.02      0.03       262
+
+     accuracy                           0.13       299
+    macro avg       0.46      0.49      0.12       299
+ weighted avg       0.72      0.13      0.05       299
+
+Accuracy: 0.13377926421404682
+F1: 0.05317232653678148
+Precision: 0.7161558937956454
+Recall: 0.13377926421404682
+
+Classification Report for AmbigNQ:
+               precision    recall  f1-score   support
+
+not ambiguous       0.41      1.00      0.59       830
+    ambiguous       0.00      0.00      0.00      1172
+
+     accuracy                           0.41      2002
+    macro avg       0.21      0.50      0.29      2002
+ weighted avg       0.17      0.41      0.24      2002
+
+Accuracy: 0.4145854145854146
+F1: 0.24301263708043366
+Precision: 0.1718810659869601
+Recall: 0.4145854145854146
+

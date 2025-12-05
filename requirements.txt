@@ -1,4 +1,4 @@
-transformers
+vllm
 pandas
 scikit-learn
 torch
@@ -6,3 +6,4 @@ tqdm
 openai
 requests
 python-dotenv
+tabulate

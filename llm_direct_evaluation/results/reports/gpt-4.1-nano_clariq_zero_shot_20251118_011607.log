@@ -1,0 +1,21 @@
+Model: gpt-4.1-nano
+Dataset: Clariq
+Timestamp: 20251118_011607
+Prompt Type: zero_shot
+Parameters: max_new_tokens=5, temperature=0.0, do_sample=False, batch_size=32, seed=0
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Not Ambiguous     0.1615    0.5676    0.2515        37
+    Ambiguous     0.9053    0.5840    0.7100       262
+
+     accuracy                         0.5819       299
+    macro avg     0.5334    0.5758    0.4807       299
+ weighted avg     0.8133    0.5819    0.6532       299
+
+
+Accuracy: 0.5819
+
+Inference Time Stats:
+(Timing stats not available)
